@@ -1,31 +1,31 @@
-                Ställningen 9/12 2014
+                Ställningen 16/12 2014
                 
                  1 rexe    Olof R        48         
-                 2 sjomik  Mikael S      45
- 		 3 wlar    Lars W        43      
-  	       	 4 ikan    Ingvar K      42        
-		 5 lmju    Mats L        41
-		 5 rox     Roger R       41       
-                 7 nubu    Nuri E        39         		
-                 8 kasm    Björn K       36         
-		 8 pegu    Peder G       36     		
-		10 ajnn    Anders J      35         
-		10 meho    Mikael M      35 
+                 2 sjomik  Mikael S      46
+ 		 3 wlar    Lars W        44      
+  	       	 4 ikan    Ingvar K      43        
+		 5 lmju    Mats L        42
+		 5 rox     Roger R       42       
+                 7 nubu    Nuri E        40         		
+                 8 kasm    Björn K       37         
+		 9 ajnn    Anders J      36         
+		 9 meho    Mikael M      36
+		 9 pegu    Peder G       36     		
 	        12 berk    Björn E       32                 
 		13 magn    Mats G        31     
- 		14 nikogr  Niklas Ö      29              
-		15 hakm    Håkan M       28
+ 		14 nikogr  Niklas Ö      30              
+		15 hakm    Håkan M       29
+		16 ggan    Göte A        27    
+		16 jkan    Håkan J       27       
                 16 tkul    Tommy K       27   
-		17 ggan    Göte A        26    
-		17 jkan    Håkan J       26       
-                19 nicl    Niclas S      19       
-		20 petjoh  Peter J       18 
-                20 stg     Stefan G      18  
+                19 nicl    Niclas S      20       
+                20 stg     Stefan G      19  
+		21 petjoh  Peter J       18 
 		22 iop     Inge P        17      
 		23 hano    Hans N        15     
                 24 emived  Emil V        13 
                 25 milnil  Nils Erik M    8
-                25 shab    Samuel H       6  
+                26 shab    Samuel H       6  
                 27 alabdi  Alireza A      5
 		27 jlm     Jonas L        5
 		29 danger  Daniel G       4
@@ -61,6 +61,7 @@
                 44 rafodz  Rafael O	  0     
                 44 thomll  Thomas M       0
 
+Tisdag 16/12: ajnn,ggan,hakm,ikan,jkan,kasm,lmju,meho,nicl,nikogr,nubu,rox,sjomik,stg,wlar. Ursvik 5, 2X5km, akalla 15st
 Tisdag 9/12: alejov,ggan,hakm,ikan,jkan,kasm,lmju,magn,meho,milnil,nubu,pegu,rexe,rox,sjomik,stg,wlar. 
              Ursvik 5, 2X5km 17st 
 Tisdag 2/12: ajnn,berk,ggan,hakm,ikan,jesp,jkan,kasm,lmju,magn,meho,milnil,nikogr,nubu,pegu,rexe,rox,sjomik,wlar.
