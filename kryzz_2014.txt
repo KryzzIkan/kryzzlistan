@@ -1,19 +1,19 @@
-                Ställningen 18/12 2014
+                Slutställningen 23/12 2014
                 
                  1 rexe    Olof R        49         
                  2 sjomik  Mikael S      47
  		 3 wlar    Lars W        45      
   	       	 4 ikan    Ingvar K      44        
+		 5 lmju    Mats L        43
 		 5 rox     Roger R       43       
-		 6 lmju    Mats L        42
                  7 nubu    Nuri E        40         		
                  8 kasm    Björn K       38         
-		 9 meho    Mikael M      37
+		 8 meho    Mikael M      38
 		 9 pegu    Peder G       37     		
 		11 ajnn    Anders J      36         
-	        12 berk    Björn E       32                 
-		12 magn    Mats G        32     
- 		14 nikogr  Niklas Ö      31              
+		12 magn    Mats G        33     
+	        13 berk    Björn E       32                 
+ 		13 nikogr  Niklas Ö      32              
 		15 hakm    Håkan M       29
 		16 ggan    Göte A        28    
 		16 jkan    Håkan J       28       
@@ -38,11 +38,11 @@
                 33 kale    Alexander K    2
                 37 cutg    Chau T         1
                 37 jesp    Jesper C       1
-                37 kolrun  Johanna R      1?
+                37 kolrun  Johanna R      1
                 37 mago    Martin G       1
                 37 stmn    Stefan M       1   
-                37 stwa    Stefan W       1? 
-               	37 tors    Henrik T       1?
+                37 stwa    Stefan W       1 
+               	37 tors    Henrik T       1
 		44 ahli    Jan D          0     
                 44 akja    Åke J          0
                 44 derb    Bosse F        0
@@ -61,6 +61,7 @@
                 44 rafodz  Rafael O	  0     
                 44 thomll  Thomas M       0
 
+Tisdag 23/12: lmju,magn,meho,nikogr. Ursvik 5 4st
 Torsdag 18/12: emived,ggan,ikan,jkan,kasm,magn,meho,nicl,nikogr,pegu,rexe,rox,sjomik,tkul,wlar.(ajnn sen ankopmst) Akalla 15st. 
                Julbord Olearys(jlm,kkst)
 Tisdag 16/12: ajnn,ggan,hakm,ikan,jkan,kasm,lmju,meho,nicl,nikogr,nubu,rox,sjomik,stg,wlar. Ursvik 5, 2X5km, akalla 15st
