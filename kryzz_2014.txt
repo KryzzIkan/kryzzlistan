@@ -1,8 +1,8 @@
-                Slutställningen 23/12 2014
+                Slutställningen 30/12 2014
                 
                  1 rexe    Olof R        49         
                  2 sjomik  Mikael S      47
- 		 3 wlar    Lars W        45      
+ 		 3 wlar    Lars W        46
   	       	 4 ikan    Ingvar K      44        
 		 5 lmju    Mats L        43
 		 5 rox     Roger R       43       
@@ -11,7 +11,7 @@
 		 8 meho    Mikael M      38
 		 9 pegu    Peder G       37     		
 		11 ajnn    Anders J      36         
-		12 magn    Mats G        33     
+		12 magn    Mats G        34
 	        13 berk    Björn E       32                 
  		13 nikogr  Niklas Ö      32              
 		15 hakm    Håkan M       29
@@ -61,6 +61,7 @@
                 44 rafodz  Rafael O	  0     
                 44 thomll  Thomas M       0
 
+Tisdag 30/12: magn,wlar. Akalla 2st
 Tisdag 23/12: lmju,magn,meho,nikogr. Ursvik 5 4st
 Torsdag 18/12: emived,ggan,ikan,jkan,kasm,magn,meho,nicl,nikogr,pegu,rexe,rox,sjomik,tkul,wlar.(ajnn sen ankopmst) Akalla 15st. 
                Julbord Olearys(jlm,kkst)
