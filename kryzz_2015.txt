@@ -1,0 +1,47 @@
+                Ställningen 30/1 2015
+                
+		 1 ajnn    Anders J       1         
+	         1 berk    Björn E        1                 
+		 1 hakm    Håkan M        1
+		 1 henpeh  Henrik P       1
+  	       	 1 ikan    Ingvar K       1        
+		 1 jkan    Håkan J        1       
+                 1 jesp    Jesper C       1
+                 1 kasm    Björn K        1         
+		 1 lmju    Mats L         1
+		 1 magn    Mats G         1
+		 1 meho    Mikael M       1
+ 		 1 nikogr  Niklas Ö       1              
+                 1 nubu    Nuri E         1         		
+                 1 rexe    Olof R         1         
+		 1 rox     Roger R        1       
+                 1 sjomik  Mikael S       1
+                 1 stg     Stefan G       1  
+ 		 1 wlar    Lars W         1
+                19 alabdi  Alireza A      0
+		19 alejo   Aleksandar J   0
+                19 cutg    Chau T         0
+		19 danger  Daniel G       0
+                19 emived  Emil V         0 
+                19 fredso  Fredrik S      0
+		19 jannas  Jan N	  0  
+		19 ggan    Göte A         0    
+		19 hano    Hans N         0     
+		19 iop     Inge P         0      
+		19 jlm     Jonas L        0
+                19 kale    Alexander K    0
+                19 kkst    Ina S          0 
+                19 kolrun  Johanna R      0
+                19 mago    Martin G       0
+                19 milnil  Nils Erik M    0
+                19 nicl    Niclas S       0       
+		19 pegu    Peder G        0     		
+		19 petjoh  Peter J        0 
+		19 pyan    Pablo Y	  0                  
+                19 shab    Samuel H       0  
+                19 stmn    Stefan M       0   
+                19 stwa    Stefan W       0 
+                19 tkul    Tommy K        0   
+               	19 tors    Henrik T       0
+
+Tisdag 13/1: ajnn,berk,hakm,henpeh,ikan,jesp,jkan,kasm,lmju,magn,meho,nikogr,nubu,rexe,rox,sjomik,stg,wlar. Akalla isigt 18st
