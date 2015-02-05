@@ -1,49 +1,52 @@
-                Ställningen 27/1 2015
+                Ställningen 3/2 2015
                 
-		 1 hakm    Håkan M        3
-		 1 jkan    Håkan J        3       
-                 1 jesp    Jesper C       3
-                 1 kasm    Björn K        3
-		 1 lmju    Mats L         3
-		 1 magn    Mats G         3
-		 1 meho    Mikael M       3
- 		 1 nikogr  Niklas Ö       3             
-                 1 nubu    Nuri E         3        		
-                 1 rexe    Olof R         3         
-		 1 rox     Roger R        3       
-                 1 sjomik  Mikael S       3
- 		 1 wlar    Lars W         3
-		14 ajnn    Anders J       2         
-	        14 berk    Björn E        2                 
-		14 ggan    Göte A         2    
-		14 hano    Hans N         2     
-		14 ikan    Ingvar K       2    
-                14 stg     Stefan G       2 
-                14 tkul    Tommy K        2  
-		21 henpeh  Henrik P       1
-                21 kjhe    Kjell H        1         
-                23 alabdi  Alireza A      0
-		23 alejo   Aleksandar J   0
-                23 cutg    Chau T         0
-		23 danger  Daniel G       0
-                23 emived  Emil V         0 
-                23 fredso  Fredrik S      0
-		23 jannas  Jan N	  0  
-		23 iop     Inge P         0      
-		23 jlm     Jonas L        0
-                23 kale    Alexander K    0
-                23 kkst    Ina S          0 
-                23 kolrun  Johanna R      0
-                23 mago    Martin G       0
-                23 milnil  Nils Erik M    0
-                23 nicl    Niclas S       0       
-		23 pegu    Peder G        0     		
-		23 petjoh  Peter J        0 
-		23 pyan    Pablo Y	  0                  
-                23 shab    Samuel H       0  
-                23 stmn    Stefan M       0   
-                23 stwa    Stefan W       0 
-               	23 tors    Henrik T       0
+		 1 hakm    Håkan M        4
+		 1 jkan    Håkan J        4       
+                 1 jesp    Jesper C       4
+                 1 kasm    Björn K        4
+		 1 magn    Mats G         4
+		 1 meho    Mikael M       4
+ 		 1 nikogr  Niklas Ö       4             
+                 1 nubu    Nuri E         4        		
+                 1 rexe    Olof R         4         
+		 1 rox     Roger R        4       
+                 1 sjomik  Mikael S       4
+ 		 1 wlar    Lars W         4
+		13 ajnn    Anders J       3         
+	        13 berk    Björn E        3                 
+		13 ggan    Göte A         3    
+		13 hano    Hans N         3     
+		13 ikan    Ingvar K       3    
+		13 lmju    Mats L         3
+                13 tkul    Tommy K        3  
+                20 kjhe    Kjell H        2         
+                20 stg     Stefan G       2 
+		22 henpeh  Henrik P       1
+                22 nicl    Niclas S       1       
+                24 alabdi  Alireza A      0
+		24 alejo   Aleksandar J   0
+                24 cutg    Chau T         0
+		24 danger  Daniel G       0
+                24 emived  Emil V         0 
+                24 fredso  Fredrik S      0
+		24 jannas  Jan N	  0  
+		24 iop     Inge P         0      
+		24 jlm     Jonas L        0
+                24 kale    Alexander K    0
+                24 kkst    Ina S          0 
+                24 kolrun  Johanna R      0
+                24 mago    Martin G       0
+                24 milnil  Nils Erik M    0
+		24 pegu    Peder G        0     		
+		24 petjoh  Peter J        0 
+		24 pyan    Pablo Y	  0                  
+                24 shab    Samuel H       0  
+                24 stmn    Stefan M       0   
+                24 stwa    Stefan W       0 
+               	24 tors    Henrik T       0
+
+Tisdag 3/2: ajnn,berk,ggan,hakm,hano,ikan,jesp,jkan,kasm,kjhe,magn,meho,nicl,nikogr,nubu,rexe,rox,sjomik,tkul,wlar.
+            Akalla 20st
 
 Tisdag 27/1: ggan,hakm,hano,jesp,jkan,kasm,lmju,magn,meho,nikogr,nubu,rexe,rox,sjomik,tkul,wlar. Akalla 16st
 Tisdag 20/1: ajnn,berk,ggan,hakm,hano,ikan,jesp,jkan,kasm,kjhe,lmju,magn,meho,nikogr,nubu,rexe,rox,sjomik,stg,tkul,wlar. 
