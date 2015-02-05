@@ -1,27 +1,27 @@
-                Ställningen 20/1 2015
+                Ställningen 27/1 2015
                 
-		 1 ajnn    Anders J       2         
-	         1 berk    Björn E        2                 
-		 1 hakm    Håkan M        2
-  	       	 1 ikan    Ingvar K       2        
-		 1 jkan    Håkan J        2       
-                 1 jesp    Jesper C       2
-                 1 kasm    Björn K        2
-		 1 lmju    Mats L         2
-		 1 magn    Mats G         2
-		 1 meho    Mikael M       2
- 		 1 nikogr  Niklas Ö       2             
-                 1 nubu    Nuri E         2        		
-                 1 rexe    Olof R         2         
-		 1 rox     Roger R        2       
-                 1 sjomik  Mikael S       2
-                 1 stg     Stefan G       2 
- 		 1 wlar    Lars W         2
-		18 ggan    Göte A         1    
-		18 hano    Hans N         1     
-		18 henpeh  Henrik P       1
-                18 kjhe    Kjell H        1         
-                18 tkul    Tommy K        1  
+		 1 hakm    Håkan M        3
+		 1 jkan    Håkan J        3       
+                 1 jesp    Jesper C       3
+                 1 kasm    Björn K        3
+		 1 lmju    Mats L         3
+		 1 magn    Mats G         3
+		 1 meho    Mikael M       3
+ 		 1 nikogr  Niklas Ö       3             
+                 1 nubu    Nuri E         3        		
+                 1 rexe    Olof R         3         
+		 1 rox     Roger R        3       
+                 1 sjomik  Mikael S       3
+ 		 1 wlar    Lars W         3
+		14 ajnn    Anders J       2         
+	        14 berk    Björn E        2                 
+		14 ggan    Göte A         2    
+		14 hano    Hans N         2     
+		14 ikan    Ingvar K       2    
+                14 stg     Stefan G       2 
+                14 tkul    Tommy K        2  
+		21 henpeh  Henrik P       1
+                21 kjhe    Kjell H        1         
                 23 alabdi  Alireza A      0
 		23 alejo   Aleksandar J   0
                 23 cutg    Chau T         0
@@ -45,6 +45,7 @@
                 23 stwa    Stefan W       0 
                	23 tors    Henrik T       0
 
+Tisdag 27/1: ggan,hakm,hano,jesp,jkan,kasm,lmju,magn,meho,nikogr,nubu,rexe,rox,sjomik,tkul,wlar. Akalla 16st
 Tisdag 20/1: ajnn,berk,ggan,hakm,hano,ikan,jesp,jkan,kasm,kjhe,lmju,magn,meho,nikogr,nubu,rexe,rox,sjomik,stg,tkul,wlar. 
              Akalla 21st
 Tisdag 13/1: ajnn,berk,hakm,henpeh,ikan,jesp,jkan,kasm,lmju,magn,meho,nikogr,nubu,rexe,rox,sjomik,stg,wlar. 
