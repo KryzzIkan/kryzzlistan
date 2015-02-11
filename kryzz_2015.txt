@@ -1,50 +1,52 @@
-                Ställningen 3/2 2015
+                Ställningen 10/2 2015 w7
                 
-		 1 hakm    Håkan M        4
-		 1 jkan    Håkan J        4       
-                 1 jesp    Jesper C       4
-                 1 kasm    Björn K        4
-		 1 magn    Mats G         4
-		 1 meho    Mikael M       4
- 		 1 nikogr  Niklas Ö       4             
-                 1 nubu    Nuri E         4        		
-                 1 rexe    Olof R         4         
-		 1 rox     Roger R        4       
-                 1 sjomik  Mikael S       4
- 		 1 wlar    Lars W         4
-		13 ajnn    Anders J       3         
-	        13 berk    Björn E        3                 
-		13 ggan    Göte A         3    
-		13 hano    Hans N         3     
-		13 ikan    Ingvar K       3    
-		13 lmju    Mats L         3
-                13 tkul    Tommy K        3  
-                20 kjhe    Kjell H        2         
-                20 stg     Stefan G       2 
-		22 henpeh  Henrik P       1
-                22 nicl    Niclas S       1       
-                24 alabdi  Alireza A      0
-		24 alejo   Aleksandar J   0
-                24 cutg    Chau T         0
-		24 danger  Daniel G       0
-                24 emived  Emil V         0 
-                24 fredso  Fredrik S      0
-		24 jannas  Jan N	  0  
-		24 iop     Inge P         0      
-		24 jlm     Jonas L        0
-                24 kale    Alexander K    0
-                24 kkst    Ina S          0 
-                24 kolrun  Johanna R      0
-                24 mago    Martin G       0
-                24 milnil  Nils Erik M    0
-		24 pegu    Peder G        0     		
-		24 petjoh  Peter J        0 
-		24 pyan    Pablo Y	  0                  
-                24 shab    Samuel H       0  
-                24 stmn    Stefan M       0   
-                24 stwa    Stefan W       0 
-               	24 tors    Henrik T       0
+		 1 hakm    Håkan M        5
+		 1 jkan    Håkan J        5
+                 1 jesp    Jesper C       5
+                 1 kasm    Björn K        5
+		 1 magn    Mats G         5
+		 1 meho    Mikael M       5
+ 		 1 nikogr  Niklas Ö       5
+                 1 nubu    Nuri E         5
+                 1 rexe    Olof R         5
+		 1 rox     Roger R        5
+                 1 sjomik  Mikael S       5
+ 		 1 wlar    Lars W         5
+	        13 berk    Björn E        4
+		13 ggan    Göte A         4
+		13 hano    Hans N         4
+		13 ikan    Ingvar K       4
+		13 lmju    Mats L         4
+                13 tkul    Tommy K        4
+		19 ajnn    Anders J       3
+                20 kjhe    Kjell H        2
+                20 nicl    Niclas S       2
+                20 stg     Stefan G       2
+		23 henpeh  Henrik P       1
+                23 milnil  Nils Erik M    1
+		23 pegu    Peder G        1
+                26 alabdi  Alireza A      0
+		26 alejo   Aleksandar J   0
+                26 cutg    Chau T         0
+		26 danger  Daniel G       0
+                26 emived  Emil V         0
+                26 fredso  Fredrik S      0
+		26 jannas  Jan N	  0
+		26 iop     Inge P         0
+		26 jlm     Jonas L        0
+                26 kale    Alexander K    0
+                26 kkst    Ina S          0
+                26 kolrun  Johanna R      0
+                26 mago    Martin G       0
+		26 petjoh  Peter J        0
+		26 pyan    Pablo Y	  0
+                26 shab    Samuel H       0
+                26 stmn    Stefan M       0
+                26 stwa    Stefan W       0
+               	26 tors    Henrik T       0
 
+Tisdag 10/2: berk,ggan,hakm,hano,ikan,jesp,jkan,kasm,lmju,magn,meho,milnil,nicl,nikogr,nubu,pegu,rexe,rox,sjomik,tkul,wlar.
+             Akalla 21st
 Tisdag 3/2: ajnn,berk,ggan,hakm,hano,ikan,jesp,jkan,kasm,kjhe,magn,meho,nicl,nikogr,nubu,rexe,rox,sjomik,tkul,wlar.
             Akalla 20st
 
