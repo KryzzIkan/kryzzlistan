@@ -1,27 +1,27 @@
-                Ställningen 24/2 2015 w9
+                Ställningen 3/3 2015 w10
                 
+		 1 jkan    Håkan J        8
+ 		 1 nikogr  Niklas Ö       8
+                 1 nubu    Nuri E         8
+		 1 rox     Roger R        8
 		 1 hakm    Håkan M        7
-		 1 jkan    Håkan J        7
-		 1 meho    Mikael M       7
- 		 1 nikogr  Niklas Ö       7
-                 1 nubu    Nuri E         7
-                 1 rexe    Olof R         7
-		 1 rox     Roger R        7
-		 8 hano    Hans N         6
-                 8 jesp    Jesper C       6
-                 8 kasm    Björn K        6
-		 8 magn    Mats G         6
-	        12 berk    Björn E        5
-		12 ggan    Göte A         5
-		12 ikan    Ingvar K       5
-		12 lmju    Mats L         5
-                12 sjomik  Mikael S       5
- 		12 wlar    Lars W         5
-                18 tkul    Tommy K        4
-		19 ajnn    Anders J       3
-                19 nicl    Niclas S       3
-		19 pegu    Peder G        3
-                19 stg     Stefan G       3
+		 6 hano    Hans N         7
+                 6 jesp    Jesper C       7
+                 6 kasm    Björn K        7
+		 6 magn    Mats G         7
+		 6 meho    Mikael M       7
+                 6 rexe    Olof R         7
+	        12 berk    Björn E        6
+		12 ikan    Ingvar K       6
+		12 lmju    Mats L         6
+ 		12 wlar    Lars W         6
+		16 ggan    Göte A         5
+                16 sjomik  Mikael S       5
+                16 tkul    Tommy K        5
+		19 ajnn    Anders J       4
+                19 nicl    Niclas S       4
+		19 pegu    Peder G        4
+                19 stg     Stefan G       4
  		23 henpeh  Henrik P       2
                 23 kjhe    Kjell H        2
                 23 milnil  Nils Erik M    2
@@ -44,6 +44,9 @@
                 26 stmn    Stefan M       0
                 26 stwa    Stefan W       0
                	26 tors    Henrik T       0
+
+Tisdag 3/3: ajnn,berk,hano,ikan,jesp,jkan,kasm,lmju,magn,nicl,nikogr,nubu,pegu,rox,stg,tkul,wlar.
+            Akalla 17st
 
 Tisdag 24/2: hakm,hano,jkan,kasm,lmju,meho,nicl,nikogr,nubu,pegu,rexe,rox. Akalla 12st
 Fettisdag 17/2 berk,ggan,hakm,hano,henpeh,ikan,jesp,jkan,magn,meho,milnil,nikogr,nubu,pegu,rexe,rox,stg. Akalla 17st
