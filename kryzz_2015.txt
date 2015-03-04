@@ -1,30 +1,30 @@
-                Ställningen 10/2 2015 w7
+                Ställningen 17/2 2015 w8
                 
-		 1 hakm    Håkan M        5
-		 1 jkan    Håkan J        5
-                 1 jesp    Jesper C       5
-                 1 kasm    Björn K        5
-		 1 magn    Mats G         5
-		 1 meho    Mikael M       5
- 		 1 nikogr  Niklas Ö       5
-                 1 nubu    Nuri E         5
-                 1 rexe    Olof R         5
-		 1 rox     Roger R        5
-                 1 sjomik  Mikael S       5
- 		 1 wlar    Lars W         5
-	        13 berk    Björn E        4
-		13 ggan    Göte A         4
-		13 hano    Hans N         4
-		13 ikan    Ingvar K       4
-		13 lmju    Mats L         4
-                13 tkul    Tommy K        4
+		 1 hakm    Håkan M        6
+		 1 jkan    Håkan J        6
+                 1 jesp    Jesper C       6
+		 1 magn    Mats G         6
+		 1 meho    Mikael M       6
+ 		 1 nikogr  Niklas Ö       6
+                 1 nubu    Nuri E         6
+                 1 rexe    Olof R         6
+		 1 rox     Roger R        6
+	        10 berk    Björn E        5
+		10 ggan    Göte A         5
+		10 hano    Hans N         5
+		10 ikan    Ingvar K       5
+                10 kasm    Björn K        5
+                10 sjomik  Mikael S       5
+ 		10 wlar    Lars W         5
+		17 lmju    Mats L         4
+                17 tkul    Tommy K        4
 		19 ajnn    Anders J       3
-                20 kjhe    Kjell H        2
-                20 nicl    Niclas S       2
-                20 stg     Stefan G       2
-		23 henpeh  Henrik P       1
-                23 milnil  Nils Erik M    1
-		23 pegu    Peder G        1
+                19 stg     Stefan G       3
+ 		21 henpeh  Henrik P       2
+                21 kjhe    Kjell H        2
+                21 milnil  Nils Erik M    2
+                21 nicl    Niclas S       2
+		21 pegu    Peder G        2
                 26 alabdi  Alireza A      0
 		26 alejo   Aleksandar J   0
                 26 cutg    Chau T         0
@@ -45,6 +45,7 @@
                 26 stwa    Stefan W       0
                	26 tors    Henrik T       0
 
+Fettisdag 17/2 berk,ggan,hakm,hano,henpeh,ikan,jesp,jkan,magn,meho,milnil,nikogr,nubu,pegu,rexe,rox,stg. Akalla 17st
 Tisdag 10/2: berk,ggan,hakm,hano,ikan,jesp,jkan,kasm,lmju,magn,meho,milnil,nicl,nikogr,nubu,pegu,rexe,rox,sjomik,tkul,wlar.
              Akalla 21st
 Tisdag 3/2: ajnn,berk,ggan,hakm,hano,ikan,jesp,jkan,kasm,kjhe,magn,meho,nicl,nikogr,nubu,rexe,rox,sjomik,tkul,wlar.
