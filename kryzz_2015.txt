@@ -1,29 +1,29 @@
-                Ställningen 7/4 2015 w15
+                Ställningen 14/4 2015 w16
                 
- 		 1 nikogr  Niklas Ö      13
-                 1 nubu    Nuri E        13
-		 1 rox     Roger R       13
-		 4 meho    Mikael M      12
-		 5 hano    Hans N        11
-		 5 lmju    Mats L        11
-                 5 rexe    Olof R        11
- 		 5 wlar    Lars W        11
-		 9 ikan    Ingvar K      10
-		 9 jkan    Håkan J       10
-                 9 kasm    Björn K       10
-		 9 magn    Mats G        10
-                 9 sjomik  Mikael S      10
-	        14 berk    Björn E        8
-		14 hakm    Håkan M        8
+ 		 1 nikogr  Niklas Ö      14
+                 1 nubu    Nuri E        14
+		 1 rox     Roger R       14
+		 4 meho    Mikael M      13
+		 5 lmju    Mats L        12
+                 5 rexe    Olof R        12
+ 		 5 wlar    Lars W        12
+		 8 ikan    Ingvar K      11
+		 8 hano    Hans N        11
+                 8 kasm    Björn K       11
+		 8 magn    Mats G        11
+                 8 sjomik  Mikael S      11
+		13 jkan    Håkan J       10
+		14 hakm    Håkan M        9
+	        15 berk    Björn E        8
 		16 ajnn    Anders J       7
                 16 jesp    Jesper C       7
 		16 pegu    Peder G        7
                 16 tkul    Tommy K        7
 		20 ggan    Göte A         6
                 21 stg     Stefan G       6
-                22 nicl    Niclas S       4
- 		23 henpeh  Henrik P       3
-                23 milnil  Nils Erik M    3
+                22 milnil  Nils Erik M    4
+                23 nicl    Niclas S       4
+ 		24 henpeh  Henrik P       3
                 25 kjhe    Kjell H        2
 		25 one     Anders Ö  	  2
                 27 alabdi  Alireza A      0
@@ -46,6 +46,7 @@
                 27 stwa    Stefan W       0
                	27 tors    Henrik T       0
 
+Tisdag 14/4 hakm,ikan,kasm,lmju,magn,meho,milnil,nikogr,nubu,rexe,rox,sjomik,wlar. Ursvik 5km, 2X 5km 13st
 Tisdag 7/4 hakm,henpeh,kasm,lmju,meho,nikogr,nubu,one,rexe,rox,sjomik,wlar. Ursvik 5km, 2X 5km 12st
 
 Tisdag 31/3 ajnn,berk,ggan,hano,ikan,kasm,lmju,meho,nikogr,nubu,rox,sjomik,wlar. Ursvik geggpremiär 5km, 2X 5km 13st
