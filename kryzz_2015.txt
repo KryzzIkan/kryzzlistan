@@ -1,26 +1,26 @@
-                Ställningen 10/3 2015 w11
+                Ställningen 17/3 2015 w12
                 
-		 1 jkan    Håkan J        9
- 		 1 nikogr  Niklas Ö       9
-                 1 nubu    Nuri E         9
-		 1 rox     Roger R        9
-		 5 hano    Hans N         8
-                 5 kasm    Björn K        8
-		 5 magn    Mats G         8
-		 5 meho    Mikael M       8
-                 5 rexe    Olof R         8
-		10 ikan    Ingvar K       7
-		10 lmju    Mats L         7
- 		10 wlar    Lars W         7
-		10 hakm    Håkan M        7
-                10 jesp    Jesper C       7
-	        15 berk    Björn E        6
-                15 sjomik  Mikael S       6
-                15 tkul    Tommy K        6
-		18 ajnn    Anders J       5
-		18 ggan    Göte A         5
-		18 pegu    Peder G        5
-                18 stg     Stefan G       5
+		 1 jkan    Håkan J       10
+ 		 1 nikogr  Niklas Ö      10
+                 1 nubu    Nuri E        10
+		 1 rox     Roger R       10
+		 5 hano    Hans N         9
+		 5 magn    Mats G         9
+		 5 meho    Mikael M       9
+                 5 rexe    Olof R         9
+		 9 ikan    Ingvar K       8
+                 9 kasm    Björn K        8
+		 9 lmju    Mats L         8
+ 		 9 wlar    Lars W         8
+	        13 berk    Björn E        7
+		13 hakm    Håkan M        7
+                13 jesp    Jesper C       7
+                13 sjomik  Mikael S       7
+                13 tkul    Tommy K        7
+		18 pegu    Peder G        6
+                18 stg     Stefan G       6
+		20 ajnn    Anders J       5
+		20 ggan    Göte A         5
                 22 nicl    Niclas S       4
  		23 henpeh  Henrik P       2
                 23 kjhe    Kjell H        2
@@ -46,6 +46,8 @@
                 27 stwa    Stefan W       0
                	27 tors    Henrik T       0
 
+Tisdag 17/3: berk,hano,ikan,jkan,lmju,magn,meho,nikogr,nubu,pegu,rexe,rox,sjomik,stg,tkul,wlar.
+             Akalla 16st, lmju kortbyxor 
 Tisdag 10/3: ajnn,hano,ikan,jkan,kasm,lmju,magn,meho,nikogr,nubu,one,pegu,rexe,rox,sjomik,stg,tkul,wlar. 
              Akalla 18st lmju kortbyxor premiär + BB(berk,kasm,lmju,meho,rexe,wlar)
 Tisdag 3/3: ajnn,berk,hano,ikan,jesp,jkan,kasm,lmju,magn,nicl,nikogr,nubu,pegu,rox,stg,tkul,wlar.
