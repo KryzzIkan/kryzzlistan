@@ -1,50 +1,53 @@
-                Ställningen 3/3 2015 w10
+                Ställningen 10/3 2015 w11
                 
-		 1 jkan    Håkan J        8
- 		 1 nikogr  Niklas Ö       8
-                 1 nubu    Nuri E         8
-		 1 rox     Roger R        8
-		 1 hakm    Håkan M        7
-		 6 hano    Hans N         7
-                 6 jesp    Jesper C       7
-                 6 kasm    Björn K        7
-		 6 magn    Mats G         7
-		 6 meho    Mikael M       7
-                 6 rexe    Olof R         7
-	        12 berk    Björn E        6
-		12 ikan    Ingvar K       6
-		12 lmju    Mats L         6
- 		12 wlar    Lars W         6
-		16 ggan    Göte A         5
-                16 sjomik  Mikael S       5
-                16 tkul    Tommy K        5
-		19 ajnn    Anders J       4
-                19 nicl    Niclas S       4
-		19 pegu    Peder G        4
-                19 stg     Stefan G       4
+		 1 jkan    Håkan J        9
+ 		 1 nikogr  Niklas Ö       9
+                 1 nubu    Nuri E         9
+		 1 rox     Roger R        9
+		 5 hano    Hans N         8
+                 5 kasm    Björn K        8
+		 5 magn    Mats G         8
+		 5 meho    Mikael M       8
+                 5 rexe    Olof R         8
+		10 ikan    Ingvar K       7
+		10 lmju    Mats L         7
+ 		10 wlar    Lars W         7
+		10 hakm    Håkan M        7
+                10 jesp    Jesper C       7
+	        15 berk    Björn E        6
+                15 sjomik  Mikael S       6
+                15 tkul    Tommy K        6
+		18 ajnn    Anders J       5
+		18 ggan    Göte A         5
+		18 pegu    Peder G        5
+                18 stg     Stefan G       5
+                22 nicl    Niclas S       4
  		23 henpeh  Henrik P       2
                 23 kjhe    Kjell H        2
                 23 milnil  Nils Erik M    2
-                26 alabdi  Alireza A      0
-		26 alejo   Aleksandar J   0
-                26 cutg    Chau T         0
-		26 danger  Daniel G       0
-                26 emived  Emil V         0
-                26 fredso  Fredrik S      0
-		26 jannas  Jan N	  0
-		26 iop     Inge P         0
-		26 jlm     Jonas L        0
-                26 kale    Alexander K    0
-                26 kkst    Ina S          0
-                26 kolrun  Johanna R      0
-                26 mago    Martin G       0
-		26 petjoh  Peter J        0
-		26 pyan    Pablo Y	  0
-                26 shab    Samuel H       0
-                26 stmn    Stefan M       0
-                26 stwa    Stefan W       0
-               	26 tors    Henrik T       0
+		26 one     Anders Ö  	  1
+                27 alabdi  Alireza A      0
+		27 alejo   Aleksandar J   0
+                27 cutg    Chau T         0
+		27 danger  Daniel G       0
+                27 emived  Emil V         0
+                27 fredso  Fredrik S      0
+		27 jannas  Jan N	  0
+		27 iop     Inge P         0
+		27 jlm     Jonas L        0
+                27 kale    Alexander K    0
+                27 kkst    Ina S          0
+                27 kolrun  Johanna R      0
+                27 mago    Martin G       0
+		27 petjoh  Peter J        0
+		27 pyan    Pablo Y	  0
+                27 shab    Samuel H       0
+                27 stmn    Stefan M       0
+                27 stwa    Stefan W       0
+               	27 tors    Henrik T       0
 
+Tisdag 10/3: ajnn,hano,ikan,jkan,kasm,lmju,magn,meho,nikogr,nubu,one,pegu,rexe,rox,sjomik,stg,tkul,wlar. 
+             Akalla 18st lmju kortbyxor premiär + BB(berk,kasm,lmju,meho,rexe,wlar)
 Tisdag 3/3: ajnn,berk,hano,ikan,jesp,jkan,kasm,lmju,magn,nicl,nikogr,nubu,pegu,rox,stg,tkul,wlar.
             Akalla 17st
 
