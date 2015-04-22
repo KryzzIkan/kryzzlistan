@@ -1,28 +1,28 @@
-                Ställningen 14/4 2015 w16
+                Ställningen 21/4 2015 w17
                 
- 		 1 nikogr  Niklas Ö      14
-                 1 nubu    Nuri E        14
-		 1 rox     Roger R       14
-		 4 meho    Mikael M      13
-		 5 lmju    Mats L        12
-                 5 rexe    Olof R        12
- 		 5 wlar    Lars W        12
-		 8 ikan    Ingvar K      11
-		 8 hano    Hans N        11
-                 8 kasm    Björn K       11
-		 8 magn    Mats G        11
-                 8 sjomik  Mikael S      11
+ 		 1 nikogr  Niklas Ö      15
+                 1 nubu    Nuri E        15
+		 1 rox     Roger R       15
+		 4 meho    Mikael M      14
+		 5 lmju    Mats L        13
+                 5 rexe    Olof R        13
+ 		 5 wlar    Lars W        13
+		 8 ikan    Ingvar K      12
+                 8 kasm    Björn K       12
+		 8 magn    Mats G        12
+                 8 sjomik  Mikael S      12
+		12 hano    Hans N        11
+		13 hakm    Håkan M       10
 		13 jkan    Håkan J       10
-		14 hakm    Håkan M        9
-	        15 berk    Björn E        8
-		16 ajnn    Anders J       7
-                16 jesp    Jesper C       7
-		16 pegu    Peder G        7
-                16 tkul    Tommy K        7
-		20 ggan    Göte A         6
+	        15 berk    Björn E        9
+		16 ajnn    Anders J       8
+                16 jesp    Jesper C       8
+		16 pegu    Peder G        8
+                16 tkul    Tommy K        8
+		20 ggan    Göte A         7
                 21 stg     Stefan G       6
-                22 milnil  Nils Erik M    4
-                23 nicl    Niclas S       4
+                22 nicl    Niclas S       5
+                23 milnil  Nils Erik M    4
  		24 henpeh  Henrik P       3
                 25 kjhe    Kjell H        2
 		25 one     Anders Ö  	  2
@@ -46,6 +46,8 @@
                 27 stwa    Stefan W       0
                	27 tors    Henrik T       0
 
+Tisdag 21/4 ajnn,berk,ggan,hakm,ikan,jesp,kasm,lmju,magn,meho,nicl,nikogr,nubu,pegu,rexe,rox,sjomik,tkul,wlar. 
+            Ursvik 5km, 2X 5km, 5 +7km, xtrem tävl. 19st
 Tisdag 14/4 hakm,ikan,kasm,lmju,magn,meho,milnil,nikogr,nubu,rexe,rox,sjomik,wlar. Ursvik 5km, 2X 5km 13st
 Tisdag 7/4 hakm,henpeh,kasm,lmju,meho,nikogr,nubu,one,rexe,rox,sjomik,wlar. Ursvik 5km, 2X 5km 12st
 
