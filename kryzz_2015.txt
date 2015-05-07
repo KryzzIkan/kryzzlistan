@@ -1,28 +1,28 @@
-                Ställningen 28/4 2015 w18
+                Ställningen 5/5 2015 w19
                 
- 		 1 nikogr  Niklas Ö      16
-                 1 nubu    Nuri E        16
-		 1 rox     Roger R       16
-		 4 meho    Mikael M      15
-		 5 lmju    Mats L        14
-                 5 rexe    Olof R        14
- 		 5 wlar    Lars W        14
-		 8 ikan    Ingvar K      13
-                 8 kasm    Björn K       13
-		 8 magn    Mats G        13
-                 8 sjomik  Mikael S      13
-		12 hakm    Håkan M       11
-		12 hano    Hans N        11
-	        14 berk    Björn E       10
-		14 jkan    Håkan J       10
-		16 ajnn    Anders J       9
-		16 pegu    Peder G        9
-		18 ggan    Göte A         8
-                18 jesp    Jesper C       8
-                18 tkul    Tommy K        8
+ 		 1 nikogr  Niklas Ö      17
+                 1 nubu    Nuri E        17
+		 1 rox     Roger R       17
+		 4 meho    Mikael M      16
+		 5 lmju    Mats L        15
+                 5 rexe    Olof R        15
+ 		 5 wlar    Lars W        15
+		 8 ikan    Ingvar K      14
+		 8 magn    Mats G        14
+                 8 sjomik  Mikael S      14
+                11 kasm    Björn K       13
+		12 hakm    Håkan M       12
+		12 hano    Hans N        12
+	        14 berk    Björn E       11
+		15 ajnn    Anders J      10
+		15 jkan    Håkan J       10
+		15 pegu    Peder G       10
+		18 ggan    Göte A         9
+                19 jesp    Jesper C       8
+                19 tkul    Tommy K        8
                 21 nicl    Niclas S       6
                 21 stg     Stefan G       6
-                23 milnil  Nils Erik M    4
+                23 milnil  Nils Erik M    5
  		24 henpeh  Henrik P       3
                 25 kjhe    Kjell H        2
 		25 one     Anders Ö  	  2
@@ -45,6 +45,9 @@
                 27 stmn    Stefan M       0
                 27 stwa    Stefan W       0
                	27 tors    Henrik T       0
+
+Tisdag 5/5 ajnn,berk,ggan,hakm,hano,ikan,lmju,magn,meho,milnil,nikogr,nubu,pegu,rexe,rox,sjomik,wlar. 17st
+           Ursvik 5km,10km,Xtreme
 
 Tisdag 28/4 ajnn,berk,ggan,hakm,ikan,kasm,lmju,magn,meho,nicl,nikogr,nubu,pegu,rexe,rox,sjomik,wlar. 
             Ursvik 5km, 2X 5km, 10km, 15km. 17st
