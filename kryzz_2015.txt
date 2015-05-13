@@ -1,51 +1,55 @@
-                Ställningen 5/5 2015 w19
+                Ställningen 12/5 2015 w20
                 
- 		 1 nikogr  Niklas Ö      17
-                 1 nubu    Nuri E        17
-		 1 rox     Roger R       17
-		 4 meho    Mikael M      16
-		 5 lmju    Mats L        15
-                 5 rexe    Olof R        15
- 		 5 wlar    Lars W        15
-		 8 ikan    Ingvar K      14
-		 8 magn    Mats G        14
-                 8 sjomik  Mikael S      14
-                11 kasm    Björn K       13
-		12 hakm    Håkan M       12
-		12 hano    Hans N        12
-	        14 berk    Björn E       11
-		15 ajnn    Anders J      10
-		15 jkan    Håkan J       10
-		15 pegu    Peder G       10
+ 		 1 nikogr  Niklas Ö      18
+                 1 nubu    Nuri E        18
+		 1 rox     Roger R       18
+		 4 meho    Mikael M      17
+		 5 lmju    Mats L        16
+                 5 rexe    Olof R        16
+ 		 5 wlar    Lars W        16
+		 8 ikan    Ingvar K      15
+		 8 magn    Mats G        15
+                10 kasm    Björn K       14
+                10 sjomik  Mikael S      14
+		12 hakm    Håkan M       13
+	        13 berk    Björn E       12
+		13 hano    Hans N        12
+		15 ajnn    Anders J      11
+		15 pegu    Peder G       11
+		17 jkan    Håkan J       10
 		18 ggan    Göte A         9
                 19 jesp    Jesper C       8
                 19 tkul    Tommy K        8
+                21 milnil  Nils Erik M    6
                 21 nicl    Niclas S       6
                 21 stg     Stefan G       6
-                23 milnil  Nils Erik M    5
  		24 henpeh  Henrik P       3
                 25 kjhe    Kjell H        2
 		25 one     Anders Ö  	  2
-                27 alabdi  Alireza A      0
-		27 alejo   Aleksandar J   0
-                27 cutg    Chau T         0
-		27 danger  Daniel G       0
-                27 emived  Emil V         0
-                27 fredso  Fredrik S      0
-		27 jannas  Jan N	  0
-		27 iop     Inge P         0
-		27 jlm     Jonas L        0
-                27 kale    Alexander K    0
-                27 kkst    Ina S          0
-                27 kolrun  Johanna R      0
-                27 mago    Martin G       0
-		27 petjoh  Peter J        0
-		27 pyan    Pablo Y	  0
-                27 shab    Samuel H       0
-                27 stmn    Stefan M       0
-                27 stwa    Stefan W       0
-               	27 tors    Henrik T       0
+		27 prnm    Per N  	  1
+		27 umasaj  Umair S  	  1
+                29 alabdi  Alireza A      0
+		29 alejo   Aleksandar J   0
+                29 cutg    Chau T         0
+		29 danger  Daniel G       0
+                29 emived  Emil V         0
+                29 fredso  Fredrik S      0
+		29 jannas  Jan N	  0
+		29 iop     Inge P         0
+		29 jlm     Jonas L        0
+                29 kale    Alexander K    0
+                29 kkst    Ina S          0
+                29 kolrun  Johanna R      0
+                29 mago    Martin G       0
+		29 petjoh  Peter J        0
+		29 pyan    Pablo Y	  0
+                29 shab    Samuel H       0
+                29 stmn    Stefan M       0
+                29 stwa    Stefan W       0
+               	29 tors    Henrik T       0
 
+Tisdag 12/5 ajnn,berk,hakm,ikan,kasm,lmju,magn,meho,milnil,nikogr,nubu,pegu,prnm,rexe,rox,umasaj,wlar. 
+            Ursvik 5km,10km. 17st
 Tisdag 5/5 ajnn,berk,ggan,hakm,hano,ikan,lmju,magn,meho,milnil,nikogr,nubu,pegu,rexe,rox,sjomik,wlar. 17st
            Ursvik 5km,10km,Xtreme
 
