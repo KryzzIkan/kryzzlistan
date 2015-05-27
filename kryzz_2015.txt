@@ -1,28 +1,28 @@
-                Ställningen 12/5 2015 w20
+                Ställningen 19/5 2015 w21
                 
- 		 1 nikogr  Niklas Ö      18
-                 1 nubu    Nuri E        18
-		 1 rox     Roger R       18
-		 4 meho    Mikael M      17
-		 5 lmju    Mats L        16
-                 5 rexe    Olof R        16
- 		 5 wlar    Lars W        16
-		 8 ikan    Ingvar K      15
-		 8 magn    Mats G        15
-                10 kasm    Björn K       14
-                10 sjomik  Mikael S      14
-		12 hakm    Håkan M       13
-	        13 berk    Björn E       12
-		13 hano    Hans N        12
+ 		 1 nikogr  Niklas Ö      19
+                 1 nubu    Nuri E        19
+		 1 rox     Roger R       19
+		 4 meho    Mikael M      18
+		 5 lmju    Mats L        17
+ 		 5 wlar    Lars W        17
+		 7 ikan    Ingvar K      16
+		 7 magn    Mats G        16
+                 7 rexe    Olof R        16
+                10 kasm    Björn K       15
+		11 hakm    Håkan M       14
+                11 sjomik  Mikael S      14
+	        13 berk    Björn E       13
+		13 hano    Hans N        13
 		15 ajnn    Anders J      11
 		15 pegu    Peder G       11
 		17 jkan    Håkan J       10
 		18 ggan    Göte A         9
                 19 jesp    Jesper C       8
                 19 tkul    Tommy K        8
-                21 milnil  Nils Erik M    6
-                21 nicl    Niclas S       6
-                21 stg     Stefan G       6
+                21 milnil  Nils Erik M    7
+                22 nicl    Niclas S       6
+                22 stg     Stefan G       6
  		24 henpeh  Henrik P       3
                 25 kjhe    Kjell H        2
 		25 one     Anders Ö  	  2
@@ -48,6 +48,7 @@
                 29 stwa    Stefan W       0
                	29 tors    Henrik T       0
 
+Tisdag 19/5 berk,hakm,hano,ikan,kasm,lmju,magn,meho,milnil,nikogr,nubu,rox,wlar. Ursvik 5km,10km. 13st
 Tisdag 12/5 ajnn,berk,hakm,ikan,kasm,lmju,magn,meho,milnil,nikogr,nubu,pegu,prnm,rexe,rox,umasaj,wlar. 
             Ursvik 5km,10km. 17st
 Tisdag 5/5 ajnn,berk,ggan,hakm,hano,ikan,lmju,magn,meho,milnil,nikogr,nubu,pegu,rexe,rox,sjomik,wlar. 17st
