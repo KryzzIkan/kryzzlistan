@@ -1,33 +1,33 @@
-                Ställningen 21/5 2015 w21
+                Ställningen 26/5 2015 w22
                 
- 		 1 nikogr  Niklas Ö      20
-		 2 meho    Mikael M      19
-                 2 nubu    Nuri E        19
-		 2 rox     Roger R       19
- 		 5 wlar    Lars W        18
-		 6 lmju    Mats L        17
-		 6 magn    Mats G        17
-                 6 rexe    Olof R        17
-		 9 ikan    Ingvar K      16
-		10 hakm    Håkan M       15
-                10 kasm    Björn K       15
+ 		 1 nikogr  Niklas Ö      21
+		 2 meho    Mikael M      20
+                 2 nubu    Nuri E        20
+		 2 rox     Roger R       20
+ 		 5 wlar    Lars W        19
+		 6 lmju    Mats L        18
+		 6 magn    Mats G        18
+                 6 rexe    Olof R        18
+		 9 ikan    Ingvar K      17
+		10 hakm    Håkan M       16
+                11 kasm    Björn K       15
+		12 hano    Hans N        14
                 12 sjomik  Mikael S      14
-	        13 berk    Björn E       13
-		13 hano    Hans N        13
-		15 ajnn    Anders J      11
-		15 jkan    Håkan J       11
-		15 pegu    Peder G       11
+	        14 berk    Björn E       13
+		15 ajnn    Anders J      12
+		16 jkan    Håkan J       11
+		16 pegu    Peder G       11
 		18 ggan    Göte A         9
                 19 jesp    Jesper C       8
+                19 milnil  Nils Erik M    8
                 19 tkul    Tommy K        8
-                21 milnil  Nils Erik M    7
-                21 nicl    Niclas S       7
+                22 nicl    Niclas S       7
                 23 stg     Stefan G       6
  		24 henpeh  Henrik P       3
                 25 kjhe    Kjell H        2
 		25 one     Anders Ö  	  2
-		27 prnm    Per N  	  1
-		27 umasaj  Umair S  	  1
+		25 umasaj  Umair S  	  2
+		28 prnm    Per N  	  1
                 29 alabdi  Alireza A      0
 		29 alejo   Aleksandar J   0
                 29 cutg    Chau T         0
@@ -48,6 +48,8 @@
                 29 stwa    Stefan W       0
                	29 tors    Henrik T       0
 
+Tisdag 26/5 ajnn,hakm,hano,ikan,lmju,magn,meho,milnil,nikogr,nubu,rexe,rox,umasaj,wlar. 
+            Ursvik 5km,10km. 14st
 Torsdag 21/5: hakm,jkan,magn,meho,nicl,nikogr,rexe,wlar. Klubbmatch Telia Ursvik 1 alt 2X 5km, 
               vinst 55-20. 8st+18st ej kryzzlöpare
 Tisdag 19/5 berk,hakm,hano,ikan,kasm,lmju,magn,meho,milnil,nikogr,nubu,rox,wlar. Ursvik 5km,10km. 13st
