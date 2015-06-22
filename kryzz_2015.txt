@@ -1,53 +1,55 @@
-                Ställningen 26/5 2015 w22
+                Ställningen 30/5 2015 w22
                 
- 		 1 nikogr  Niklas Ö      21
-		 2 meho    Mikael M      20
-                 2 nubu    Nuri E        20
-		 2 rox     Roger R       20
- 		 5 wlar    Lars W        19
-		 6 lmju    Mats L        18
-		 6 magn    Mats G        18
-                 6 rexe    Olof R        18
-		 9 ikan    Ingvar K      17
-		10 hakm    Håkan M       16
-                11 kasm    Björn K       15
-		12 hano    Hans N        14
-                12 sjomik  Mikael S      14
+ 		 1 nikogr  Niklas Ö      22
+		 2 meho    Mikael M      21
+                 2 nubu    Nuri E        21
+		 2 rox     Roger R       21
+ 		 5 wlar    Lars W        20
+                 6 rexe    Olof R        19
+		 7 ikan    Ingvar K      18
+		 7 lmju    Mats L        18
+		 7 magn    Mats G        18
+		10 hakm    Håkan M       17
+                11 kasm    Björn K       16
+                12 sjomik  Mikael S      15
+		13 hano    Hans N        14
 	        14 berk    Björn E       13
 		15 ajnn    Anders J      12
-		16 jkan    Håkan J       11
-		16 pegu    Peder G       11
+		15 jkan    Håkan J       12
+		15 pegu    Peder G       12
 		18 ggan    Göte A         9
                 19 jesp    Jesper C       8
                 19 milnil  Nils Erik M    8
                 19 tkul    Tommy K        8
                 22 nicl    Niclas S       7
                 23 stg     Stefan G       6
- 		24 henpeh  Henrik P       3
+ 		24 henpeh  Henrik P       4
                 25 kjhe    Kjell H        2
 		25 one     Anders Ö  	  2
 		25 umasaj  Umair S  	  2
+                28 anmn                   1
+                28 emived  Emil V         1
+                28 kolrun  Johanna R      1
+                28 mago    Martin G       1
 		28 prnm    Per N  	  1
-                29 alabdi  Alireza A      0
-		29 alejo   Aleksandar J   0
-                29 cutg    Chau T         0
-		29 danger  Daniel G       0
-                29 emived  Emil V         0
-                29 fredso  Fredrik S      0
-		29 jannas  Jan N	  0
-		29 iop     Inge P         0
-		29 jlm     Jonas L        0
-                29 kale    Alexander K    0
-                29 kkst    Ina S          0
-                29 kolrun  Johanna R      0
-                29 mago    Martin G       0
-		29 petjoh  Peter J        0
-		29 pyan    Pablo Y	  0
-                29 shab    Samuel H       0
-                29 stmn    Stefan M       0
-                29 stwa    Stefan W       0
-               	29 tors    Henrik T       0
+                28 stmn    Stefan M       1
+               	28 tors    Henrik T       1
+                35 alabdi  Alireza A      0
+		35 alejo   Aleksandar J   0
+                35 cutg    Chau T         0
+		35 danger  Daniel G       0
+                35 fredso  Fredrik S      0
+		35 jannas  Jan N	  0
+		35 iop     Inge P         0
+		35 jlm     Jonas L        0
+                35 kale    Alexander K    0
+                35 kkst    Ina S          0
+		35 petjoh  Peter J        0
+		35 pyan    Pablo Y	  0
+                35 shab    Samuel H       0
+                35 stwa    Stefan W       0
 
+Lördag 30/5: anmn,emived,hakm,henpeh,ikan,jkan,kasm,kolrun,mago,meho,nikogr,nubu,pegu,rexe,rox,sjomik,stmn,tors,wlar. EriM Stockholm marathon. 19st.
 Tisdag 26/5 ajnn,hakm,hano,ikan,lmju,magn,meho,milnil,nikogr,nubu,rexe,rox,umasaj,wlar. 
             Ursvik 5km,10km. 14st
 Torsdag 21/5: hakm,jkan,magn,meho,nicl,nikogr,rexe,wlar. Klubbmatch Telia Ursvik 1 alt 2X 5km, 
