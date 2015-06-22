@@ -1,22 +1,22 @@
-                Ställningen 2/6 2015 w23
+                Ställningen 9/6 2015 w24
                 
- 		 1 nikogr  Niklas Ö      23
-		 2 meho    Mikael M      22
-		 2 rox     Roger R       22
-                 4 nubu    Nuri E        21
- 		 4 wlar    Lars W        21
-		 6 ikan    Ingvar K      19
-		 6 lmju    Mats L        19
-		 6 magn    Mats G        19
-                 6 rexe    Olof R        19
-		10 hakm    Håkan M       18
-                11 kasm    Björn K       17
-                12 sjomik  Mikael S      16
+ 		 1 nikogr  Niklas Ö      24
+		 2 meho    Mikael M      23
+		 2 rox     Roger R       23
+                 4 nubu    Nuri E        22
+ 		 4 wlar    Lars W        22
+		 6 ikan    Ingvar K      20
+		 6 lmju    Mats L        20
+		 6 magn    Mats G        20
+                 6 rexe    Olof R        20
+		10 hakm    Håkan M       19
+                11 kasm    Björn K       18
+                12 sjomik  Mikael S      17
 		13 hano    Hans N        15
-		14 ajnn    Anders J      13
-	        14 berk    Björn E       13
-		16 jkan    Håkan J       12
-		16 pegu    Peder G       12
+		14 ajnn    Anders J      14
+	        14 berk    Björn E       14
+		16 pegu    Peder G       13
+		17 jkan    Håkan J       12
 		18 ggan    Göte A         9
                 19 jesp    Jesper C       8
                 19 milnil  Nils Erik M    8
@@ -24,10 +24,10 @@
                 22 nicl    Niclas S       7
                 23 stg     Stefan G       6
  		24 henpeh  Henrik P       4
-		25 umasaj  Umair S  	  3
-                26 kjhe    Kjell H        2
-		26 one     Anders Ö  	  2
-		26 prnm    Per N  	  2
+		24 umasaj  Umair S  	  4
+		26 prnm    Per N  	  3
+                27 kjhe    Kjell H        2
+		27 one     Anders Ö  	  2
                 29 anmn                   1
                 29 emived  Emil V         1
                 29 kolrun  Johanna R      1
@@ -48,6 +48,9 @@
 		35 pyan    Pablo Y	  0
                 35 shab    Samuel H       0
                 35 stwa    Stefan W       0
+
+Tisdag 9/6 ajnn,berk,hakm,ikan,kasm,lmju,magn,meho,nikogr,nubu,pegu,prnm,rexe,rox,sjomik,umasaj,wlar.
+           Ursvik 5km,5+7km,10km. 17st
 Tisdag 2/6 ajnn,hakm,hano,ikan,kasm,lmju,magn,meho,nikogr,prnm,rox,sjomik,umasaj,wlar. 
            Ursvik 5km,7km. 14st pubkväll CF(berk, hakm, lmju, meho, rexe, wlar)
 
