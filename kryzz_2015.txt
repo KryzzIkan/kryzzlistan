@@ -1,54 +1,56 @@
-                Ställningen 16/6 2015 w25
+                Ställningen 23/6 2015 w26
                 
- 		 1 nikogr  Niklas Ö      25
-		 2 meho    Mikael M      24
-		 2 rox     Roger R       24
-                 4 nubu    Nuri E        23
- 		 4 wlar    Lars W        23
-		 6 ikan    Ingvar K      21
-		 6 lmju    Mats L        21
-		 6 magn    Mats G        21
-                 6 rexe    Olof R        21
-		10 hakm    Håkan M       20
-                11 kasm    Björn K       19
+ 		 1 nikogr  Niklas Ö      26
+		 2 meho    Mikael M      25
+		 2 rox     Roger R       25
+                 4 nubu    Nuri E        24
+ 		 4 wlar    Lars W        24
+		 6 ikan    Ingvar K      22
+		 6 lmju    Mats L        22
+		 6 magn    Mats G        22
+                 6 rexe    Olof R        22
+		10 hakm    Håkan M       21
+                11 kasm    Björn K       20
                 12 sjomik  Mikael S      18
-		13 ajnn    Anders J      15
-	        13 berk    Björn E       15
-		13 hano    Hans N        15
-		16 pegu    Peder G       14
+		13 ajnn    Anders J      16
+	        13 berk    Björn E       16
+		15 hano    Hans N        15
+		15 pegu    Peder G       15
 		17 jkan    Håkan J       12
-		18 ggan    Göte A        10
+		18 ggan    Göte A        11
                 19 jesp    Jesper C       8
                 19 milnil  Nils Erik M    8
+                19 nicl    Niclas S       8
                 19 tkul    Tommy K        8
-                22 nicl    Niclas S       7
                 23 stg     Stefan G       6
 		24 umasaj  Umair S  	  5
  		25 henpeh  Henrik P       4
 		26 prnm    Per N  	  3
-                27 kjhe    Kjell H        2
-		27 one     Anders Ö  	  2
-                27 stmn    Stefan M       2
-                30 anmn                   1
+                26 stmn    Stefan M       3
+                28 kjhe    Kjell H        2
+		28 one     Anders Ö  	  2
+                30 anmn    Martin A       1
                 30 emived  Emil V         1
+		30 iop     Inge P         1
                 30 kolrun  Johanna R      1
                 30 mago    Martin G       1
                	30 tors    Henrik T       1
-                35 alabdi  Alireza A      0
-		35 alejo   Aleksandar J   0
-                35 cutg    Chau T         0
-		35 danger  Daniel G       0
-                35 fredso  Fredrik S      0
-		35 jannas  Jan N	  0
-		35 iop     Inge P         0
-		35 jlm     Jonas L        0
-                35 kale    Alexander K    0
-                35 kkst    Ina S          0
-		35 petjoh  Peter J        0
-		35 pyan    Pablo Y	  0
-                35 shab    Samuel H       0
-                35 stwa    Stefan W       0
+                36 alabdi  Alireza A      0
+		36 alejo   Aleksandar J   0
+                36 cutg    Chau T         0
+		36 danger  Daniel G       0
+                36 fredso  Fredrik S      0
+		36 jannas  Jan N	  0
+		36 jlm     Jonas L        0
+                36 kale    Alexander K    0
+                36 kkst    Ina S          0
+		36 petjoh  Peter J        0
+		36 pyan    Pablo Y	  0
+                36 shab    Samuel H       0
+                36 stwa    Stefan W       0
 
+Tisdag 23/6 ajnn,berk,ggan,hakm,ikan,iop,kasm,lmju,magn,meho,nicl,nikogr,nubu,pegu,rexe,rox,stmn,wlar.
+            Ursvik 5km,10km. 18st
 Tisdag 16/6 ajnn,berk,ggan,hakm,ikan,kasm,lmju,magn,meho,nikogr,nubu,pegu,rexe,rox,sjomik,stmn,umasaj,wlar.
             Ursvik 5km,5+7km,10km, 15km extrem. 18st
 Tisdag 9/6 ajnn,berk,hakm,ikan,kasm,lmju,magn,meho,nikogr,nubu,pegu,prnm,rexe,rox,sjomik,umasaj,wlar.
