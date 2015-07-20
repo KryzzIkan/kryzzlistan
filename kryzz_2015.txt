@@ -1,22 +1,22 @@
-                Ställningen 30/6 2015 w27
+                Ställningen 7/7 2015 w28
                 
- 		 1 nikogr  Niklas Ö      27
-		 2 meho    Mikael M      26
-		 2 rox     Roger R       26
- 		 4 wlar    Lars W        25
-                 5 nubu    Nuri E        24
-		 6 ikan    Ingvar K      23
-		 6 lmju    Mats L        23
-		 6 magn    Mats G        23
-                 6 rexe    Olof R        23
-		10 hakm    Håkan M       22
+ 		 1 nikogr  Niklas Ö      28
+		 2 meho    Mikael M      27
+		 2 rox     Roger R       27
+ 		 4 wlar    Lars W        26
+                 5 nubu    Nuri E        25
+		 6 magn    Mats G        24
+                 6 rexe    Olof R        24
+		 8 ikan    Ingvar K      23
+		 8 hakm    Håkan M       23
+		 8 lmju    Mats L        23
                 11 kasm    Björn K       21
-                12 sjomik  Mikael S      19
+                12 sjomik  Mikael S      20
 		13 ajnn    Anders J      17
 	        14 berk    Björn E       16
 		14 pegu    Peder G       16
 		16 hano    Hans N        15
-		17 jkan    Håkan J       13
+		17 jkan    Håkan J       14
 		18 ggan    Göte A        12
                 19 jesp    Jesper C       8
                 19 milnil  Nils Erik M    8
@@ -35,20 +35,23 @@
 		31 danger  Daniel G       1
                 31 gbosch  Gabor S        1
                 31 kolrun  Johanna R      1
+		31 livi    Lisbeth L	  1
                 31 mago    Martin G       1
                	31 tors    Henrik T       1
-                38 alabdi  Alireza A      0
-		38 alejo   Aleksandar J   0
-                38 cutg    Chau T         0
-                38 fredso  Fredrik S      0
-		38 jannas  Jan N	  0
-		38 jlm     Jonas L        0
-                38 kale    Alexander K    0
-                38 kkst    Ina S          0
-		38 petjoh  Peter J        0
-		38 pyan    Pablo Y	  0
-                38 shab    Samuel H       0
-                38 stwa    Stefan W       0
+                39 alabdi  Alireza A      0
+		39 alejo   Aleksandar J   0
+                39 cutg    Chau T         0
+                39 fredso  Fredrik S      0
+		39 jannas  Jan N	  0
+		39 jlm     Jonas L        0
+                39 kale    Alexander K    0
+                39 kkst    Ina S          0
+		39 petjoh  Peter J        0
+		39 pyan    Pablo Y	  0
+                39 shab    Samuel H       0
+                39 stwa    Stefan W       0
+
+Tisdag 7/7 hakm,jkan,livi,magn,meho,nikogr,nubu,rexe,rox,sjomik,wlar. Ursvik 5km,5+5km,10km. 11st
 
 Tisdag 30/6 ajnn,danger,gbosch,ggan,hakm,ikan,iop,jkan,kasm,lmju,magn,meho,nikogr,pegu,rexe,rox,sjomik,wlar. 
             Ursvik 5km,7km,10km. 18st
