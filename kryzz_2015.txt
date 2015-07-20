@@ -1,15 +1,15 @@
-                Ställningen 7/7 2015 w28
+                Ställningen 14/7 2015 w29
                 
+		 1 meho    Mikael M      28
  		 1 nikogr  Niklas Ö      28
-		 2 meho    Mikael M      27
-		 2 rox     Roger R       27
- 		 4 wlar    Lars W        26
-                 5 nubu    Nuri E        25
-		 6 magn    Mats G        24
-                 6 rexe    Olof R        24
-		 8 ikan    Ingvar K      23
-		 8 hakm    Håkan M       23
-		 8 lmju    Mats L        23
+		 3 rox     Roger R       27
+ 		 3 wlar    Lars W        27
+                 5 nubu    Nuri E        26
+		 6 magn    Mats G        25
+		 7 ikan    Ingvar K      24
+                 7 rexe    Olof R        24
+		 9 hakm    Håkan M       23
+		 9 lmju    Mats L        23
                 11 kasm    Björn K       21
                 12 sjomik  Mikael S      20
 		13 ajnn    Anders J      17
@@ -27,17 +27,17 @@
  		25 henpeh  Henrik P       4
 		26 prnm    Per N  	  3
                 26 stmn    Stefan M       3
+                28 emived  Emil V         2
 		28 iop     Inge P         2
                 28 kjhe    Kjell H        2
 		28 one     Anders Ö  	  2
-                31 anmn    Martin A       1
-                31 emived  Emil V         1
-		31 danger  Daniel G       1
-                31 gbosch  Gabor S        1
-                31 kolrun  Johanna R      1
-		31 livi    Lisbeth L	  1
-                31 mago    Martin G       1
-               	31 tors    Henrik T       1
+                32 anmn    Martin A       1
+		32 danger  Daniel G       1
+                32 gbosch  Gabor S        1
+                32 kolrun  Johanna R      1
+		32 livi    Lisbeth L	  1
+                32 mago    Martin G       1
+               	32 tors    Henrik T       1
                 39 alabdi  Alireza A      0
 		39 alejo   Aleksandar J   0
                 39 cutg    Chau T         0
@@ -51,6 +51,7 @@
                 39 shab    Samuel H       0
                 39 stwa    Stefan W       0
 
+Tisdag 14/7 emived,ikan,magn,meho,nubu,wlar. Ursvik 5km regn. 6st
 Tisdag 7/7 hakm,jkan,livi,magn,meho,nikogr,nubu,rexe,rox,sjomik,wlar. Ursvik 5km,5+5km,10km. 11st
 
 Tisdag 30/6 ajnn,danger,gbosch,ggan,hakm,ikan,iop,jkan,kasm,lmju,magn,meho,nikogr,pegu,rexe,rox,sjomik,wlar. 
