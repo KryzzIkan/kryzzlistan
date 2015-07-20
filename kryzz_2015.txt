@@ -1,23 +1,23 @@
-                Ställningen 23/6 2015 w26
+                Ställningen 30/6 2015 w27
                 
- 		 1 nikogr  Niklas Ö      26
-		 2 meho    Mikael M      25
-		 2 rox     Roger R       25
-                 4 nubu    Nuri E        24
- 		 4 wlar    Lars W        24
-		 6 ikan    Ingvar K      22
-		 6 lmju    Mats L        22
-		 6 magn    Mats G        22
-                 6 rexe    Olof R        22
-		10 hakm    Håkan M       21
-                11 kasm    Björn K       20
-                12 sjomik  Mikael S      18
-		13 ajnn    Anders J      16
-	        13 berk    Björn E       16
-		15 hano    Hans N        15
-		15 pegu    Peder G       15
-		17 jkan    Håkan J       12
-		18 ggan    Göte A        11
+ 		 1 nikogr  Niklas Ö      27
+		 2 meho    Mikael M      26
+		 2 rox     Roger R       26
+ 		 4 wlar    Lars W        25
+                 5 nubu    Nuri E        24
+		 6 ikan    Ingvar K      23
+		 6 lmju    Mats L        23
+		 6 magn    Mats G        23
+                 6 rexe    Olof R        23
+		10 hakm    Håkan M       22
+                11 kasm    Björn K       21
+                12 sjomik  Mikael S      19
+		13 ajnn    Anders J      17
+	        14 berk    Björn E       16
+		14 pegu    Peder G       16
+		16 hano    Hans N        15
+		17 jkan    Håkan J       13
+		18 ggan    Göte A        12
                 19 jesp    Jesper C       8
                 19 milnil  Nils Erik M    8
                 19 nicl    Niclas S       8
@@ -27,28 +27,31 @@
  		25 henpeh  Henrik P       4
 		26 prnm    Per N  	  3
                 26 stmn    Stefan M       3
+		28 iop     Inge P         2
                 28 kjhe    Kjell H        2
 		28 one     Anders Ö  	  2
-                30 anmn    Martin A       1
-                30 emived  Emil V         1
-		30 iop     Inge P         1
-                30 kolrun  Johanna R      1
-                30 mago    Martin G       1
-               	30 tors    Henrik T       1
-                36 alabdi  Alireza A      0
-		36 alejo   Aleksandar J   0
-                36 cutg    Chau T         0
-		36 danger  Daniel G       0
-                36 fredso  Fredrik S      0
-		36 jannas  Jan N	  0
-		36 jlm     Jonas L        0
-                36 kale    Alexander K    0
-                36 kkst    Ina S          0
-		36 petjoh  Peter J        0
-		36 pyan    Pablo Y	  0
-                36 shab    Samuel H       0
-                36 stwa    Stefan W       0
+                31 anmn    Martin A       1
+                31 emived  Emil V         1
+		31 danger  Daniel G       1
+                31 gbosch  Gabor S        1
+                31 kolrun  Johanna R      1
+                31 mago    Martin G       1
+               	31 tors    Henrik T       1
+                38 alabdi  Alireza A      0
+		38 alejo   Aleksandar J   0
+                38 cutg    Chau T         0
+                38 fredso  Fredrik S      0
+		38 jannas  Jan N	  0
+		38 jlm     Jonas L        0
+                38 kale    Alexander K    0
+                38 kkst    Ina S          0
+		38 petjoh  Peter J        0
+		38 pyan    Pablo Y	  0
+                38 shab    Samuel H       0
+                38 stwa    Stefan W       0
 
+Tisdag 30/6 ajnn,danger,gbosch,ggan,hakm,ikan,iop,jkan,kasm,lmju,magn,meho,nikogr,pegu,rexe,rox,sjomik,wlar. 
+            Ursvik 5km,7km,10km. 18st
 Tisdag 23/6 ajnn,berk,ggan,hakm,ikan,iop,kasm,lmju,magn,meho,nicl,nikogr,nubu,pegu,rexe,rox,stmn,wlar.
             Ursvik 5km,10km. 18st
 Tisdag 16/6 ajnn,berk,ggan,hakm,ikan,kasm,lmju,magn,meho,nikogr,nubu,pegu,rexe,rox,sjomik,stmn,umasaj,wlar.
