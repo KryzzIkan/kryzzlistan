@@ -1,17 +1,17 @@
-                Ställningen 21/7 2015 w30
+                Ställningen 28/7 2015 w31
                 
-		 1 meho    Mikael M      28
- 		 1 nikogr  Niklas Ö      28
-		 1 rox     Roger R       28
- 		 1 wlar    Lars W        28
+		 1 rox     Roger R       29
+		 2 meho    Mikael M      28
+ 		 2 nikogr  Niklas Ö      28
+ 		 2 wlar    Lars W        28
                  5 nubu    Nuri E        27
 		 6 magn    Mats G        25
 		 7 ikan    Ingvar K      24
                  7 rexe    Olof R        24
 		 9 hakm    Håkan M       23
 		 9 lmju    Mats L        23
-                11 kasm    Björn K       21
-                11 sjomik  Mikael S      21
+                11 sjomik  Mikael S      22
+                12 kasm    Björn K       21
 		13 ajnn    Anders J      17
 	        14 berk    Björn E       16
 		14 pegu    Peder G       16
@@ -25,8 +25,8 @@
                 23 stg     Stefan G       6
 		24 umasaj  Umair S  	  5
  		25 henpeh  Henrik P       4
-		26 prnm    Per N  	  3
-                26 stmn    Stefan M       3
+                25 stmn    Stefan M       4
+		27 prnm    Per N  	  3
                 28 emived  Emil V         2
 		28 iop     Inge P         2
                 28 kjhe    Kjell H        2
@@ -51,6 +51,7 @@
                 39 shab    Samuel H       0
                 39 stwa    Stefan W       0
 
+Tisdag 28/7 stmn,rox,sjomik. Ursvik 3st
 Tisdag 21/7 nubu,rox,sjomik,wlar. Ursvik 5+5km... regn. 4st
 Tisdag 14/7 emived,ikan,magn,meho,nubu,wlar. Ursvik 5km regn. 6st
 Tisdag 7/7 hakm,jkan,livi,magn,meho,nikogr,nubu,rexe,rox,sjomik,wlar. Ursvik 5km,5+5km,10km. 11st
