@@ -1,55 +1,58 @@
-                Ställningen 28/7 2015 w31
+                Ställningen 4/8 2015 w32
                 
-		 1 rox     Roger R       29
-		 2 meho    Mikael M      28
- 		 2 nikogr  Niklas Ö      28
- 		 2 wlar    Lars W        28
-                 5 nubu    Nuri E        27
+		 1 rox     Roger R       30
+ 		 2 nikogr  Niklas Ö      29
+		 3 meho    Mikael M      28
+                 3 nubu    Nuri E        28
+ 		 3 wlar    Lars W        28
 		 6 magn    Mats G        25
 		 7 ikan    Ingvar K      24
                  7 rexe    Olof R        24
 		 9 hakm    Håkan M       23
 		 9 lmju    Mats L        23
+                11 kasm    Björn K       22
                 11 sjomik  Mikael S      22
-                12 kasm    Björn K       21
 		13 ajnn    Anders J      17
 	        14 berk    Björn E       16
+		14 hano    Hans N        16
 		14 pegu    Peder G       16
-		16 hano    Hans N        15
 		17 jkan    Håkan J       14
-		18 ggan    Göte A        12
+		18 ggan    Göte A        13
                 19 jesp    Jesper C       8
                 19 milnil  Nils Erik M    8
                 19 nicl    Niclas S       8
                 19 tkul    Tommy K        8
                 23 stg     Stefan G       6
-		24 umasaj  Umair S  	  5
+		23 umasaj  Umair S  	  6
  		25 henpeh  Henrik P       4
                 25 stmn    Stefan M       4
 		27 prnm    Per N  	  3
                 28 emived  Emil V         2
 		28 iop     Inge P         2
                 28 kjhe    Kjell H        2
+		28 livi    Lisbeth L	  2
 		28 one     Anders Ö  	  2
-                32 anmn    Martin A       1
-		32 danger  Daniel G       1
-                32 gbosch  Gabor S        1
-                32 kolrun  Johanna R      1
-		32 livi    Lisbeth L	  1
-                32 mago    Martin G       1
-               	32 tors    Henrik T       1
-                39 alabdi  Alireza A      0
-		39 alejo   Aleksandar J   0
-                39 cutg    Chau T         0
-                39 fredso  Fredrik S      0
-		39 jannas  Jan N	  0
-		39 jlm     Jonas L        0
-                39 kale    Alexander K    0
-                39 kkst    Ina S          0
-		39 petjoh  Peter J        0
-		39 pyan    Pablo Y	  0
-                39 shab    Samuel H       0
-                39 stwa    Stefan W       0
+                33 anmn    Martin A       1
+		33 danger  Daniel G       1
+                33 gbosch  Gabor S        1
+		33 jdr	   Jose D	  1
+                33 kolrun  Johanna R      1
+                33 mago    Martin G       1
+               	33 tors    Henrik T       1
+                40 alabdi  Alireza A      0
+		40 alejo   Aleksandar J   0
+                40 cutg    Chau T         0
+                40 fredso  Fredrik S      0
+		40 jannas  Jan N	  0
+		40 jlm     Jonas L        0
+                40 kale    Alexander K    0
+                40 kkst    Ina S          0
+		40 petjoh  Peter J        0
+		40 pyan    Pablo Y	  0
+                40 shab    Samuel H       0
+                40 stwa    Stefan W       0
+
+Tisdag 4/8 ggan,hano,jdr,kasm,livi,nikogr,nubu,rox,umasaj. Ursvik 5km,10km sol. 9st
 
 Tisdag 28/7 stmn,rox,sjomik. Ursvik 3st
 Tisdag 21/7 nubu,rox,sjomik,wlar. Ursvik 5+5km... regn. 4st
