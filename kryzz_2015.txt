@@ -1,37 +1,37 @@
-                Ställningen 4/8 2015 w32
+                Ställningen 11/8 2015 w33
                 
-		 1 rox     Roger R       30
- 		 2 nikogr  Niklas Ö      29
-		 3 meho    Mikael M      28
-                 3 nubu    Nuri E        28
- 		 3 wlar    Lars W        28
+		 1 rox     Roger R       31
+ 		 2 nikogr  Niklas Ö      30
+		 3 meho    Mikael M      29
+                 3 nubu    Nuri E        29
+ 		 3 wlar    Lars W        29
+		 6 ikan    Ingvar K      25
 		 6 magn    Mats G        25
-		 7 ikan    Ingvar K      24
-                 7 rexe    Olof R        24
-		 9 hakm    Håkan M       23
-		 9 lmju    Mats L        23
-                11 kasm    Björn K       22
-                11 sjomik  Mikael S      22
-		13 ajnn    Anders J      17
-	        14 berk    Björn E       16
-		14 hano    Hans N        16
-		14 pegu    Peder G       16
+                 6 rexe    Olof R        25
+		 9 hakm    Håkan M       24
+		 9 lmju    Mats L        24
+                11 kasm    Björn K       23
+                12 sjomik  Mikael S      22
+		13 ajnn    Anders J      18
+		14 hano    Hans N        17
+	        15 berk    Björn E       16
+		15 pegu    Peder G       16
+		17 ggan    Göte A        14
 		17 jkan    Håkan J       14
-		18 ggan    Göte A        13
-                19 jesp    Jesper C       8
-                19 milnil  Nils Erik M    8
-                19 nicl    Niclas S       8
-                19 tkul    Tommy K        8
+                19 tkul    Tommy K        9
+                20 jesp    Jesper C       8
+                20 milnil  Nils Erik M    8
+                20 nicl    Niclas S       8
                 23 stg     Stefan G       6
 		23 umasaj  Umair S  	  6
  		25 henpeh  Henrik P       4
+		25 prnm    Per N  	  4
                 25 stmn    Stefan M       4
-		27 prnm    Per N  	  3
-                28 emived  Emil V         2
-		28 iop     Inge P         2
-                28 kjhe    Kjell H        2
-		28 livi    Lisbeth L	  2
-		28 one     Anders Ö  	  2
+		28 livi    Lisbeth L	  3
+                29 emived  Emil V         2
+		29 iop     Inge P         2
+                29 kjhe    Kjell H        2
+		29 one     Anders Ö  	  2
                 33 anmn    Martin A       1
 		33 danger  Daniel G       1
                 33 gbosch  Gabor S        1
@@ -52,6 +52,8 @@
                 40 shab    Samuel H       0
                 40 stwa    Stefan W       0
 
+Tisdag 11/8 ajnn,ggan,hakm,hano,ikan,kasm,livi,lmju,meho,nikogr,nubu,prnm,rexe,rox,tkul,wlar. 
+            Ursvik 5km,5+5km,10km. 16st
 Tisdag 4/8 ggan,hano,jdr,kasm,livi,nikogr,nubu,rox,umasaj. Ursvik 5km,10km sol. 9st
 
 Tisdag 28/7 stmn,rox,sjomik. Ursvik 3st
