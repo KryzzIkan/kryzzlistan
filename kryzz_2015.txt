@@ -1,22 +1,22 @@
-                Ställningen 25/8 2015 w35
+                Ställningen 1/9 2015 w36
                 
- 		 1 nikogr  Niklas Ö      32
-		 2 meho    Mikael M      31
-		 2 rox     Roger R       31
- 		 2 wlar    Lars W        31
+ 		 1 nikogr  Niklas Ö      33
+		 2 meho    Mikael M      32
+		 2 rox     Roger R       32
+ 		 2 wlar    Lars W        32
                  5 nubu    Nuri E        30
-		 6 ikan    Ingvar K      27
-		 6 magn    Mats G        27
-		 8 hakm    Håkan M       26
-		 8 lmju    Mats L        26
-                 8 rexe    Olof R        26
-                11 kasm    Björn K       25
+		 6 ikan    Ingvar K      28
+		 6 magn    Mats G        28
+		 8 hakm    Håkan M       27
+		 8 lmju    Mats L        27
+                10 kasm    Björn K       26
+                10 rexe    Olof R        26
                 12 sjomik  Mikael S      23
-		13 ajnn    Anders J      20
-		14 hano    Hans N        17
-	        15 berk    Björn E       16
-		15 ggan    Göte A        16
-		15 pegu    Peder G       16
+		13 ajnn    Anders J      21
+		14 hano    Hans N        18
+		15 ggan    Göte A        17
+	        16 berk    Björn E       16
+		16 pegu    Peder G       16
 		18 jkan    Håkan J       14
                 19 tkul    Tommy K       11
                 20 jesp    Jesper C       9
@@ -26,14 +26,14 @@
 		23 umasaj  Umair S  	  6
 		25 prnm    Per N  	  5
  		26 henpeh  Henrik P       4
+		26 jdr	   Jose D	  4
                 26 stmn    Stefan M       4
-		28 jdr	   Jose D	  3
-		28 livi    Lisbeth L	  3
-                30 emived  Emil V         2
-		30 iop     Inge P         2
-		30 jima    Jitendra M     2
-                30 kjhe    Kjell H        2
-		30 one     Anders Ö  	  2
+                29 kjhe    Kjell H        3
+		29 livi    Lisbeth L	  3
+                31 emived  Emil V         2
+		31 iop     Inge P         2
+		31 jima    Jitendra M     2
+		31 one     Anders Ö  	  2
                 35 anmn    Martin A       1
 		35 danger  Daniel G       1
                 35 gbosch  Gabor S        1
@@ -52,6 +52,9 @@
 		41 pyan    Pablo Y	  0
                 41 shab    Samuel H       0
                 41 stwa    Stefan W       0
+
+Tisdag 1/9 ajnn,ggan,hakm,hano,ikan,jdr,kasm,kjhe,lmju,magn,meho,nikogr,rox,wlar. 
+            Ursvik 5km,2X5km,3X5km,10km 15km extrem. 14st
 
 Tisdag 25/8 ajnn,ggan,hakm,ikan,jdr,jima,kasm,lmju,magn,meho,nikogr,prmn,rexe,sjomik,tkul,wlar.
             Ursvik 5km,10km. 16st
