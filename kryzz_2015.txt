@@ -1,57 +1,61 @@
-                Ställningen 15/9 2015 w38
+                Ställningen 22/9 2015 w39
                 
+		 1 meho    Mikael M      35
  		 1 nikogr  Niklas Ö      35
-		 2 meho    Mikael M      34
-		 2 rox     Roger R       34
- 		 2 wlar    Lars W        34
-		 5 magn    Mats G        30
-                 5 nubu    Nuri E        30
-		 7 hakm    Håkan M       29
-		 7 ikan    Ingvar K      29
-		 7 lmju    Mats L        29
-                10 kasm    Björn K       28
-                11 rexe    Olof R        27
-                12 sjomik  Mikael S      24
-		13 ajnn    Anders J      22
-		14 ggan    Göte A        19
-		15 hano    Hans N        18
+		 1 rox     Roger R       35
+ 		 1 wlar    Lars W        35
+		 5 magn    Mats G        31
+		 6 hakm    Håkan M       30
+		 6 ikan    Ingvar K      30
+		 6 lmju    Mats L        30
+                 6 nubu    Nuri E        30
+                10 kasm    Björn K       29
+                11 rexe    Olof R        28
+                12 sjomik  Mikael S      25
+		13 ajnn    Anders J      23
+		14 ggan    Göte A        20
+		15 hano    Hans N        19
 	        16 berk    Björn E       16
 		16 pegu    Peder G       16
 		18 jkan    Håkan J       14
                 19 tkul    Tommy K       11
-                20 jesp    Jesper C       9
-                20 nicl    Niclas S       9
+                20 nicl    Niclas S      10
+                21 jesp    Jesper C       9
                 22 milnil  Nils Erik M    8
 		22 umasaj  Umair S  	  8
-		24 jdr	   Jose D	  6
-		24 prnm    Per N  	  6
-                24 stg     Stefan G       6
+		24 jdr	   Jose D	  7
+		25 prnm    Per N  	  6
+                25 stg     Stefan G       6
  		27 henpeh  Henrik P       4
                 27 stmn    Stefan M       4
+		29 danger  Daniel G       3
 		29 livi    Lisbeth L	  3
-		30 danger  Daniel G       2
-                30 emived  Emil V         2
-		30 iop     Inge P         2
-		30 jima    Jitendra M     2
-		30 one     Anders Ö  	  2
+                31 emived  Emil V         2
+		31 iop     Inge P         2
+		31 jima    Jitendra M     2
+		31 one     Anders Ö  	  2
                 35 anmn    Martin A       1
                 35 gbosch  Gabor S        1
+		35 jaxl    J Axell	  1
+		35 johers  J Ersson	  1
                 35 kolrun  Johanna R      1
                 35 mago    Martin G       1
                	35 tors    Henrik T       1
-                40 alabdi  Alireza A      0
-		40 alejo   Aleksandar J   0
-                40 cutg    Chau T         0
-                40 fredso  Fredrik S      0
-		40 jannas  Jan N	  0
-		40 jlm     Jonas L        0
-                40 kale    Alexander K    0
-                40 kkst    Ina S          0
-		40 petjoh  Peter J        0
-		40 pyan    Pablo Y	  0
-                40 shab    Samuel H       0
-                40 stwa    Stefan W       0
+                42 alabdi  Alireza A      0
+		42 alejo   Aleksandar J   0
+                42 cutg    Chau T         0
+                42 fredso  Fredrik S      0
+		42 jannas  Jan N	  0
+		42 jlm     Jonas L        0
+                42 kale    Alexander K    0
+                42 kkst    Ina S          0
+		42 petjoh  Peter J        0
+		42 pyan    Pablo Y	  0
+                42 shab    Samuel H       0
+                42 stwa    Stefan W       0
 
+Tisdag 22/9 ajnn,danger,ggan,hakm,hano,ikan,jaxl,jdr,johers,kasm,lmju,magn,meho,nicl,rexe,rox,sjomik,wlar. 
+            Ursvik 5km,10km, Akalla. 18st
 Tisdag 15/9 *ajnn,*danger,ggan,hakm,*ikan,jdr,*kasm,kjhe,*lmju,*magn,*meho,nicl,nikogr,*rexe,rox,*sjomik,umasaj,*wlar. 
             Ursvik 5km,2X5km,10km, Akalla. 18st *=MiM 10st + berk
 Tisdag 8/9 ggan,hakm,jdr,kasm,lmju,magn,meho,nikogr,prnm,rox,umasaj,wlar. 
