@@ -1,46 +1,46 @@
-                Ställningen 22/9 2015 w39
+                Ställningen 29/9 2015 w40
                 
-		 1 meho    Mikael M      35
- 		 1 nikogr  Niklas Ö      35
-		 1 rox     Roger R       35
- 		 1 wlar    Lars W        35
-		 5 magn    Mats G        31
-		 6 hakm    Håkan M       30
-		 6 ikan    Ingvar K      30
-		 6 lmju    Mats L        30
-                 6 nubu    Nuri E        30
-                10 kasm    Björn K       29
-                11 rexe    Olof R        28
-                12 sjomik  Mikael S      25
-		13 ajnn    Anders J      23
+ 		 1 nikogr  Niklas Ö      36
+		 1 rox     Roger R       36
+ 		 1 wlar    Lars W        36
+		 4 meho    Mikael M      35
+		 5 magn    Mats G        32
+		 6 hakm    Håkan M       31
+		 6 lmju    Mats L        31
+		 8 ikan    Ingvar K      30
+                 8 nubu    Nuri E        30
+                 8 kasm    Björn K       30
+                11 rexe    Olof R        29
+                12 sjomik  Mikael S      26
+		13 ajnn    Anders J      24
+		14 hano    Hans N        20
 		14 ggan    Göte A        20
-		15 hano    Hans N        19
 	        16 berk    Björn E       16
 		16 pegu    Peder G       16
 		18 jkan    Håkan J       14
+                19 nicl    Niclas S      11
                 19 tkul    Tommy K       11
-                20 nicl    Niclas S      10
                 21 jesp    Jesper C       9
+		22 jdr	   Jose D	  8
                 22 milnil  Nils Erik M    8
 		22 umasaj  Umair S  	  8
-		24 jdr	   Jose D	  7
 		25 prnm    Per N  	  6
                 25 stg     Stefan G       6
+		27 danger  Daniel G       4
  		27 henpeh  Henrik P       4
                 27 stmn    Stefan M       4
-		29 danger  Daniel G       3
-		29 livi    Lisbeth L	  3
+		30 livi    Lisbeth L	  3
                 31 emived  Emil V         2
 		31 iop     Inge P         2
 		31 jima    Jitendra M     2
+		31 johers  Johan E	  2
 		31 one     Anders Ö  	  2
-                35 anmn    Martin A       1
-                35 gbosch  Gabor S        1
-		35 jaxl    J Axell	  1
-		35 johers  J Ersson	  1
-                35 kolrun  Johanna R      1
-                35 mago    Martin G       1
-               	35 tors    Henrik T       1
+                36 anmn    Martin A       1
+                36 gbosch  Gabor S        1
+		36 jaxl    Jörgen A	  1
+                36 kolrun  Johanna R      1
+                36 mago    Martin G       1
+               	36 tors    Henrik T       1
                 42 alabdi  Alireza A      0
 		42 alejo   Aleksandar J   0
                 42 cutg    Chau T         0
@@ -54,6 +54,8 @@
                 42 shab    Samuel H       0
                 42 stwa    Stefan W       0
 
+Tisdag 29/9 ajnn,danger,hakm,hano,jdr,johers,kasm,lmju,magn,nicl,nikogr,rexe,rox,sjomik,wlar. 
+            Ursvik 5km,10km. 15st
 Tisdag 22/9 ajnn,danger,ggan,hakm,hano,ikan,jaxl,jdr,johers,kasm,lmju,magn,meho,nicl,rexe,rox,sjomik,wlar. 
             Ursvik 5km,10km, Akalla. 18st
 Tisdag 15/9 *ajnn,*danger,ggan,hakm,*ikan,jdr,*kasm,kjhe,*lmju,*magn,*meho,nicl,nikogr,*rexe,rox,*sjomik,umasaj,*wlar. 
