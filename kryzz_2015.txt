@@ -1,29 +1,29 @@
-                Ställningen 1/10 2015 w40
+                Ställningen 6/10 2015 w41
                 
-		 1 rox     Roger R       37
- 		 1 wlar    Lars W        37
- 		 3 nikogr  Niklas Ö      36
-		 4 meho    Mikael M      35
-		 5 magn    Mats G        33
-		 6 hakm    Håkan M       32
-		 7 ikan    Ingvar K      31
-                 7 kasm    Björn K       31
-		 7 lmju    Mats L        31
+		 1 rox     Roger R       38
+ 		 1 wlar    Lars W        38
+ 		 3 nikogr  Niklas Ö      37
+		 4 meho    Mikael M      36
+		 5 magn    Mats G        34
+		 6 hakm    Håkan M       33
+		 7 ikan    Ingvar K      32
+                 7 kasm    Björn K       32
+		 7 lmju    Mats L        32
                 10 nubu    Nuri E        30
                 11 rexe    Olof R        29
                 12 sjomik  Mikael S      27
-		13 ajnn    Anders J      25
-		14 hano    Hans N        20
-		14 ggan    Göte A        20
+		13 ajnn    Anders J      26
+		14 ggan    Göte A        21
+		15 hano    Hans N        20
 	        16 berk    Björn E       16
 		16 pegu    Peder G       16
 		18 jkan    Håkan J       15
-                19 nicl    Niclas S      11
-                19 tkul    Tommy K       11
+                19 nicl    Niclas S      12
+                20 tkul    Tommy K       11
                 21 jesp    Jesper C       9
-		22 jdr	   Jose D	  8
-                22 milnil  Nils Erik M    8
-		22 umasaj  Umair S  	  8
+		21 jdr	   Jose D	  9
+                23 milnil  Nils Erik M    8
+		23 umasaj  Umair S  	  8
 		25 prnm    Per N  	  6
                 25 stg     Stefan G       6
  		27 henpeh  Henrik P       5
@@ -38,24 +38,26 @@
 		31 one     Anders Ö  	  2
                 37 anmn    Martin A       1
                 37 gbosch  Gabor S        1
+                37 jimtyd  J Ryberg	  1
                 37 kolrun  Johanna R      1
                 37 mago    Martin G       1
 		37 moli    Magnus M	  1
                	37 tors    Henrik T       1
-                43 alabdi  Alireza A      0
-		43 alejo   Aleksandar J   0
-                43 cutg    Chau T         0
-                43 fredso  Fredrik S      0
-		43 jannas  Jan N	  0
-		43 jlm     Jonas L        0
-                43 kale    Alexander K    0
-                43 kkst    Ina S          0
-		43 petjoh  Peter J        0
-		43 pyan    Pablo Y	  0
-                43 shab    Samuel H       0
-                43 stwa    Stefan W       0
+                44 alabdi  Alireza A      0
+		44 alejo   Aleksandar J   0
+                44 cutg    Chau T         0
+                44 fredso  Fredrik S      0
+		44 jannas  Jan N	  0
+		44 jlm     Jonas L        0
+                44 kale    Alexander K    0
+                44 kkst    Ina S          0
+		44 petjoh  Peter J        0
+		44 pyan    Pablo Y	  0
+                44 shab    Samuel H       0
+                44 stwa    Stefan W       0
 
-
+Tisdag 6/10 ajnn,ggan,hakm,ikan,jdr,jimryd,kasm,lmju,magn,meho,nicl,nikogr,rox,wlar.
+            Ursvik 5km,2X5km,10km. 14st
 Torsdag 1/10 ajnn,hakm,henpeh,ikan,jaxl,jkan,kasm,magn,moli,rox,wlar. 
              Ericsson Terrängen Ursvik 5km,10km. 11st 21st totalt
 
