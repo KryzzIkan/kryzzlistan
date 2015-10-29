@@ -1,44 +1,44 @@
-                Ställningen 13/10 2015 w42
+                Ställningen 20/10 2015 w43
                 
-		 1 rox     Roger R       39
- 		 1 wlar    Lars W        39
- 		 3 nikogr  Niklas Ö      38
-		 4 meho    Mikael M      37
-		 5 magn    Mats G        35
-		 6 hakm    Håkan M       33
-		 6 ikan    Ingvar K      33
-                 6 kasm    Björn K       33
-		 6 lmju    Mats L        33
-                10 nubu    Nuri E        30
-                10 rexe    Olof R        30
+		 1 rox     Roger R       40
+ 		 1 wlar    Lars W        40
+ 		 3 nikogr  Niklas Ö      39
+		 4 meho    Mikael M      38
+		 5 magn    Mats G        36
+                 6 kasm    Björn K       34
+		 6 lmju    Mats L        34
+		 8 hakm    Håkan M       33
+		 8 ikan    Ingvar K      33
+                10 rexe    Olof R        31
+                11 nubu    Nuri E        30
 		12 ajnn    Anders J      27
                 12 sjomik  Mikael S      27
-		14 ggan    Göte A        22
+		14 ggan    Göte A        23
 		15 hano    Hans N        20
 	        16 berk    Björn E       16
+		16 jkan    Håkan J       16
 		16 pegu    Peder G       16
-		18 jkan    Håkan J       15
                 19 nicl    Niclas S      13
-                20 tkul    Tommy K       11
-                21 jesp    Jesper C       9
-		21 jdr	   Jose D	  9
-		21 umasaj  Umair S  	  9
+                20 tkul    Tommy K       12
+		21 umasaj  Umair S  	 10
+                22 jesp    Jesper C       9
+		22 jdr	   Jose D	  9
                 24 milnil  Nils Erik M    8
-		25 prnm    Per N  	  7
+		24 prnm    Per N  	  8
                 26 stg     Stefan G       6
+		27 danger  Daniel G       5
  		27 henpeh  Henrik P       5
-		28 danger  Daniel G       4
-                28 stmn    Stefan M       4
+                29 stmn    Stefan M       4
+		30 johers  Johan E	  3
 		30 livi    Lisbeth L	  3
-                31 emived  Emil V         2
-		31 iop     Inge P         2
-		31 jaxl    Jörgen A	  2
-		31 jima    Jitendra M     2
-		31 johers  Johan E	  2
-		31 one     Anders Ö  	  2
+                32 emived  Emil V         2
+		32 iop     Inge P         2
+		32 jaxl    Jörgen A	  2
+		32 jima    Jitendra M     2
+		32 one     Anders Ö  	  2
                 37 anmn    Martin A       1
                 37 gbosch  Gabor S        1
-                37 jimtyd  Jim R	  1
+                37 jimryd  Jim R	  1
 		37 khnshr  Shehryar K	  1
                 37 kolrun  Johanna R      1
                 37 mago    Martin G       1
@@ -57,6 +57,8 @@
                 45 shab    Samuel H       0
                 45 stwa    Stefan W       0
 
+Tisdag 20/10 danger,ggan,jkan,johers,kasm,lmju,magn,meho,nikogr,prnm,rexe,rox,tkul,umasaj,wlar.
+            Ursvik 5km,2X5km. 15st
 Tisdag 13/10 ajnn,ggan,ikan,kasm,khnshr,lmju,magn,meho,nicl,nikogr,prnm,rexe,rox,umasaj,wlar. 
             Ursvik 5km,2X5km,10km. 15st
 Tisdag 6/10 ajnn,ggan,hakm,ikan,jdr,jimryd,kasm,lmju,magn,meho,nicl,nikogr,rox,wlar.
