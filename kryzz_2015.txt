@@ -1,36 +1,36 @@
-                Ställningen 20/10 2015 w43
+                Ställningen 27/10 2015 w44
                 
-		 1 rox     Roger R       40
- 		 1 wlar    Lars W        40
- 		 3 nikogr  Niklas Ö      39
-		 4 meho    Mikael M      38
-		 5 magn    Mats G        36
-                 6 kasm    Björn K       34
-		 6 lmju    Mats L        34
-		 8 hakm    Håkan M       33
-		 8 ikan    Ingvar K      33
-                10 rexe    Olof R        31
+		 1 rox     Roger R       41
+ 		 1 wlar    Lars W        41
+ 		 3 nikogr  Niklas Ö      40
+		 4 meho    Mikael M      39
+		 5 magn    Mats G        37
+		 6 lmju    Mats L        35
+		 7 ikan    Ingvar K      34
+                 7 kasm    Björn K       34
+		 9 hakm    Håkan M       33
+                10 rexe    Olof R        32
                 11 nubu    Nuri E        30
-		12 ajnn    Anders J      27
-                12 sjomik  Mikael S      27
-		14 ggan    Göte A        23
+		12 ajnn    Anders J      28
+                13 sjomik  Mikael S      27
+		14 ggan    Göte A        24
 		15 hano    Hans N        20
 	        16 berk    Björn E       16
 		16 jkan    Håkan J       16
 		16 pegu    Peder G       16
                 19 nicl    Niclas S      13
                 20 tkul    Tommy K       12
-		21 umasaj  Umair S  	 10
+		21 umasaj  Umair S  	 11
                 22 jesp    Jesper C       9
 		22 jdr	   Jose D	  9
-                24 milnil  Nils Erik M    8
-		24 prnm    Per N  	  8
+		22 prnm    Per N  	  9
+                25 milnil  Nils Erik M    8
                 26 stg     Stefan G       6
-		27 danger  Daniel G       5
- 		27 henpeh  Henrik P       5
+		26 danger  Daniel G       6
+ 		28 henpeh  Henrik P       5
+		29 johers  Johan E	  4
                 29 stmn    Stefan M       4
-		30 johers  Johan E	  3
-		30 livi    Lisbeth L	  3
+		31 livi    Lisbeth L	  3
                 32 emived  Emil V         2
 		32 iop     Inge P         2
 		32 jaxl    Jörgen A	  2
@@ -57,6 +57,8 @@
                 45 shab    Samuel H       0
                 45 stwa    Stefan W       0
 
+Tisdag 27/10 ajnn,danger,ggan,ikan,johers,lmju,magn,meho,nikogr,prnm,rexe,rox,umasaj,wlar. 
+            Ursvik 5km,2X5km. Vintertid. 14st
 Tisdag 20/10 danger,ggan,jkan,johers,kasm,lmju,magn,meho,nikogr,prnm,rexe,rox,tkul,umasaj,wlar.
             Ursvik 5km,2X5km. 15st
 Tisdag 13/10 ajnn,ggan,ikan,kasm,khnshr,lmju,magn,meho,nicl,nikogr,prnm,rexe,rox,umasaj,wlar. 
