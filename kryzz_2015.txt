@@ -1,32 +1,32 @@
-                Ställningen 3/11 2015 w45
+                Ställningen 10/11 2015 w46
                 
-		 1 rox     Roger R       42
- 		 1 wlar    Lars W        42
- 		 3 nikogr  Niklas Ö      41
-		 4 meho    Mikael M      40
+		 1 rox     Roger R       43
+ 		 1 wlar    Lars W        43
+ 		 3 nikogr  Niklas Ö      42
+		 4 meho    Mikael M      41
+		 5 lmju    Mats L        37
 		 5 magn    Mats G        37
-		 6 lmju    Mats L        36
-		 7 ikan    Ingvar K      35
-                 7 kasm    Björn K       35
+		 7 ikan    Ingvar K      36
+                 7 kasm    Björn K       36
 		 9 hakm    Håkan M       33
                  9 rexe    Olof R        33
                 11 nubu    Nuri E        30
 		12 ajnn    Anders J      28
                 13 sjomik  Mikael S      27
-		14 ggan    Göte A        25
-		15 hano    Hans N        21
-	        16 berk    Björn E       16
-		16 jkan    Håkan J       16
-		16 pegu    Peder G       16
-                19 nicl    Niclas S      13
-                20 tkul    Tommy K       12
-		20 umasaj  Umair S  	 12
+		14 ggan    Göte A        26
+		15 hano    Hans N        22
+		16 jkan    Håkan J       17
+	        17 berk    Björn E       16
+		17 pegu    Peder G       16
+                19 nicl    Niclas S      14
+		20 umasaj  Umair S  	 13
+                21 tkul    Tommy K       12
 		22 prnm    Per N  	 10
                 22 jesp    Jesper C       9
 		22 jdr	   Jose D	  9
                 25 milnil  Nils Erik M    8
-		26 danger  Daniel G       7
-                26 stg     Stefan G       7
+                25 stg     Stefan G       8
+		27 danger  Daniel G       7
  		28 henpeh  Henrik P       5
 		28 johers  Johan E	  5
                 30 stmn    Stefan M       4
@@ -57,6 +57,7 @@
                 45 shab    Samuel H       0
                 45 stwa    Stefan W       0
 
+Tisdag 10/11 ggan,hano,ikan,jkan,lmju,kasm,meho,nicl,nikogr,rox,stg,umasaj,wlar. Ursvik 5km,2X5km, Akalla. 13st
 Tisdag 3/11 danger,ggan,hano,ikan,johers,lmju,kasm,meho,nikogr,prnm,rexe,rox,stg,umasaj,wlar.
             Ursvik 5km,2X5km, Akalla. 15st
 
