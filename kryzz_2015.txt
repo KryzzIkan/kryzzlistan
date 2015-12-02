@@ -1,21 +1,21 @@
-                Ställningen 10/11 2015 w46
+                Ställningen 17/11 2015 w47
                 
-		 1 rox     Roger R       43
- 		 1 wlar    Lars W        43
- 		 3 nikogr  Niklas Ö      42
-		 4 meho    Mikael M      41
-		 5 lmju    Mats L        37
-		 5 magn    Mats G        37
-		 7 ikan    Ingvar K      36
-                 7 kasm    Björn K       36
-		 9 hakm    Håkan M       33
-                 9 rexe    Olof R        33
+		 1 rox     Roger R       44
+ 		 1 wlar    Lars W        44
+ 		 3 nikogr  Niklas Ö      43
+		 4 meho    Mikael M      42
+		 5 lmju    Mats L        38
+		 5 magn    Mats G        38
+		 7 ikan    Ingvar K      37
+                 7 kasm    Björn K       37
+                 9 rexe    Olof R        34
+		10 hakm    Håkan M       33
                 11 nubu    Nuri E        30
-		12 ajnn    Anders J      28
+		12 ajnn    Anders J      29
                 13 sjomik  Mikael S      27
 		14 ggan    Göte A        26
-		15 hano    Hans N        22
-		16 jkan    Håkan J       17
+		15 hano    Hans N        23
+		16 jkan    Håkan J       18
 	        17 berk    Björn E       16
 		17 pegu    Peder G       16
                 19 nicl    Niclas S      14
@@ -57,6 +57,8 @@
                 45 shab    Samuel H       0
                 45 stwa    Stefan W       0
 
+Tisdag 17/11 ajnn,hano,*ikan,jkan,*lmju,kasm,magn,*meho,nikogr,*rexe,rox,*wlar.
+             Ursvik 5km,2X5km, Akalla. 12st Kryzzbärz *=QH 5st
 Tisdag 10/11 ggan,hano,ikan,jkan,lmju,kasm,meho,nicl,nikogr,rox,stg,umasaj,wlar. Ursvik 5km,2X5km, Akalla. 13st
 Tisdag 3/11 danger,ggan,hano,ikan,johers,lmju,kasm,meho,nikogr,prnm,rexe,rox,stg,umasaj,wlar.
             Ursvik 5km,2X5km, Akalla. 15st
