@@ -1,21 +1,21 @@
-                Ställningen 8/12 2015 w50
+                Ställningen 15/12 2015 w51
                 
-		 1 rox     Roger R       47
- 		 1 wlar    Lars W        47
- 		 3 nikogr  Niklas Ö      46
-		 4 meho    Mikael M      44
-		 5 magn    Mats G        41
-		 6 lmju    Mats L        40
-                 6 kasm    Björn K       40
-		 8 ikan    Ingvar K      39
+		 1 rox     Roger R       48
+ 		 1 wlar    Lars W        48
+ 		 3 nikogr  Niklas Ö      47
+		 4 meho    Mikael M      45
+		 5 magn    Mats G        42
+		 6 lmju    Mats L        41
+                 6 kasm    Björn K       41
+		 8 ikan    Ingvar K      40
                  9 rexe    Olof R        36
 		10 hakm    Håkan M       33
-		11 ajnn    Anders J      31
+		11 ajnn    Anders J      32
                 12 nubu    Nuri E        30
 		13 ggan    Göte A        27
                 13 sjomik  Mikael S      27
 		15 hano    Hans N        23
-		16 jkan    Håkan J       20
+		16 jkan    Håkan J       21
 	        17 berk    Björn E       16
 		17 pegu    Peder G       16
                 19 nicl    Niclas S      14
@@ -57,6 +57,7 @@
                 45 shab    Samuel H       0
                 45 stwa    Stefan W       0
 
+Tisdag 15/12 ajnn,ikan,jkan,kasm,lmju,magn,meho,nikogr,rox,wlar. Ursvik 5km, Akalla. 10st
 Tisdag 8/12 danger,ikan,jkan,kasm,lmju,magn,nikogr,rexe,rox,stg,wlar. Ursvik 5km, Akalla. 11st
 Tisdag 1/12 ajnn,danger,ikan,kasm,magn,meho,nikogr,rox,wlar. Akalla. 9st
 
