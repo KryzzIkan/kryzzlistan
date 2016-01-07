@@ -1,32 +1,32 @@
-                Ställningen 15/12 2015 w51
+                Ställningen 17/12 2015 w51
                 
-		 1 rox     Roger R       48
- 		 1 wlar    Lars W        48
- 		 3 nikogr  Niklas Ö      47
-		 4 meho    Mikael M      45
+		 1 rox     Roger R       49
+ 		 1 wlar    Lars W        49
+ 		 3 nikogr  Niklas Ö      48
+		 4 meho    Mikael M      46
+                 5 kasm    Björn K       42
+		 5 lmju    Mats L        42
 		 5 magn    Mats G        42
-		 6 lmju    Mats L        41
-                 6 kasm    Björn K       41
-		 8 ikan    Ingvar K      40
-                 9 rexe    Olof R        36
+		 8 ikan    Ingvar K      41
+                 9 rexe    Olof R        37
 		10 hakm    Håkan M       33
 		11 ajnn    Anders J      32
                 12 nubu    Nuri E        30
 		13 ggan    Göte A        27
                 13 sjomik  Mikael S      27
 		15 hano    Hans N        23
-		16 jkan    Håkan J       21
+		16 jkan    Håkan J       22
 	        17 berk    Björn E       16
 		17 pegu    Peder G       16
                 19 nicl    Niclas S      14
 		20 umasaj  Umair S  	 13
                 21 tkul    Tommy K       12
 		22 prnm    Per N  	 10
-		25 danger  Daniel G       9
-                22 jesp    Jesper C       9
-		22 jdr	   Jose D	  9
-                25 stg     Stefan G       9
-                25 milnil  Nils Erik M    8
+		23 danger  Daniel G       9
+                23 jesp    Jesper C       9
+		23 jdr	   Jose D	  9
+                23 stg     Stefan G       9
+                27 milnil  Nils Erik M    8
  		28 henpeh  Henrik P       5
 		28 johers  Johan E	  5
                 30 stmn    Stefan M       4
@@ -57,8 +57,10 @@
                 45 shab    Samuel H       0
                 45 stwa    Stefan W       0
 
-Tisdag 15/12 ajnn,ikan,jkan,kasm,lmju,magn,meho,nikogr,rox,wlar. Ursvik 5km, Akalla. 10st
-Tisdag 8/12 danger,ikan,jkan,kasm,lmju,magn,nikogr,rexe,rox,stg,wlar. Ursvik 5km, Akalla. 11st
+Torsdag 17/12: ikan,jkan,kasm,lmju,meho,nikogr,rexe,rox,wlar. Akalla 9st. Julbord Mårten Trotzig(hakm)
+Tisdag 15/12 ajnn,ikan,jkan,kasm,lmju,magn,meho,nikogr,rox,wlar. Ursvik 5km, Akalla 10st. Inga kortbyxor
+Tisdag 8/12 danger,ikan,jkan,kasm,lmju,magn,nikogr,rexe,rox,stg,wlar. 
+            Ursvik 5km, Akalla. 11st
 Tisdag 1/12 ajnn,danger,ikan,kasm,magn,meho,nikogr,rox,wlar. Akalla. 9st
 
 Tisdag 24/11 ajnn,ggan,jkan,lmju,kasm,magn,meho,nikogr,rexe,rox,wlar. 
