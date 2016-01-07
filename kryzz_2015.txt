@@ -1,12 +1,12 @@
-                Ställningen 22/12 2015 w52
+                Ställningen 29/12 2015 w53
                 
-		 1 rox     Roger R       50
- 		 1 wlar    Lars W        50
+		 1 rox     Roger R       51
+ 		 1 wlar    Lars W        51
  		 3 nikogr  Niklas Ö      49
-		 4 meho    Mikael M      47
+		 4 meho    Mikael M      48
                  5 kasm    Björn K       43
 		 5 lmju    Mats L        43
-		 7 magn    Mats G        42
+		 5 magn    Mats G        43
 		 8 ikan    Ingvar K      41
                  9 rexe    Olof R        38
 		10 hakm    Håkan M       33
@@ -57,6 +57,7 @@
                 45 shab    Samuel H       0
                 45 stwa    Stefan W       0
 
+Tisdag 29/12 magn,meho,rox,wlar. Akalla 4st.
 Tisdag 22/12: jkan,kasm,lmju,meho,nicl,nikogr,rexe,rox,wlar. Ursvik 5km, Akalla 9st.
 Torsdag 17/12: ikan,jkan,kasm,lmju,meho,nikogr,rexe,rox,wlar. Akalla 9st. Julbord Mårten Trotzig(hakm)
 Tisdag 15/12 ajnn,ikan,jkan,kasm,lmju,magn,meho,nikogr,rox,wlar. Ursvik 5km, Akalla 10st. Inga kortbyxor
