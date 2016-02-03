@@ -1,46 +1,48 @@
-                Ställningen 19/1 2016 w3
+                Ställningen 26/1 2016 w4
                 
-		 1 ggan    Göte A         3
-		 1 jkan    Håkan J        3
-		 1 magn    Mats G         3
-		 4 ikan    Ingvar K       2
-                 4 kasm    Björn K        2
-		 4 lmju    Mats L         2
-		 4 meho    Mikael M       2
- 		 4 nikogr  Niklas Ö       2
-                 4 rexe    Olof R         2
-		 4 rox     Roger R        2
-                 4 stg     Stefan G       2
- 		 4 wlar    Lars W         2
-                13 emived  Emil V         1
-                13 nubu    Nuri E         1
-                13 tkul    Tommy K        1
-		16 ajnn    Anders J       0
-                16 anmn    Martin A       0
-		16 danger  Daniel G       0
-                16 gbosch  Gabor S        0
-		16 hakm    Håkan M        0
-		16 hano    Hans N         0
- 		16 henpeh  Henrik P       0
-		16 jaxl    Jörgen A	  0
-		16 jdr	   Jose D	  0
-                16 jesp    Jesper C       0
-		16 jima    Jitendra M     0
-                16 jimryd  Jim R	  0
-		16 johers  Johan E	  0
-		16 khnshr  Shehryar K	  0
-                16 kolrun  Johanna R      0
-		16 livi    Lisbeth L	  0
-                16 mago    Martin G       0
-                16 milnil  Nils Erik M    0
-		16 moli    Magnus M	  0
-                16 nicl    Niclas S       0
-		16 one     Anders Ö  	  0
-		16 prnm    Per N  	  0
-                16 stmn    Stefan M       0
-               	16 tors    Henrik T       0
-		16 umasaj  Umair S  	  0
+		 1 ggan    Göte A         4
+		 1 jkan    Håkan J        4
+		 3 ikan    Ingvar K       3
+                 3 kasm    Björn K        3
+		 3 lmju    Mats L         3
+		 3 magn    Mats G         3
+		 3 meho    Mikael M       3
+ 		 3 nikogr  Niklas Ö       3
+		 3 rox     Roger R        3
+                 3 stg     Stefan G       3
+ 		 3 wlar    Lars W         3
+                12 rexe    Olof R         2
+                12 tkul    Tommy K        2
+		14 ajnn    Anders J       1
+                14 emived  Emil V         1
+                14 nubu    Nuri E         1
+		14 prstlj  Stefan L	  1
+                18 anmn    Martin A       0
+		18 danger  Daniel G       0
+                18 gbosch  Gabor S        0
+		18 hakm    Håkan M        0
+		18 hano    Hans N         0
+ 		18 henpeh  Henrik P       0
+		18 jaxl    Jörgen A	  0
+		18 jdr	   Jose D	  0
+                18 jesp    Jesper C       0
+		18 jima    Jitendra M     0
+                18 jimryd  Jim R	  0
+		18 johers  Johan E	  0
+		18 khnshr  Shehryar K	  0
+                18 kolrun  Johanna R      0
+		18 livi    Lisbeth L	  0
+                18 mago    Martin G       0
+                18 milnil  Nils Erik M    0
+		18 moli    Magnus M	  0
+                18 nicl    Niclas S       0
+		18 one     Anders Ö  	  0
+		18 prnm    Per N  	  0
+                18 stmn    Stefan M       0
+               	18 tors    Henrik T       0
+		18 umasaj  Umair S  	  0
 
+Tisdag 26/1: ajnn,ggan,ikan,jkan,kasm,lmju,meho,nikogr,prstlj,rox,stg,tkul,wlar. Akalla 13st.
 Tisdag 19/1: ggan,ikan,jkan,kasm,lmju,magn,meho,nikogr,rexe,rox,stg,tkul. Akalla polisjakt 12st.
 Tisdag 12/1: emived,ggan,ikan,jkan,kasm,lmju,magn,meho,nikogr,nubu,rexe,rox,stg,wlar. Akalla 14st.
 Tisdag 5/1 ggan,jkan,magn,wlar. Akalla 4st. Årsupptakt -10°C
