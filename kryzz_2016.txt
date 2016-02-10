@@ -1,22 +1,22 @@
-                Ställningen 26/1 2016 w4
+                Ställningen 2/2 2016 w5
                 
-		 1 ggan    Göte A         4
-		 1 jkan    Håkan J        4
-		 3 ikan    Ingvar K       3
-                 3 kasm    Björn K        3
-		 3 lmju    Mats L         3
-		 3 magn    Mats G         3
-		 3 meho    Mikael M       3
- 		 3 nikogr  Niklas Ö       3
-		 3 rox     Roger R        3
-                 3 stg     Stefan G       3
- 		 3 wlar    Lars W         3
-                12 rexe    Olof R         2
-                12 tkul    Tommy K        2
-		14 ajnn    Anders J       1
-                14 emived  Emil V         1
-                14 nubu    Nuri E         1
-		14 prstlj  Stefan L	  1
+		 1 ggan    Göte A         5
+		 1 jkan    Håkan J        5
+		 3 ikan    Ingvar K       4
+                 3 kasm    Björn K        4
+		 3 lmju    Mats L         4
+		 3 meho    Mikael M       4
+ 		 3 nikogr  Niklas Ö       4
+		 3 rox     Roger R        4
+ 		 3 wlar    Lars W         4
+		10 magn    Mats G         3
+                10 rexe    Olof R         3
+                10 stg     Stefan G       3
+                10 tkul    Tommy K        3
+                14 nubu    Nuri E         2
+		15 ajnn    Anders J       1
+                15 emived  Emil V         1
+		15 prstlj  Stefan L	  1
                 18 anmn    Martin A       0
 		18 danger  Daniel G       0
                 18 gbosch  Gabor S        0
@@ -41,6 +41,8 @@
                 18 stmn    Stefan M       0
                	18 tors    Henrik T       0
 		18 umasaj  Umair S  	  0
+
+Tisdag 2/2: ggan,ikan,jkan,kasm,lmju,meho,nikogr,nubu,rexe,rox,tkul,wlar. Akalla 12st.
 
 Tisdag 26/1: ajnn,ggan,ikan,jkan,kasm,lmju,meho,nikogr,prstlj,rox,stg,tkul,wlar. Akalla 13st.
 Tisdag 19/1: ggan,ikan,jkan,kasm,lmju,magn,meho,nikogr,rexe,rox,stg,tkul. Akalla polisjakt 12st.
