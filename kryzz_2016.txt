@@ -1,20 +1,20 @@
-                Ställningen 9/2 2016 w6
+                Ställningen 16/2 2016 w7
                 
-		 1 ggan    Göte A         6
-		 1 jkan    Håkan J        6
-		 3 ikan    Ingvar K       5
-                 3 kasm    Björn K        5
-		 3 lmju    Mats L         5
-		 3 meho    Mikael M       5
- 		 3 nikogr  Niklas Ö       5
-		 3 rox     Roger R        5
- 		 3 wlar    Lars W         5
+		 1 ggan    Göte A         7
+		 1 jkan    Håkan J        7
+		 3 ikan    Ingvar K       6
+                 3 kasm    Björn K        6
+		 3 lmju    Mats L         6
+		 3 meho    Mikael M       6
+ 		 3 nikogr  Niklas Ö       6
+		 3 rox     Roger R        6
+ 		 3 wlar    Lars W         6
+                10 nubu    Nuri E         4
                 10 rexe    Olof R         4
                 10 stg     Stefan G       4
-		12 magn    Mats G         3
-                12 nubu    Nuri E         3
-                12 tkul    Tommy K        3
-		15 prstlj  Stefan L	  2
+                10 tkul    Tommy K        4
+		14 magn    Mats G         3
+		14 prstlj  Stefan L	  3
 		16 ajnn    Anders J       1
                 16 emived  Emil V         1
                 18 anmn    Martin A       0
@@ -42,6 +42,7 @@
                	18 tors    Henrik T       0
 		18 umasaj  Umair S  	  0
 
+Tisdag 16/2: ggan,ikan,jkan,kasm,lmju,meho,nikogr,nubu,prstlj,rox,tkul,wlar. Akalla 12st.
 Tisdag 9/2: ggan,ikan,jkan,kasm,lmju,meho,nikogr,nubu,prstlj,rexe,rox,stg,wlar. Akalla, mini Akalla 13st.
 Tisdag 2/2: ggan,ikan,jkan,kasm,lmju,meho,nikogr,nubu,rexe,rox,tkul,wlar. Akalla 12st.
 
