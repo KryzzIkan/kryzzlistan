@@ -1,47 +1,49 @@
-                Ställningen 16/2 2016 w7
+                Ställningen 23/2 2016 w8
                 
-		 1 ggan    Göte A         7
-		 1 jkan    Håkan J        7
-		 3 ikan    Ingvar K       6
-                 3 kasm    Björn K        6
-		 3 lmju    Mats L         6
-		 3 meho    Mikael M       6
- 		 3 nikogr  Niklas Ö       6
-		 3 rox     Roger R        6
- 		 3 wlar    Lars W         6
-                10 nubu    Nuri E         4
-                10 rexe    Olof R         4
-                10 stg     Stefan G       4
-                10 tkul    Tommy K        4
-		14 magn    Mats G         3
-		14 prstlj  Stefan L	  3
+		 1 ggan    Göte A         8
+		 1 jkan    Håkan J        8
+		 3 ikan    Ingvar K       7
+                 3 kasm    Björn K        7
+		 3 lmju    Mats L         7
+		 3 meho    Mikael M       7
+ 		 3 nikogr  Niklas Ö       7
+		 3 rox     Roger R        7
+ 		 3 wlar    Lars W         7
+                10 stg     Stefan G       5
+                10 tkul    Tommy K        5
+		12 magn    Mats G         4
+                12 nubu    Nuri E         4
+		12 prstlj  Stefan L	  4
+                12 rexe    Olof R         4
 		16 ajnn    Anders J       1
                 16 emived  Emil V         1
-                18 anmn    Martin A       0
-		18 danger  Daniel G       0
-                18 gbosch  Gabor S        0
-		18 hakm    Håkan M        0
-		18 hano    Hans N         0
- 		18 henpeh  Henrik P       0
-		18 jaxl    Jörgen A	  0
-		18 jdr	   Jose D	  0
-                18 jesp    Jesper C       0
-		18 jima    Jitendra M     0
-                18 jimryd  Jim R	  0
-		18 johers  Johan E	  0
-		18 khnshr  Shehryar K	  0
-                18 kolrun  Johanna R      0
-		18 livi    Lisbeth L	  0
-                18 mago    Martin G       0
-                18 milnil  Nils Erik M    0
-		18 moli    Magnus M	  0
-                18 nicl    Niclas S       0
-		18 one     Anders Ö  	  0
-		18 prnm    Per N  	  0
-                18 stmn    Stefan M       0
-               	18 tors    Henrik T       0
-		18 umasaj  Umair S  	  0
+		16 hano    Hans N         1
+		16 johost  Johan Ö	  1
+                20 anmn    Martin A       0
+		20 danger  Daniel G       0
+                20 gbosch  Gabor S        0
+		20 hakm    Håkan M        0
+ 		20 henpeh  Henrik P       0
+		20 jaxl    Jörgen A	  0
+		20 jdr	   Jose D	  0
+                20 jesp    Jesper C       0
+		20 jima    Jitendra M     0
+                20 jimryd  Jim R	  0
+		20 johers  Johan E	  0
+		20 khnshr  Shehryar K	  0
+                20 kolrun  Johanna R      0
+		20 livi    Lisbeth L	  0
+                20 mago    Martin G       0
+                20 milnil  Nils Erik M    0
+		20 moli    Magnus M	  0
+                20 nicl    Niclas S       0
+		20 one     Anders Ö  	  0
+		20 prnm    Per N  	  0
+                20 stmn    Stefan M       0
+               	20 tors    Henrik T       0
+		20 umasaj  Umair S  	  0
 
+Tisdag 23/2: ggan,hano,ikan,jkan,johost,kasm,lmju,magn,meho,nikogr,prstlj,rox,stg,tkul,wlar. Akalla 15st.
 Tisdag 16/2: ggan,ikan,jkan,kasm,lmju,meho,nikogr,nubu,prstlj,rox,tkul,wlar. Akalla 12st.
 Tisdag 9/2: ggan,ikan,jkan,kasm,lmju,meho,nikogr,nubu,prstlj,rexe,rox,stg,wlar. Akalla, mini Akalla 13st.
 Tisdag 2/2: ggan,ikan,jkan,kasm,lmju,meho,nikogr,nubu,rexe,rox,tkul,wlar. Akalla 12st.
