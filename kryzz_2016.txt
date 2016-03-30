@@ -1,30 +1,30 @@
-                Ställningen 15/3 2016 w11
+                Ställningen 22/3 2016 w12
 
-		 1 ggan    Göte A        11
-		 1 jkan    Håkan J       11
-		 3 rox     Roger R       10
-		 4 ikan    Ingvar K       9
-		 4 lmju    Mats L         9
-		 4 meho    Mikael M       9
- 		 4 nikogr  Niklas Ö       9
- 		 4 wlar    Lars W         9
-                 9 kasm    Björn K        8
-                10 nubu    Nuri E         7
-                10 tkul    Tommy K        7
-		12 magn    Mats G         5
-		12 prstlj  Stefan L	  5
-                12 rexe    Olof R         5
-                12 stg     Stefan G       5
-		16 prnm    Per N  	  3
-		17 ajnn    Anders J       2
-		17 hakm    Håkan M        2
-		17 hano    Hans N         2
-                20 emived  Emil V         1
-		20 frejus  Fredrik J	  1
-		20 johost  Johan Ö	  1
-                20 nicl    Niclas S       1
-		20 thomee  Håkan T	  1
-		20 umasaj  Umair S  	  1
+		 1 ggan    Göte A        12
+		 1 jkan    Håkan J       12
+		 3 rox     Roger R       11
+		 4 ikan    Ingvar K      10
+		 4 lmju    Mats L        10
+		 4 meho    Mikael M      10
+ 		 4 wlar    Lars W        10
+                 8 kasm    Björn K        9
+ 		 8 nikogr  Niklas Ö       9
+                10 nubu    Nuri E         8
+                10 tkul    Tommy K        8
+		12 magn    Mats G         6
+		13 prstlj  Stefan L	  5
+                13 rexe    Olof R         5
+                13 stg     Stefan G       5
+		16 prnm    Per N  	  4
+		17 ajnn    Anders J       3
+		17 hakm    Håkan M        3
+		19 hano    Hans N         2
+		19 umasaj  Umair S  	  2
+                21 emived  Emil V         1
+		21 frejus  Fredrik J	  1
+		21 johost  Johan Ö	  1
+                21 nicl    Niclas S       1
+		21 thomee  Håkan T	  1
                 26 anmn    Martin A       0
 		26 danger  Daniel G       0
                 26 gbosch  Gabor S        0
@@ -45,6 +45,7 @@
                 26 stmn    Stefan M       0
                	26 tors    Henrik T       0
 
+Tisdag 22/3: ajnn,ggan,hakm,ikan,jkan,kasm,lmju,magn,meho,nubu,prnm,rox,tkul,umasaj,wlar. Akalla, mini Akalla 15st.
 Tisdag 15/3: ajnn,frejus,ggan,hakm,ikan,jkan,lmju,meho,nubu,prnm,rox,thomee,tkul,umasaj. Akalla 14st.
 Tisdag 8/3: ggan,ikan,jkan,lmju,magn,meho,nicl,nikogr,nubu,prnm,prstlj,rexe,rox,tkul,wlar. Akalla 15st.
 Tisdag 1/3: ggan,hakm,hano,jkan,kasm,nikogr,nubu,prnm,rox,wlar. Akalla, mini Akalla 10st.
