@@ -1,25 +1,25 @@
-                Ställningen 22/3 2016 w12
+                Ställningen 29/3 2016 w13
 
-		 1 ggan    Göte A        12
-		 1 jkan    Håkan J       12
-		 3 rox     Roger R       11
-		 4 ikan    Ingvar K      10
-		 4 lmju    Mats L        10
-		 4 meho    Mikael M      10
- 		 4 wlar    Lars W        10
-                 8 kasm    Björn K        9
- 		 8 nikogr  Niklas Ö       9
-                10 nubu    Nuri E         8
-                10 tkul    Tommy K        8
-		12 magn    Mats G         6
-		13 prstlj  Stefan L	  5
-                13 rexe    Olof R         5
-                13 stg     Stefan G       5
-		16 prnm    Per N  	  4
-		17 ajnn    Anders J       3
-		17 hakm    Håkan M        3
-		19 hano    Hans N         2
-		19 umasaj  Umair S  	  2
+		 1 ggan    Göte A        13
+		 1 jkan    Håkan J       13
+		 3 rox     Roger R       12
+		 4 ikan    Ingvar K      11
+		 4 lmju    Mats L        11
+		 4 meho    Mikael M      11
+ 		 4 wlar    Lars W        11
+                 8 kasm    Björn K       10
+ 		 8 nikogr  Niklas Ö      10
+                10 nubu    Nuri E         9
+                11 tkul    Tommy K        8
+		12 magn    Mats G         7
+		13 prstlj  Stefan L	  6
+		14 prnm    Per N  	  5
+                14 rexe    Olof R         5
+                14 stg     Stefan G       5
+		17 ajnn    Anders J       4
+		17 hakm    Håkan M        4
+		19 hano    Hans N         3
+		19 umasaj  Umair S  	  3
                 21 emived  Emil V         1
 		21 frejus  Fredrik J	  1
 		21 johost  Johan Ö	  1
@@ -45,6 +45,8 @@
                 26 stmn    Stefan M       0
                	26 tors    Henrik T       0
 
+Tisdag 29/3: ajnn,ggan,hakm,hano,ikan,jkan,kasm,lmju,magn,meho,nikogr,nubu,prnm,prstlj,rox,umasaj,wlar. 
+             Ursvik 5km, 2X5km + Akalla, 17st. Sommarrundepremiär och årsbästa 17st.
 Tisdag 22/3: ajnn,ggan,hakm,ikan,jkan,kasm,lmju,magn,meho,nubu,prnm,rox,tkul,umasaj,wlar. Akalla, mini Akalla 15st.
 Tisdag 15/3: ajnn,frejus,ggan,hakm,ikan,jkan,lmju,meho,nubu,prnm,rox,thomee,tkul,umasaj. Akalla 14st.
 Tisdag 8/3: ggan,ikan,jkan,lmju,magn,meho,nicl,nikogr,nubu,prnm,prstlj,rexe,rox,tkul,wlar. Akalla 15st.
