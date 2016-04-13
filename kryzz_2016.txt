@@ -1,30 +1,30 @@
-                Ställningen 29/3 2016 w13
+                Ställningen 5/4 2016 w14
 
-		 1 ggan    Göte A        13
-		 1 jkan    Håkan J       13
-		 3 rox     Roger R       12
-		 4 ikan    Ingvar K      11
-		 4 lmju    Mats L        11
-		 4 meho    Mikael M      11
- 		 4 wlar    Lars W        11
-                 8 kasm    Björn K       10
- 		 8 nikogr  Niklas Ö      10
-                10 nubu    Nuri E         9
-                11 tkul    Tommy K        8
-		12 magn    Mats G         7
+		 1 ggan    Göte A        14
+		 2 rox     Roger R       13
+		 2 jkan    Håkan J       13
+		 4 ikan    Ingvar K      12
+		 4 lmju    Mats L        12
+		 4 meho    Mikael M      12
+ 		 4 wlar    Lars W        12
+                 8 kasm    Björn K       11
+ 		 8 nikogr  Niklas Ö      11
+                10 nubu    Nuri E        10
+                11 tkul    Tommy K        9
+		12 magn    Mats G         8
 		13 prstlj  Stefan L	  6
-		14 prnm    Per N  	  5
-                14 rexe    Olof R         5
-                14 stg     Stefan G       5
-		17 ajnn    Anders J       4
-		17 hakm    Håkan M        4
-		19 hano    Hans N         3
-		19 umasaj  Umair S  	  3
-                21 emived  Emil V         1
-		21 frejus  Fredrik J	  1
-		21 johost  Johan Ö	  1
-                21 nicl    Niclas S       1
-		21 thomee  Håkan T	  1
+                13 rexe    Olof R         6
+		15 prnm    Per N  	  5
+		15 hakm    Håkan M        5
+                15 stg     Stefan G       5
+		18 ajnn    Anders J       4
+		18 hano    Hans N         4
+		20 umasaj  Umair S  	  3
+		21 frejus  Fredrik J	  2
+		21 thomee  Håkan T	  2
+                23 emived  Emil V         1
+		23 johost  Johan Ö	  1
+                23 nicl    Niclas S       1
                 26 anmn    Martin A       0
 		26 danger  Daniel G       0
                 26 gbosch  Gabor S        0
@@ -44,6 +44,9 @@
 		26 one     Anders Ö  	  0
                 26 stmn    Stefan M       0
                	26 tors    Henrik T       0
+
+Tisdag 5/4: frejus,ggan,hakm,hano,ikan,kasm,lmju,magn,meho,nikogr,nubu,rexe,rox,tkul,thomee,wlar. 
+            Ursvik 5km, 2X5km, 3X5km, 7km + Akalla, 16st, lmju kortbyxor premiär
 
 Tisdag 29/3: ajnn,ggan,hakm,hano,ikan,jkan,kasm,lmju,magn,meho,nikogr,nubu,prnm,prstlj,rox,umasaj,wlar. 
              Ursvik 5km, 2X5km + Akalla, 17st. Sommarrundepremiär och årsbästa 17st.
