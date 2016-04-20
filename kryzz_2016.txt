@@ -1,30 +1,30 @@
-                Ställningen 5/4 2016 w14
+                Ställningen 12/4 2016 w15
 
-		 1 ggan    Göte A        14
-		 2 rox     Roger R       13
-		 2 jkan    Håkan J       13
-		 4 ikan    Ingvar K      12
-		 4 lmju    Mats L        12
-		 4 meho    Mikael M      12
- 		 4 wlar    Lars W        12
-                 8 kasm    Björn K       11
- 		 8 nikogr  Niklas Ö      11
+		 1 ggan    Göte A        15
+		 2 rox     Roger R       14
+		 3 ikan    Ingvar K      13
+		 3 jkan    Håkan J       13
+		 3 lmju    Mats L        13
+		 3 meho    Mikael M      13
+ 		 3 wlar    Lars W        13
+ 		 8 nikogr  Niklas Ö      12
+                 9 kasm    Björn K       11
                 10 nubu    Nuri E        10
+		11 magn    Mats G         9
                 11 tkul    Tommy K        9
-		12 magn    Mats G         8
+		13 hakm    Håkan M        6
+		13 prnm    Per N  	  6
 		13 prstlj  Stefan L	  6
                 13 rexe    Olof R         6
-		15 prnm    Per N  	  5
-		15 hakm    Håkan M        5
-                15 stg     Stefan G       5
-		18 ajnn    Anders J       4
-		18 hano    Hans N         4
-		20 umasaj  Umair S  	  3
+		17 ajnn    Anders J       5
+                17 stg     Stefan G       5
+		19 hano    Hans N         4
+		19 umasaj  Umair S  	  4
 		21 frejus  Fredrik J	  2
+                21 nicl    Niclas S       2
 		21 thomee  Håkan T	  2
-                23 emived  Emil V         1
-		23 johost  Johan Ö	  1
-                23 nicl    Niclas S       1
+                24 emived  Emil V         1
+		24 johost  Johan Ö	  1
                 26 anmn    Martin A       0
 		26 danger  Daniel G       0
                 26 gbosch  Gabor S        0
@@ -45,6 +45,8 @@
                 26 stmn    Stefan M       0
                	26 tors    Henrik T       0
 
+Tisdag 12/4: ajnn,ggan,hakm,ikan,lmju,magn,meho,nicl,nikogr,prnm,rox,umasaj,wlar.
+             Ursvik + Akalla, 13st
 Tisdag 5/4: frejus,ggan,hakm,hano,ikan,kasm,lmju,magn,meho,nikogr,nubu,rexe,rox,tkul,thomee,wlar. 
             Ursvik 5km, 2X5km, 3X5km, 7km + Akalla, 16st, lmju kortbyxor premiär
 
