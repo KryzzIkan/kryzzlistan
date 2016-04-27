@@ -1,28 +1,28 @@
-                Ställningen 12/4 2016 w15
+                Ställningen 19/4 2016 w16
 
-		 1 ggan    Göte A        15
-		 2 rox     Roger R       14
-		 3 ikan    Ingvar K      13
-		 3 jkan    Håkan J       13
-		 3 lmju    Mats L        13
-		 3 meho    Mikael M      13
- 		 3 wlar    Lars W        13
+		 1 ggan    Göte A        16
+		 2 rox     Roger R       15
+		 3 ikan    Ingvar K      14
+		 3 lmju    Mats L        14
+		 3 meho    Mikael M      14
+ 		 3 wlar    Lars W        14
+		 7 jkan    Håkan J       13
+                 8 kasm    Björn K       12
  		 8 nikogr  Niklas Ö      12
-                 9 kasm    Björn K       11
-                10 nubu    Nuri E        10
-		11 magn    Mats G         9
-                11 tkul    Tommy K        9
-		13 hakm    Håkan M        6
-		13 prnm    Per N  	  6
-		13 prstlj  Stefan L	  6
-                13 rexe    Olof R         6
+                10 nubu    Nuri E        11
+		11 magn    Mats G        10
+                11 tkul    Tommy K       10
+		13 prnm    Per N  	  7
+		14 hakm    Håkan M        6
+		14 prstlj  Stefan L	  6
+                14 rexe    Olof R         6
 		17 ajnn    Anders J       5
                 17 stg     Stefan G       5
 		19 hano    Hans N         4
 		19 umasaj  Umair S  	  4
-		21 frejus  Fredrik J	  2
-                21 nicl    Niclas S       2
-		21 thomee  Håkan T	  2
+                21 nicl    Niclas S       3
+		22 frejus  Fredrik J	  2
+		22 thomee  Håkan T	  2
                 24 emived  Emil V         1
 		24 johost  Johan Ö	  1
                 26 anmn    Martin A       0
@@ -44,7 +44,8 @@
 		26 one     Anders Ö  	  0
                 26 stmn    Stefan M       0
                	26 tors    Henrik T       0
-
+Tisdag 19/4: ggan,ikan,kasm,lmju,magn,meho,nicl,nubu,prnm,rox,tkul,wlar. 
+             Ursvik 5km, 2X5km, 7km, extrem + Akalla, 12st, Kryzzbärz + moules BB 7st.
 Tisdag 12/4: ajnn,ggan,hakm,ikan,lmju,magn,meho,nicl,nikogr,prnm,rox,umasaj,wlar.
              Ursvik + Akalla, 13st
 Tisdag 5/4: frejus,ggan,hakm,hano,ikan,kasm,lmju,magn,meho,nikogr,nubu,rexe,rox,tkul,thomee,wlar. 
