@@ -1,24 +1,24 @@
-                Ställningen 26/4 2016 w17
+                Ställningen 3/5 2016 w18
 
 		 1 ggan    Göte A        17
-		 2 rox     Roger R       16
-		 3 ikan    Ingvar K      15
-		 3 lmju    Mats L        15
-		 3 meho    Mikael M      15
- 		 3 wlar    Lars W        15
-		 7 jkan    Håkan J       13
-                 7 kasm    Björn K       13
- 		 7 nikogr  Niklas Ö      13
-		10 magn    Mats G        11
-                10 nubu    Nuri E        11
-                12 tkul    Tommy K       10
-		13 prnm    Per N  	  8
-		14 ajnn    Anders J       6
-		14 hakm    Håkan M        6
-		14 prstlj  Stefan L	  6
-                14 rexe    Olof R         6
-		18 hano    Hans N         5
-                18 stg     Stefan G       5
+		 1 rox     Roger R       17
+		 3 lmju    Mats L        16
+		 3 meho    Mikael M      16
+ 		 3 wlar    Lars W        16
+		 6 ikan    Ingvar K      15
+                 7 kasm    Björn K       14
+		 8 jkan    Håkan J       13
+ 		 8 nikogr  Niklas Ö      13
+		10 magn    Mats G        12
+                11 nubu    Nuri E        11
+                11 tkul    Tommy K       11
+		13 prnm    Per N  	  9
+		14 prstlj  Stefan L	  7
+		15 ajnn    Anders J       6
+		15 hakm    Håkan M        6
+		15 hano    Hans N         6
+                15 rexe    Olof R         6
+                19 stg     Stefan G       5
 		20 umasaj  Umair S  	  4
                 21 nicl    Niclas S       3
 		22 frejus  Fredrik J	  2
@@ -44,6 +44,8 @@
 		26 one     Anders Ö  	  0
                 26 stmn    Stefan M       0
                	26 tors    Henrik T       0
+
+Tisdag 3/5: hano,kasm,lmju,magn,meho,pernm,prstlj,rox,tkul,wlar. Ursvik 5km, 7km, 10km, 10st
 
 Tisdag 26/4: ajnn,ggan,hano,ikan,kasm,lmju,magn,meho,nikogr,pernm,rox,wlar. Ursvik 5km, 7km,+ Akalla, 12st.
 Tisdag 19/4: ggan,ikan,kasm,lmju,magn,meho,nicl,nubu,prnm,rox,tkul,wlar. 
