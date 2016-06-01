@@ -1,9 +1,9 @@
-                Ställningen 19/5 2016 w20
+                Ställningen 21/5 2016 w20
 
 		 1 ggan    Göte A        20
-		 2 meho    Mikael M      19
-		 2 rox     Roger R       19
- 		 2 wlar    Lars W        19
+		 1 meho    Mikael M      20
+ 		 1 wlar    Lars W        20
+		 4 rox     Roger R       19
 		 5 lmju    Mats L        18
 		 6 ikan    Ingvar K      17
                  6 kasm    Björn K       17
@@ -13,38 +13,40 @@
                 10 nubu    Nuri E        13
 		12 prnm    Per N  	 12
                 13 tkul    Tommy K       11
-		14 ajnn    Anders J       8
-                14 rexe    Olof R         8
+                14 rexe    Olof R         9
+		15 ajnn    Anders J       8
 		16 hano    Hans N         7
 		16 prstlj  Stefan L	  7
 		18 hakm    Håkan M        6
                 18 nicl    Niclas S       6
 		18 umasaj  Umair S  	  6
-                32 stg     Stefan G       5
-		22 frejus  Fredrik J	  2
-		22 thomee  Håkan T	  2
+                21 stg     Stefan G       5
+		22 thomee  Håkan T	  3
+		23 frejus  Fredrik J	  2
                 24 emived  Emil V         1
 		24 johers  Johan E	  1
 		24 johost  Johan Ö	  1
-                27 anmn    Martin A       0
-		27 danger  Daniel G       0
-                27 gbosch  Gabor S        0
- 		27 henpeh  Henrik P       0
-		27 jaxl    Jörgen A	  0
-		27 jdr	   Jose D	  0
-                27 jesp    Jesper C       0
-		27 jima    Jitendra M     0
-                27 jimryd  Jim R	  0
-		27 khnshr  Shehryar K	  0
-                27 kolrun  Johanna R      0
-		27 livi    Lisbeth L	  0
-                27 mago    Martin G       0
-                27 milnil  Nils Erik M    0
-		27 moli    Magnus M	  0
-		27 one     Anders Ö  	  0
-                27 stmn    Stefan M       0
-               	27 tors    Henrik T       0
+		24 pegu	   Peder G	  1
+                28 anmn    Martin A       0
+		28 danger  Daniel G       0
+                28 gbosch  Gabor S        0
+ 		28 henpeh  Henrik P       0
+		28 jaxl    Jörgen A	  0
+		28 jdr	   Jose D	  0
+                28 jesp    Jesper C       0
+		28 jima    Jitendra M     0
+                28 jimryd  Jim R	  0
+		28 khnshr  Shehryar K	  0
+                28 kolrun  Johanna R      0
+		28 livi    Lisbeth L	  0
+                28 mago    Martin G       0
+                28 milnil  Nils Erik M    0
+		28 moli    Magnus M	  0
+		28 one     Anders Ö  	  0
+                28 stmn    Stefan M       0
+               	28 tors    Henrik T       0
 
+Lördag 21/5: kasm,meho,pegu,rexe,thomee,wlar. Göteborgsvarvet EriM 1/2 marathon. 6st
 Torsdag 19/5: ggan,kasm,magn,meho,nicl,prnm,rexe,umasaj,wlar. Klubbmatch Telia Ågesta 5,5km, 11km, 
               Förlust 29-15. 9st+2st ej kryzzlöpare
 Tisdag 17/5: ajnn,ggan,ikan,johers,kasm,lmju,magn,meho,nicl,nikogr,nubu,prnm,rexe,rox,umasaj,wlar. 
