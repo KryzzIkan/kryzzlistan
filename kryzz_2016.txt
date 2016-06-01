@@ -1,22 +1,22 @@
-                Ställningen 21/5 2016 w20
+                Ställningen 24/5 2016 w21
 
-		 1 ggan    Göte A        20
-		 1 meho    Mikael M      20
- 		 1 wlar    Lars W        20
-		 4 rox     Roger R       19
-		 5 lmju    Mats L        18
-		 6 ikan    Ingvar K      17
-                 6 kasm    Björn K       17
-		 8 magn    Mats G        15
- 		 8 nikogr  Niklas Ö      15
-		10 jkan    Håkan J       13
-                10 nubu    Nuri E        13
-		12 prnm    Per N  	 12
+		 1 ggan    Göte A        21
+		 1 meho    Mikael M      21
+ 		 1 wlar    Lars W        21
+		 4 rox     Roger R       20
+		 5 lmju    Mats L        19
+		 6 ikan    Ingvar K      18
+                 6 kasm    Björn K       18
+		 8 magn    Mats G        16
+ 		 8 nikogr  Niklas Ö      16
+                10 nubu    Nuri E        14
+		11 jkan    Håkan J       13
+		11 prnm    Per N  	 13
                 13 tkul    Tommy K       11
-                14 rexe    Olof R         9
+                14 rexe    Olof R        10
 		15 ajnn    Anders J       8
-		16 hano    Hans N         7
-		16 prstlj  Stefan L	  7
+		15 hano    Hans N         8
+		17 prstlj  Stefan L	  7
 		18 hakm    Håkan M        6
                 18 nicl    Niclas S       6
 		18 umasaj  Umair S  	  6
@@ -46,6 +46,8 @@
                 28 stmn    Stefan M       0
                	28 tors    Henrik T       0
 
+Tisdag 24/5: ggan,hano,ikan,kasm,lmju,magn,meho,nikogr,nubu,prnm,rexe,rox,wlar. 
+       	     Ursvik 5km, 2X 5km,7km,10km, + snö 13st
 Lördag 21/5: kasm,meho,pegu,rexe,thomee,wlar. Göteborgsvarvet EriM 1/2 marathon. 6st
 Torsdag 19/5: ggan,kasm,magn,meho,nicl,prnm,rexe,umasaj,wlar. Klubbmatch Telia Ågesta 5,5km, 11km, 
               Förlust 29-15. 9st+2st ej kryzzlöpare
