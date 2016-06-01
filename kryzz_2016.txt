@@ -1,26 +1,26 @@
-                Ställningen 17/5 2016 w20
+                Ställningen 19/5 2016 w20
 
-		 1 ggan    Göte A        19
-		 1 rox     Roger R       19
-		 3 lmju    Mats L        18
-		 3 meho    Mikael M      18
- 		 3 wlar    Lars W        18
+		 1 ggan    Göte A        20
+		 2 meho    Mikael M      19
+		 2 rox     Roger R       19
+ 		 2 wlar    Lars W        19
+		 5 lmju    Mats L        18
 		 6 ikan    Ingvar K      17
-                 7 kasm    Björn K       16
+                 6 kasm    Björn K       17
+		 8 magn    Mats G        15
  		 8 nikogr  Niklas Ö      15
-		 9 magn    Mats G        14
 		10 jkan    Håkan J       13
                 10 nubu    Nuri E        13
-		12 prnm    Per N  	 11
-                12 tkul    Tommy K       11
+		12 prnm    Per N  	 12
+                13 tkul    Tommy K       11
 		14 ajnn    Anders J       8
-		15 hano    Hans N         7
-		15 prstlj  Stefan L	  7
-                15 rexe    Olof R         7
+                14 rexe    Olof R         8
+		16 hano    Hans N         7
+		16 prstlj  Stefan L	  7
 		18 hakm    Håkan M        6
-                19 nicl    Niclas S       5
-                19 stg     Stefan G       5
-		19 umasaj  Umair S  	  5
+                18 nicl    Niclas S       6
+		18 umasaj  Umair S  	  6
+                32 stg     Stefan G       5
 		22 frejus  Fredrik J	  2
 		22 thomee  Håkan T	  2
                 24 emived  Emil V         1
@@ -45,13 +45,15 @@
                 27 stmn    Stefan M       0
                	27 tors    Henrik T       0
 
-Tisdag 17/5: ajnn,ggan,ikan,johers,kasm,lmju,magn,meho,nicl,nikogr,nubu,pernm,rexe,rox,umasaj,wlar. 
+Torsdag 19/5: ggan,kasm,magn,meho,nicl,prnm,rexe,umasaj,wlar. Klubbmatch Telia Ågesta 5,5km, 11km, 
+              Förlust 29-15. 9st+2st ej kryzzlöpare
+Tisdag 17/5: ajnn,ggan,ikan,johers,kasm,lmju,magn,meho,nicl,nikogr,nubu,prnm,rexe,rox,umasaj,wlar. 
              Ursvik 5km, 2X 5km,7km,10km, + Vinter 16st.
-Tisdag 10/5: ajnn,ggan,hano,ikan,kasm,lmju,magn,meho,nicl,nikogr,nubu,pernm,rox,wlar. 
+Tisdag 10/5: ajnn,ggan,hano,ikan,kasm,lmju,magn,meho,nicl,nikogr,nubu,prnm,rox,wlar. 
              Ursvik 5km, 2X 5km,7km,10km,15km + GRRRRRR 14st.
-Tisdag 3/5: hano,kasm,lmju,magn,meho,pernm,prstlj,rox,tkul,wlar. Ursvik 5km, 7km, 10km, 10st
+Tisdag 3/5: hano,kasm,lmju,magn,meho,prnm,prstlj,rox,tkul,wlar. Ursvik 5km, 7km, 10km, 10st
 
-Tisdag 26/4: ajnn,ggan,hano,ikan,kasm,lmju,magn,meho,nikogr,pernm,rox,wlar. Ursvik 5km, 7km,+ Akalla, 12st.
+Tisdag 26/4: ajnn,ggan,hano,ikan,kasm,lmju,magn,meho,nikogr,prnm,rox,wlar. Ursvik 5km, 7km,+ Akalla, 12st.
 Tisdag 19/4: ggan,ikan,kasm,lmju,magn,meho,nicl,nubu,prnm,rox,tkul,wlar. 
              Ursvik 5km, 2X5km, 7km, extrem + Akalla, 12st, Kryzzbärz + moules BB 7st.
 Tisdag 12/4: ajnn,ggan,hakm,ikan,lmju,magn,meho,nicl,nikogr,prnm,rox,umasaj,wlar.
