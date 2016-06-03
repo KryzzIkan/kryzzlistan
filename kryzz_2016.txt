@@ -1,51 +1,53 @@
-                Ställningen 24/5 2016 w21
+                Ställningen 31/5 2016 w22
 
-		 1 ggan    Göte A        21
-		 1 meho    Mikael M      21
- 		 1 wlar    Lars W        21
+		 1 ggan    Göte A        22
+		 1 meho    Mikael M      22
+ 		 1 wlar    Lars W        22
+		 4 lmju    Mats L        20
 		 4 rox     Roger R       20
-		 5 lmju    Mats L        19
-		 6 ikan    Ingvar K      18
-                 6 kasm    Björn K       18
-		 8 magn    Mats G        16
- 		 8 nikogr  Niklas Ö      16
+		 6 ikan    Ingvar K      19
+                 6 kasm    Björn K       19
+		 8 magn    Mats G        17
+ 		 8 nikogr  Niklas Ö      17
                 10 nubu    Nuri E        14
-		11 jkan    Håkan J       13
-		11 prnm    Per N  	 13
+		10 prnm    Per N  	 14
+		12 jkan    Håkan J       13
                 13 tkul    Tommy K       11
                 14 rexe    Olof R        10
-		15 ajnn    Anders J       8
-		15 hano    Hans N         8
+		15 ajnn    Anders J       9
+		15 hano    Hans N         9
+		17 hakm    Håkan M        7
 		17 prstlj  Stefan L	  7
-		18 hakm    Håkan M        6
-                18 nicl    Niclas S       6
-		18 umasaj  Umair S  	  6
+                19 nicl    Niclas S       6
+		19 umasaj  Umair S  	  6
                 21 stg     Stefan G       5
 		22 thomee  Håkan T	  3
 		23 frejus  Fredrik J	  2
                 24 emived  Emil V         1
+                24 jesp    Jesper C       1
 		24 johers  Johan E	  1
 		24 johost  Johan Ö	  1
 		24 pegu	   Peder G	  1
-                28 anmn    Martin A       0
-		28 danger  Daniel G       0
-                28 gbosch  Gabor S        0
- 		28 henpeh  Henrik P       0
-		28 jaxl    Jörgen A	  0
-		28 jdr	   Jose D	  0
-                28 jesp    Jesper C       0
-		28 jima    Jitendra M     0
-                28 jimryd  Jim R	  0
-		28 khnshr  Shehryar K	  0
-                28 kolrun  Johanna R      0
-		28 livi    Lisbeth L	  0
-                28 mago    Martin G       0
-                28 milnil  Nils Erik M    0
-		28 moli    Magnus M	  0
-		28 one     Anders Ö  	  0
-                28 stmn    Stefan M       0
-               	28 tors    Henrik T       0
+                29 anmn    Martin A       0
+		29 danger  Daniel G       0
+                29 gbosch  Gabor S        0
+ 		29 henpeh  Henrik P       0
+		29 jaxl    Jörgen A	  0
+		29 jdr	   Jose D	  0
+		29 jima    Jitendra M     0
+                29 jimryd  Jim R	  0
+		29 khnshr  Shehryar K	  0
+                29 kolrun  Johanna R      0
+		29 livi    Lisbeth L	  0
+                29 mago    Martin G       0
+                29 milnil  Nils Erik M    0
+		29 moli    Magnus M	  0
+		29 one     Anders Ö  	  0
+                29 stmn    Stefan M       0
+               	29 tors    Henrik T       0
 
+Tisdag 31/5: ajnn,ggan,hakm,hano,ikan,jesp,kasm,lmju,magn,meho,nikogr,prnm,wlar.
+       	     Ursvik 5km,7km,10km, + halkbana 13st
 Tisdag 24/5: ggan,hano,ikan,kasm,lmju,magn,meho,nikogr,nubu,prnm,rexe,rox,wlar. 
        	     Ursvik 5km, 2X 5km,7km,10km, + snö 13st
 Lördag 21/5: kasm,meho,pegu,rexe,thomee,wlar. Göteborgsvarvet EriM 1/2 marathon. 6st
