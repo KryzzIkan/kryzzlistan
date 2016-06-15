@@ -1,50 +1,54 @@
-                Ställningen 31/5 2016 w22
+                Ställningen 7/6 2016 w23
 
-		 1 ggan    Göte A        22
-		 1 meho    Mikael M      22
- 		 1 wlar    Lars W        22
-		 4 lmju    Mats L        20
-		 4 rox     Roger R       20
-		 6 ikan    Ingvar K      19
-                 6 kasm    Björn K       19
-		 8 magn    Mats G        17
- 		 8 nikogr  Niklas Ö      17
-                10 nubu    Nuri E        14
-		10 prnm    Per N  	 14
-		12 jkan    Håkan J       13
+		 1 ggan    Göte A        23
+		 1 meho    Mikael M      23
+ 		 1 wlar    Lars W        23
+		 4 lmju    Mats L        21
+		 5 ikan    Ingvar K      20
+		 5 rox     Roger R       20
+                 7 kasm    Björn K       19
+		 8 magn    Mats G        18
+ 		 8 nikogr  Niklas Ö      18
+		10 prnm    Per N  	 15
+		11 jkan    Håkan J       14
+                11 nubu    Nuri E        14
+                13 rexe    Olof R        11
                 13 tkul    Tommy K       11
-                14 rexe    Olof R        10
-		15 ajnn    Anders J       9
-		15 hano    Hans N         9
-		17 hakm    Håkan M        7
-		17 prstlj  Stefan L	  7
-                19 nicl    Niclas S       6
-		19 umasaj  Umair S  	  6
+		15 hano    Hans N        10
+		16 ajnn    Anders J       9
+		17 hakm    Håkan M        8
+                18 nicl    Niclas S       7
+		18 prstlj  Stefan L	  7
+		20 umasaj  Umair S  	  6
                 21 stg     Stefan G       5
 		22 thomee  Håkan T	  3
 		23 frejus  Fredrik J	  2
                 24 emived  Emil V         1
+                24 fla     Finn L         1
                 24 jesp    Jesper C       1
 		24 johers  Johan E	  1
 		24 johost  Johan Ö	  1
 		24 pegu	   Peder G	  1
-                29 anmn    Martin A       0
-		29 danger  Daniel G       0
-                29 gbosch  Gabor S        0
- 		29 henpeh  Henrik P       0
-		29 jaxl    Jörgen A	  0
-		29 jdr	   Jose D	  0
-		29 jima    Jitendra M     0
-                29 jimryd  Jim R	  0
-		29 khnshr  Shehryar K	  0
-                29 kolrun  Johanna R      0
-		29 livi    Lisbeth L	  0
-                29 mago    Martin G       0
-                29 milnil  Nils Erik M    0
-		29 moli    Magnus M	  0
-		29 one     Anders Ö  	  0
-                29 stmn    Stefan M       0
-               	29 tors    Henrik T       0
+                30 anmn    Martin A       0
+		30 danger  Daniel G       0
+                30 gbosch  Gabor S        0
+ 		30 henpeh  Henrik P       0
+		30 jaxl    Jörgen A	  0
+		30 jdr	   Jose D	  0
+		30 jima    Jitendra M     0
+                30 jimryd  Jim R	  0
+		30 khnshr  Shehryar K	  0
+                30 kolrun  Johanna R      0
+		30 livi    Lisbeth L	  0
+                30 mago    Martin G       0
+                30 milnil  Nils Erik M    0
+		30 moli    Magnus M	  0
+		30 one     Anders Ö  	  0
+                30 stmn    Stefan M       0
+               	30 tors    Henrik T       0
+
+Tisdag 7/6: fla,ggan,hakm,hano,ikan,jkan,lmju,magn,meho,nicl,nikogr,prnm,rexe,wlar.
+       	    Ursvik 5km,7km,15km + Akalla 14st
 
 Tisdag 31/5: ajnn,ggan,hakm,hano,ikan,jesp,kasm,lmju,magn,meho,nikogr,prnm,wlar.
        	     Ursvik 5km,7km,10km, + halkbana 13st
