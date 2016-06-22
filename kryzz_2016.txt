@@ -1,22 +1,22 @@
-                Ställningen 7/6 2016 w23
+                Ställningen 14/6 2016 w24
 
-		 1 ggan    Göte A        23
-		 1 meho    Mikael M      23
- 		 1 wlar    Lars W        23
-		 4 lmju    Mats L        21
+		 1 ggan    Göte A        24
+		 1 meho    Mikael M      24
+ 		 1 wlar    Lars W        24
+		 4 lmju    Mats L        22
 		 5 ikan    Ingvar K      20
+                 5 kasm    Björn K       20
 		 5 rox     Roger R       20
-                 7 kasm    Björn K       19
-		 8 magn    Mats G        18
- 		 8 nikogr  Niklas Ö      18
+		 8 magn    Mats G        19
+ 		 8 nikogr  Niklas Ö      19
 		10 prnm    Per N  	 15
 		11 jkan    Håkan J       14
                 11 nubu    Nuri E        14
+		13 hano    Hans N        11
                 13 rexe    Olof R        11
                 13 tkul    Tommy K       11
-		15 hano    Hans N        10
 		16 ajnn    Anders J       9
-		17 hakm    Håkan M        8
+		16 hakm    Håkan M        9
                 18 nicl    Niclas S       7
 		18 prstlj  Stefan L	  7
 		20 umasaj  Umair S  	  6
@@ -47,6 +47,7 @@
                 30 stmn    Stefan M       0
                	30 tors    Henrik T       0
 
+Tisdag 14/6: ggan,hakm,hano,kasm,lmju,magn,meho,nikogr,wlar. Ursvik 5km,10km 9st
 Tisdag 7/6: fla,ggan,hakm,hano,ikan,jkan,lmju,magn,meho,nicl,nikogr,prnm,rexe,wlar.
        	    Ursvik 5km,7km,15km + Akalla 14st
 
