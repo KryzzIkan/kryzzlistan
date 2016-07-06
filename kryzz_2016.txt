@@ -1,52 +1,54 @@
-                Ställningen 21/6 2016 w25
+                Ställningen 28/6 2016 w26
 
-		 1 meho    Mikael M      25
-		 2 ggan    Göte A        24
- 		 2 wlar    Lars W        24
-		 4 lmju    Mats L        23
-		 5 ikan    Ingvar K      21
-                 5 kasm    Björn K       21
-		 5 rox     Roger R       21
-		 8 magn    Mats G        20
- 		 8 nikogr  Niklas Ö      20
-		10 jkan    Håkan J       15
-		10 prnm    Per N  	 15
-                12 nubu    Nuri E        14
+		 1 meho    Mikael M      26
+ 		 2 wlar    Lars W        25
+		 3 ggan    Göte A        24
+		 3 lmju    Mats L        24
+                 5 kasm    Björn K       22
+		 5 rox     Roger R       22
+		 7 ikan    Ingvar K      21
+		 7 magn    Mats G        21
+ 		 7 nikogr  Niklas Ö      21
+		10 jkan    Håkan J       16
+                11 nubu    Nuri E        15
+		11 prnm    Per N  	 15
+		13 hakm    Håkan M       11
 		13 hano    Hans N        11
                 13 rexe    Olof R        11
                 13 tkul    Tommy K       11
-		16 hakm    Håkan M       10
-		17 ajnn    Anders J       9
+		17 ajnn    Anders J      10
                 18 nicl    Niclas S       7
 		18 prstlj  Stefan L	  7
 		20 umasaj  Umair S  	  6
                 21 stg     Stefan G       5
 		22 thomee  Håkan T	  3
+                23 fla     Finn L         2
 		23 frejus  Fredrik J	  2
-                24 emived  Emil V         1
-                24 fla     Finn L         1
-                24 jesp    Jesper C       1
-		24 johers  Johan E	  1
-		24 johost  Johan Ö	  1
-		24 pegu	   Peder G	  1
-                30 anmn    Martin A       0
-		30 danger  Daniel G       0
-                30 gbosch  Gabor S        0
- 		30 henpeh  Henrik P       0
-		30 jaxl    Jörgen A	  0
-		30 jdr	   Jose D	  0
-		30 jima    Jitendra M     0
-                30 jimryd  Jim R	  0
-		30 khnshr  Shehryar K	  0
-                30 kolrun  Johanna R      0
-		30 livi    Lisbeth L	  0
-                30 mago    Martin G       0
-                30 milnil  Nils Erik M    0
-		30 moli    Magnus M	  0
-		30 one     Anders Ö  	  0
-                30 stmn    Stefan M       0
-               	30 tors    Henrik T       0
+                25 emived  Emil V         1
+                25 jesp    Jesper C       1
+		25 johers  Johan E	  1
+		25 johost  Johan Ö	  1
+		25 pegu	   Peder G	  1
+                25 stmn    Stefan M       1
+                31 anmn    Martin A       0
+		31 danger  Daniel G       0
+                31 gbosch  Gabor S        0
+ 		31 henpeh  Henrik P       0
+		31 jaxl    Jörgen A	  0
+		31 jdr	   Jose D	  0
+		31 jima    Jitendra M     0
+                31 jimryd  Jim R	  0
+		31 khnshr  Shehryar K	  0
+                31 kolrun  Johanna R      0
+		31 livi    Lisbeth L	  0
+                31 mago    Martin G       0
+                31 milnil  Nils Erik M    0
+		31 moli    Magnus M	  0
+		31 one     Anders Ö  	  0
+               	31 tors    Henrik T       0
 
+Tisdag 28/6: ajnn,fla,hakm,jkan,kasm,lmju,magn,meho,nikogr,nubu,rox,stmn,wlar. 
+             Ursvik 5km,7km,10km 13st
 Tisdag 21/6: hakm,ikan,jkan,kasm,lmju,magn,meho,nikogr,rox. Ursvik 5km,7km,mtb,extrem + midvinter 9st
 Tisdag 14/6: ggan,hakm,hano,kasm,lmju,magn,meho,nikogr,wlar. Ursvik 5km,10km 9st
 Tisdag 7/6: fla,ggan,hakm,hano,ikan,jkan,lmju,magn,meho,nicl,nikogr,prnm,rexe,wlar.
