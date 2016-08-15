@@ -1,22 +1,22 @@
-                Ställningen 26/7 2016 w30
+                Ställningen 2/8 2016 w31
 
 		 1 meho    Mikael M      29
- 		 2 wlar    Lars W        27
-		 3 ggan    Göte A        26
-		 3 lmju    Mats L        26
- 		 5 nikogr  Niklas Ö      25
-                 6 kasm    Björn K       23
-		 6 magn    Mats G        23
-		 6 rox     Roger R       23
-		 9 ikan    Ingvar K      22
-		10 jkan    Håkan J       17
+ 		 2 wlar    Lars W        28
+		 3 ggan    Göte A        27
+		 4 lmju    Mats L        26
+ 		 4 nikogr  Niklas Ö      26
+		 6 rox     Roger R       24
+		 7 ikan    Ingvar K      23
+                 7 kasm    Björn K       23
+		 7 magn    Mats G        23
+		10 jkan    Håkan J       18
                 11 nubu    Nuri E        16
 		12 prnm    Per N  	 15
-		13 hakm    Håkan M       13
-                13 rexe    Olof R        13
+                13 rexe    Olof R        14
+		14 hakm    Håkan M       13
 		15 hano    Hans N        12
+		16 ajnn    Anders J      11
                 16 tkul    Tommy K       11
-		17 ajnn    Anders J      10
                 18 nicl    Niclas S       8
 		19 prstlj  Stefan L	  7
 		19 umasaj  Umair S  	  7
@@ -47,6 +47,8 @@
 		32 moli    Magnus M	  0
 		32 one     Anders Ö  	  0
                	32 tors    Henrik T       0
+
+Tisdag 2/8: ajnn,ggan,ikan,jkan,nikogr,rexe,rox,wlar. Ursvik 5km,10km 8st
 
 Tisdag 26/7: ggan,nicl,nikogr,rexe. Ursvik 5km, 7km 4st Regn&Åska
 Tisdag 19/7: ggan,jesp,meho,nikogr,oker,rexe,umasaj. Ursvik 5km,7km 7st.
