@@ -1,21 +1,21 @@
-                Ställningen 5/7 2016 w27
+                Ställningen 12/7 2016 w28
 
-		 1 meho    Mikael M      27
- 		 2 wlar    Lars W        26
-		 3 lmju    Mats L        25
+		 1 meho    Mikael M      28
+ 		 2 wlar    Lars W        27
+		 3 lmju    Mats L        26
 		 4 ggan    Göte A        24
                  5 kasm    Björn K       23
+		 5 magn    Mats G        23
+ 		 5 nikogr  Niklas Ö      23
 		 5 rox     Roger R       23
-		 7 ikan    Ingvar K      22
-		 7 magn    Mats G        22
- 		 7 nikogr  Niklas Ö      22
+		 9 ikan    Ingvar K      22
 		10 jkan    Håkan J       17
                 11 nubu    Nuri E        16
 		12 prnm    Per N  	 15
-		13 hakm    Håkan M       12
-		13 hano    Hans N        12
-                13 rexe    Olof R        11
-                13 tkul    Tommy K       11
+		13 hakm    Håkan M       13
+		14 hano    Hans N        12
+                15 rexe    Olof R        11
+                15 tkul    Tommy K       11
 		17 ajnn    Anders J      10
                 18 nicl    Niclas S       7
 		18 prstlj  Stefan L	  7
@@ -47,6 +47,7 @@
 		31 one     Anders Ö  	  0
                	31 tors    Henrik T       0
 
+Tisdag 12/7: hakm,lmju,magn,meho,nikogr,wlar. Ursvik 5km,2*5km,7km,10km 6st (hemkört)
 Tisdag 5/7: hakm,hano,ikan,jkan,kasm,lmju,magn,meho,nikogr,nubu,rox,stmn,wlar. 
             Ursvik 5km,7km,10km,isgatan 13st.
 
