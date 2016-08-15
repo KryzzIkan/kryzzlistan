@@ -1,19 +1,19 @@
-                Ställningen 28/6 2016 w26
+                Ställningen 5/7 2016 w27
 
-		 1 meho    Mikael M      26
- 		 2 wlar    Lars W        25
-		 3 ggan    Göte A        24
-		 3 lmju    Mats L        24
-                 5 kasm    Björn K       22
-		 5 rox     Roger R       22
-		 7 ikan    Ingvar K      21
-		 7 magn    Mats G        21
- 		 7 nikogr  Niklas Ö      21
-		10 jkan    Håkan J       16
-                11 nubu    Nuri E        15
-		11 prnm    Per N  	 15
-		13 hakm    Håkan M       11
-		13 hano    Hans N        11
+		 1 meho    Mikael M      27
+ 		 2 wlar    Lars W        26
+		 3 lmju    Mats L        25
+		 4 ggan    Göte A        24
+                 5 kasm    Björn K       23
+		 5 rox     Roger R       23
+		 7 ikan    Ingvar K      22
+		 7 magn    Mats G        22
+ 		 7 nikogr  Niklas Ö      22
+		10 jkan    Håkan J       17
+                11 nubu    Nuri E        16
+		12 prnm    Per N  	 15
+		13 hakm    Håkan M       12
+		13 hano    Hans N        12
                 13 rexe    Olof R        11
                 13 tkul    Tommy K       11
 		17 ajnn    Anders J      10
@@ -24,12 +24,12 @@
 		22 thomee  Håkan T	  3
                 23 fla     Finn L         2
 		23 frejus  Fredrik J	  2
-                25 emived  Emil V         1
-                25 jesp    Jesper C       1
-		25 johers  Johan E	  1
-		25 johost  Johan Ö	  1
-		25 pegu	   Peder G	  1
-                25 stmn    Stefan M       1
+                23 stmn    Stefan M       2
+                26 emived  Emil V         1
+                26 jesp    Jesper C       1
+		26 johers  Johan E	  1
+		26 johost  Johan Ö	  1
+		26 pegu	   Peder G	  1
                 31 anmn    Martin A       0
 		31 danger  Daniel G       0
                 31 gbosch  Gabor S        0
@@ -46,6 +46,9 @@
 		31 moli    Magnus M	  0
 		31 one     Anders Ö  	  0
                	31 tors    Henrik T       0
+
+Tisdag 5/7: hakm,hano,ikan,jkan,kasm,lmju,magn,meho,nikogr,nubu,rox,stmn,wlar. 
+            Ursvik 5km,7km,10km,isgatan 13st.
 
 Tisdag 28/6: ajnn,fla,hakm,jkan,kasm,lmju,magn,meho,nikogr,nubu,rox,stmn,wlar. 
              Ursvik 5km,7km,10km 13st
