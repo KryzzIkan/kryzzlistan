@@ -1,10 +1,10 @@
-                Ställningen 19/7 2016 w29
+                Ställningen 26/7 2016 w30
 
 		 1 meho    Mikael M      29
  		 2 wlar    Lars W        27
+		 3 ggan    Göte A        26
 		 3 lmju    Mats L        26
-		 4 ggan    Göte A        25
- 		 5 nikogr  Niklas Ö      24
+ 		 5 nikogr  Niklas Ö      25
                  6 kasm    Björn K       23
 		 6 magn    Mats G        23
 		 6 rox     Roger R       23
@@ -13,13 +13,13 @@
                 11 nubu    Nuri E        16
 		12 prnm    Per N  	 15
 		13 hakm    Håkan M       13
-		14 hano    Hans N        12
-                14 rexe    Olof R        12
-                15 tkul    Tommy K       11
+                13 rexe    Olof R        13
+		15 hano    Hans N        12
+                16 tkul    Tommy K       11
 		17 ajnn    Anders J      10
-                18 nicl    Niclas S       7
-		18 prstlj  Stefan L	  7
-		18 umasaj  Umair S  	  7
+                18 nicl    Niclas S       8
+		19 prstlj  Stefan L	  7
+		19 umasaj  Umair S  	  7
                 21 stg     Stefan G       5
 		22 thomee  Håkan T	  3
                 23 fla     Finn L         2
@@ -48,6 +48,7 @@
 		32 one     Anders Ö  	  0
                	32 tors    Henrik T       0
 
+Tisdag 26/7: ggan,nicl,nikogr,rexe. Ursvik 5km, 7km 4st Regn&Åska
 Tisdag 19/7: ggan,jesp,meho,nikogr,oker,rexe,umasaj. Ursvik 5km,7km 7st.
 Tisdag 12/7: hakm,lmju,magn,meho,nikogr,wlar. Ursvik 5km,2*5km,7km,10km 6st (hemkört)
 Tisdag 5/7: hakm,hano,ikan,jkan,kasm,lmju,magn,meho,nikogr,nubu,rox,stmn,wlar. 
