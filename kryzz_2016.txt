@@ -1,52 +1,54 @@
-                Ställningen 12/7 2016 w28
+                Ställningen 19/7 2016 w29
 
-		 1 meho    Mikael M      28
+		 1 meho    Mikael M      29
  		 2 wlar    Lars W        27
 		 3 lmju    Mats L        26
-		 4 ggan    Göte A        24
-                 5 kasm    Björn K       23
-		 5 magn    Mats G        23
- 		 5 nikogr  Niklas Ö      23
-		 5 rox     Roger R       23
+		 4 ggan    Göte A        25
+ 		 5 nikogr  Niklas Ö      24
+                 6 kasm    Björn K       23
+		 6 magn    Mats G        23
+		 6 rox     Roger R       23
 		 9 ikan    Ingvar K      22
 		10 jkan    Håkan J       17
                 11 nubu    Nuri E        16
 		12 prnm    Per N  	 15
 		13 hakm    Håkan M       13
 		14 hano    Hans N        12
-                15 rexe    Olof R        11
+                14 rexe    Olof R        12
                 15 tkul    Tommy K       11
 		17 ajnn    Anders J      10
                 18 nicl    Niclas S       7
 		18 prstlj  Stefan L	  7
-		20 umasaj  Umair S  	  6
+		18 umasaj  Umair S  	  7
                 21 stg     Stefan G       5
 		22 thomee  Håkan T	  3
                 23 fla     Finn L         2
 		23 frejus  Fredrik J	  2
+                23 jesp    Jesper C       2
                 23 stmn    Stefan M       2
-                26 emived  Emil V         1
-                26 jesp    Jesper C       1
-		26 johers  Johan E	  1
-		26 johost  Johan Ö	  1
-		26 pegu	   Peder G	  1
-                31 anmn    Martin A       0
-		31 danger  Daniel G       0
-                31 gbosch  Gabor S        0
- 		31 henpeh  Henrik P       0
-		31 jaxl    Jörgen A	  0
-		31 jdr	   Jose D	  0
-		31 jima    Jitendra M     0
-                31 jimryd  Jim R	  0
-		31 khnshr  Shehryar K	  0
-                31 kolrun  Johanna R      0
-		31 livi    Lisbeth L	  0
-                31 mago    Martin G       0
-                31 milnil  Nils Erik M    0
-		31 moli    Magnus M	  0
-		31 one     Anders Ö  	  0
-               	31 tors    Henrik T       0
+                27 emived  Emil V         1
+		27 johers  Johan E	  1
+		27 johost  Johan Ö	  1
+		27 oker	   Thomas Å	  1
+		27 pegu	   Peder G	  1
+                32 anmn    Martin A       0
+		32 danger  Daniel G       0
+                32 gbosch  Gabor S        0
+ 		32 henpeh  Henrik P       0
+		32 jaxl    Jörgen A	  0
+		32 jdr	   Jose D	  0
+		32 jima    Jitendra M     0
+                32 jimryd  Jim R	  0
+		32 khnshr  Shehryar K	  0
+                32 kolrun  Johanna R      0
+		32 livi    Lisbeth L	  0
+                32 mago    Martin G       0
+                32 milnil  Nils Erik M    0
+		32 moli    Magnus M	  0
+		32 one     Anders Ö  	  0
+               	32 tors    Henrik T       0
 
+Tisdag 19/7: ggan,jesp,meho,nikogr,oker,rexe,umasaj. Ursvik 5km,7km 7st.
 Tisdag 12/7: hakm,lmju,magn,meho,nikogr,wlar. Ursvik 5km,2*5km,7km,10km 6st (hemkört)
 Tisdag 5/7: hakm,hano,ikan,jkan,kasm,lmju,magn,meho,nikogr,nubu,rox,stmn,wlar. 
             Ursvik 5km,7km,10km,isgatan 13st.
