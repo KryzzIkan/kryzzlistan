@@ -1,31 +1,31 @@
-                Ställningen 16/8 2016 w33
+                Ställningen 23/8 2016 w34
 
-		 1 meho    Mikael M      31
- 		 2 wlar    Lars W        30
-		 3 ggan    Göte A        29
-		 4 lmju    Mats L        28
- 		 4 nikogr  Niklas Ö      28
-                 6 kasm    Björn K       25
-		 6 rox     Roger R       25
-		 8 ikan    Ingvar K      24
-		 9 magn    Mats G        23
-		10 jkan    Håkan J       18
-                10 nubu    Nuri E        18
-		12 prnm    Per N  	 15
-                12 rexe    Olof R        15
-		14 hakm    Håkan M       13
-		14 hano    Hans N        13
-                14 tkul    Tommy K       13
+		 1 meho    Mikael M      32
+ 		 2 wlar    Lars W        31
+		 3 ggan    Göte A        30
+		 4 lmju    Mats L        29
+ 		 5 nikogr  Niklas Ö      28
+                 6 kasm    Björn K       26
+		 7 ikan    Ingvar K      25
+		 7 rox     Roger R       25
+		 9 magn    Mats G        24
+                10 nubu    Nuri E        19
+		11 jkan    Håkan J       18
+                12 rexe    Olof R        16
+		13 prnm    Per N  	 15
+		14 hano    Hans N        14
+                14 tkul    Tommy K       14
+		16 hakm    Håkan M       13
 		17 ajnn    Anders J      11
                 18 nicl    Niclas S       9
 		19 prstlj  Stefan L	  7
 		19 umasaj  Umair S  	  7
                 21 stg     Stefan G       5
-                22 stmn    Stefan M       4
+                21 stmn    Stefan M       5
+                23 fla     Finn L         3
+                23 jesp    Jesper C       3
 		23 thomee  Håkan T	  3
-                24 fla     Finn L         2
-		24 frejus  Fredrik J	  2
-                24 jesp    Jesper C       2
+		26 frejus  Fredrik J	  2
                 27 emived  Emil V         1
 		27 johers  Johan E	  1
 		27 johost  Johan Ö	  1
@@ -48,6 +48,8 @@
 		32 one     Anders Ö  	  0
                	32 tors    Henrik T       0
 
+Tisdag 23/8: fla,ggan,hano,ikan,jesp,kasm,lmju,magn,meho,nubu,rexe,stmn,tkul,wlar. 
+             Ursvik 5km,2X 5km, 7km, 10km, PM-jakt 14st.
 Tisdag 16/8: ggan,ikan,kasm,lmju,meho,nicl,nikogr,nubu,stmn,tkul,wlar. 
              Ursvik 5km,2X 5km, 10km, extrem, PM-jakt 11st
 Tisdag 9/8: ggan,hano,kasm,lmju,meho,nikogr,nubu,rexe,rox,stmn,tkul,wlar. 
