@@ -1,15 +1,15 @@
-                Ställningen 23/8 2016 w34
+                Ställningen 30/8 2016 w35
 
 		 1 meho    Mikael M      32
- 		 2 wlar    Lars W        31
+ 		 1 wlar    Lars W        32
 		 3 ggan    Göte A        30
-		 4 lmju    Mats L        29
- 		 5 nikogr  Niklas Ö      28
+		 3 lmju    Mats L        30
+ 		 5 nikogr  Niklas Ö      29
+		 6 ikan    Ingvar K      26
                  6 kasm    Björn K       26
-		 7 ikan    Ingvar K      25
-		 7 rox     Roger R       25
-		 9 magn    Mats G        24
-                10 nubu    Nuri E        19
+		 8 magn    Mats G        25
+		 8 rox     Roger R       25
+                10 nubu    Nuri E        20
 		11 jkan    Håkan J       18
                 12 rexe    Olof R        16
 		13 prnm    Per N  	 15
@@ -20,10 +20,10 @@
                 18 nicl    Niclas S       9
 		19 prstlj  Stefan L	  7
 		19 umasaj  Umair S  	  7
-                21 stg     Stefan G       5
-                21 stmn    Stefan M       5
-                23 fla     Finn L         3
-                23 jesp    Jesper C       3
+                21 stmn    Stefan M       6
+                22 stg     Stefan G       5
+                23 fla     Finn L         4
+                24 jesp    Jesper C       3
 		23 thomee  Håkan T	  3
 		26 frejus  Fredrik J	  2
                 27 emived  Emil V         1
@@ -47,7 +47,8 @@
 		32 moli    Magnus M	  0
 		32 one     Anders Ö  	  0
                	32 tors    Henrik T       0
-
+		
+Tisdag 30/8: fla,ikan,lmju,magn,nikogr,nubu,stmn,wlar. Ursvik 5km, 10km, Xtreme 8st
 Tisdag 23/8: fla,ggan,hano,ikan,jesp,kasm,lmju,magn,meho,nubu,rexe,stmn,tkul,wlar. 
              Ursvik 5km,2X 5km, 7km, 10km, PM-jakt 14st.
 Tisdag 16/8: ggan,ikan,kasm,lmju,meho,nicl,nikogr,nubu,stmn,tkul,wlar. 
