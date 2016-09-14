@@ -1,30 +1,30 @@
-                Ställningen 30/8 2016 w35
+                Ställningen 6/9 2016 w36
 
-		 1 meho    Mikael M      32
- 		 1 wlar    Lars W        32
-		 3 ggan    Göte A        30
-		 3 lmju    Mats L        30
- 		 5 nikogr  Niklas Ö      29
-		 6 ikan    Ingvar K      26
-                 6 kasm    Björn K       26
+		 1 meho    Mikael M      33
+ 		 1 wlar    Lars W        33
+		 3 ggan    Göte A        31
+		 3 lmju    Mats L        31
+ 		 5 nikogr  Niklas Ö      30
+		 6 ikan    Ingvar K      27
+                 6 kasm    Björn K       27
 		 8 magn    Mats G        25
 		 8 rox     Roger R       25
-                10 nubu    Nuri E        20
+                10 nubu    Nuri E        21
 		11 jkan    Håkan J       18
                 12 rexe    Olof R        16
+		13 hano    Hans N        15
 		13 prnm    Per N  	 15
-		14 hano    Hans N        14
-                14 tkul    Tommy K       14
-		16 hakm    Håkan M       13
+                13 tkul    Tommy K       15
+		16 hakm    Håkan M       14
 		17 ajnn    Anders J      11
                 18 nicl    Niclas S       9
-		19 prstlj  Stefan L	  7
-		19 umasaj  Umair S  	  7
+		19 umasaj  Umair S  	  8
+		20 prstlj  Stefan L	  7
                 21 stmn    Stefan M       6
                 22 stg     Stefan G       5
                 23 fla     Finn L         4
                 24 jesp    Jesper C       3
-		23 thomee  Håkan T	  3
+		24 thomee  Håkan T	  3
 		26 frejus  Fredrik J	  2
                 27 emived  Emil V         1
 		27 johers  Johan E	  1
@@ -47,7 +47,10 @@
 		32 moli    Magnus M	  0
 		32 one     Anders Ö  	  0
                	32 tors    Henrik T       0
-		
+
+Tisdag 6/9: ggan,hakm,hano,ikan,kasm,lmju,meho,nikogr,nubu,tkul,umasaj,wlar.
+            Ursvik 5km, 2X 5km, 10km, PM-jakt 12st
+
 Tisdag 30/8: fla,ikan,lmju,magn,nikogr,nubu,stmn,wlar. Ursvik 5km, 10km, Xtreme 8st
 Tisdag 23/8: fla,ggan,hano,ikan,jesp,kasm,lmju,magn,meho,nubu,rexe,stmn,tkul,wlar. 
              Ursvik 5km,2X 5km, 7km, 10km, PM-jakt 14st.
