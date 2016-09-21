@@ -1,28 +1,28 @@
-                Ställningen 6/9 2016 w36
+                Ställningen 13/9 2016 w37
 
-		 1 meho    Mikael M      33
- 		 1 wlar    Lars W        33
-		 3 ggan    Göte A        31
-		 3 lmju    Mats L        31
- 		 5 nikogr  Niklas Ö      30
-		 6 ikan    Ingvar K      27
-                 6 kasm    Björn K       27
-		 8 magn    Mats G        25
-		 8 rox     Roger R       25
+		 1 meho    Mikael M      34
+ 		 1 wlar    Lars W        34
+		 3 ggan    Göte A        32
+		 3 lmju    Mats L        32
+ 		 5 nikogr  Niklas Ö      31
+		 6 ikan    Ingvar K      28
+                 6 kasm    Björn K       28
+		 8 magn    Mats G        26
+		 8 rox     Roger R       26
                 10 nubu    Nuri E        21
 		11 jkan    Håkan J       18
                 12 rexe    Olof R        16
+		13 hakm    Håkan M       15
 		13 hano    Hans N        15
 		13 prnm    Per N  	 15
                 13 tkul    Tommy K       15
-		16 hakm    Håkan M       14
-		17 ajnn    Anders J      11
-                18 nicl    Niclas S       9
-		19 umasaj  Umair S  	  8
+		17 ajnn    Anders J      12
+                18 nicl    Niclas S      10
+		19 umasaj  Umair S  	  9
 		20 prstlj  Stefan L	  7
-                21 stmn    Stefan M       6
+                20 stmn    Stefan M       7
+                22 fla     Finn L         5
                 22 stg     Stefan G       5
-                23 fla     Finn L         4
                 24 jesp    Jesper C       3
 		24 thomee  Håkan T	  3
 		26 frejus  Fredrik J	  2
@@ -47,7 +47,9 @@
 		32 moli    Magnus M	  0
 		32 one     Anders Ö  	  0
                	32 tors    Henrik T       0
-
+		
+Tisdag 13/9: ajnn,fla,ggan,hakm,ikan,kasm,lmju,magn,meho,nicl,nikogr,rox,stmn,umasaj,wlar.
+             Ursvik 5km, 2X 5km, 7km, 10km, 15km, extrem-tävling, PM-jakt 15st.
 Tisdag 6/9: ggan,hakm,hano,ikan,kasm,lmju,meho,nikogr,nubu,tkul,umasaj,wlar.
             Ursvik 5km, 2X 5km, 10km, PM-jakt 12st
 
