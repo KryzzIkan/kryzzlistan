@@ -1,7 +1,7 @@
-                Ställningen 20/9 2016 w38
+                Ställningen 20/9 2016 w39
 
-		 1 meho    Mikael M      35
- 		 1 wlar    Lars W        35
+ 		 1 wlar    Lars W        36
+		 2 meho    Mikael M      35
 		 3 ggan    Göte A        33
 		 3 lmju    Mats L        33
  		 5 nikogr  Niklas Ö      32
@@ -16,8 +16,8 @@
                 12 rexe    Olof R        16
                 12 tkul    Tommy K       16
 		16 hakm    Håkan M       15
-		17 ajnn    Anders J      13
-                18 nicl    Niclas S      11
+		17 ajnn    Anders J      14
+                18 nicl    Niclas S      12
 		19 umasaj  Umair S  	  9
                 20 stmn    Stefan M       8
 		21 prstlj  Stefan L	  7
@@ -27,29 +27,33 @@
 		24 thomee  Håkan T	  3
 		26 frejus  Fredrik J	  2
                 27 emived  Emil V         1
+		27 fredso  Fredrik S      1
 		27 johers  Johan E	  1
 		27 johost  Johan Ö	  1
 		27 oker	   Thomas Å	  1
+		27 one     Anders Ö  	  1
 		27 pegu	   Peder G	  1
-                32 anmn    Martin A       0
-		32 danger  Daniel G       0
-                32 gbosch  Gabor S        0
- 		32 henpeh  Henrik P       0
-		32 jaxl    Jörgen A	  0
-		32 jdr	   Jose D	  0
-		32 jima    Jitendra M     0
-                32 jimryd  Jim R	  0
-		32 khnshr  Shehryar K	  0
-                32 kolrun  Johanna R      0
-		32 livi    Lisbeth L	  0
-                32 mago    Martin G       0
-                32 milnil  Nils Erik M    0
-		32 moli    Magnus M	  0
-		32 one     Anders Ö  	  0
-               	32 tors    Henrik T       0
+		27 petjoh  Peter J	  1
+                35 anmn    Martin A       0
+		35 danger  Daniel G       0
+                35 gbosch  Gabor S        0
+ 		35 henpeh  Henrik P       0
+		35 jaxl    Jörgen A	  0
+		35 jdr	   Jose D	  0
+		35 jima    Jitendra M     0
+                35 jimryd  Jim R	  0
+		35 khnshr  Shehryar K	  0
+                35 kolrun  Johanna R      0
+		35 livi    Lisbeth L	  0
+                35 mago    Martin G       0
+                35 milnil  Nils Erik M    0
+		35 moli    Magnus M	  0
+               	35 tors    Henrik T       0
 		
 Tisdag 20/9: ajnn,fla,ggan,hano,ikan,kasm,lmju,magn,meho,nicl,nikogr,nubu,prnm,rox,stmn,tkul,wlar.
-             Ursvik 5km, 2X 5km, 7km, 10km, PM-jakt 17st		
+             Ursvik 5km, 2X 5km, 7km, 10km, PM-jakt 17st
+Lördag 17/9: ajnn,fredso,nicl,one,petjoh,wlar. Eriaden/EriM Nyköping Terräng 10km.
+             H40 nicl 2:a, fredso 8:a. H50 wlar 1:a, one 3:a, ajnn 8:a, petjoh 12:a. 6st
 Tisdag 13/9: ajnn,fla,ggan,hakm,ikan,kasm,lmju,magn,meho,nicl,nikogr,rox,stmn,umasaj,wlar.
              Ursvik 5km, 2X 5km, 7km, 10km, 15km, extrem-tävling, PM-jakt 15st.
 Tisdag 6/9: ggan,hakm,hano,ikan,kasm,lmju,meho,nikogr,nubu,tkul,umasaj,wlar.
