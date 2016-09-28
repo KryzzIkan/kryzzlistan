@@ -1,28 +1,28 @@
-                Ställningen 13/9 2016 w37
+                Ställningen 20/9 2016 w38
 
-		 1 meho    Mikael M      34
- 		 1 wlar    Lars W        34
-		 3 ggan    Göte A        32
-		 3 lmju    Mats L        32
- 		 5 nikogr  Niklas Ö      31
-		 6 ikan    Ingvar K      28
-                 6 kasm    Björn K       28
-		 8 magn    Mats G        26
-		 8 rox     Roger R       26
-                10 nubu    Nuri E        21
+		 1 meho    Mikael M      35
+ 		 1 wlar    Lars W        35
+		 3 ggan    Göte A        33
+		 3 lmju    Mats L        33
+ 		 5 nikogr  Niklas Ö      32
+		 6 ikan    Ingvar K      29
+                 6 kasm    Björn K       29
+		 8 magn    Mats G        27
+		 8 rox     Roger R       27
+                10 nubu    Nuri E        22
 		11 jkan    Håkan J       18
+		12 hano    Hans N        16
+		12 prnm    Per N  	 16
                 12 rexe    Olof R        16
-		13 hakm    Håkan M       15
-		13 hano    Hans N        15
-		13 prnm    Per N  	 15
-                13 tkul    Tommy K       15
-		17 ajnn    Anders J      12
-                18 nicl    Niclas S      10
+                12 tkul    Tommy K       16
+		16 hakm    Håkan M       15
+		17 ajnn    Anders J      13
+                18 nicl    Niclas S      11
 		19 umasaj  Umair S  	  9
-		20 prstlj  Stefan L	  7
-                20 stmn    Stefan M       7
-                22 fla     Finn L         5
-                22 stg     Stefan G       5
+                20 stmn    Stefan M       8
+		21 prstlj  Stefan L	  7
+                22 fla     Finn L         6
+                23 stg     Stefan G       5
                 24 jesp    Jesper C       3
 		24 thomee  Håkan T	  3
 		26 frejus  Fredrik J	  2
@@ -48,6 +48,8 @@
 		32 one     Anders Ö  	  0
                	32 tors    Henrik T       0
 		
+Tisdag 20/9: ajnn,fla,ggan,hano,ikan,kasm,lmju,magn,meho,nicl,nikogr,nubu,prnm,rox,stmn,tkul,wlar.
+             Ursvik 5km, 2X 5km, 7km, 10km, PM-jakt 17st		
 Tisdag 13/9: ajnn,fla,ggan,hakm,ikan,kasm,lmju,magn,meho,nicl,nikogr,rox,stmn,umasaj,wlar.
              Ursvik 5km, 2X 5km, 7km, 10km, 15km, extrem-tävling, PM-jakt 15st.
 Tisdag 6/9: ggan,hakm,hano,ikan,kasm,lmju,meho,nikogr,nubu,tkul,umasaj,wlar.
