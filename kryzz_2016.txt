@@ -1,25 +1,25 @@
-                Ställningen 20/9 2016 w39
+                Ställningen 27/9 2016 w39
 
- 		 1 wlar    Lars W        36
-		 2 meho    Mikael M      35
-		 3 ggan    Göte A        33
-		 3 lmju    Mats L        33
- 		 5 nikogr  Niklas Ö      32
-		 6 ikan    Ingvar K      29
-                 6 kasm    Björn K       29
-		 8 magn    Mats G        27
-		 8 rox     Roger R       27
-                10 nubu    Nuri E        22
+ 		 1 wlar    Lars W        37
+		 2 meho    Mikael M      36
+		 3 ggan    Göte A        34
+		 3 lmju    Mats L        34
+ 		 5 nikogr  Niklas Ö      33
+		 6 ikan    Ingvar K      30
+                 6 kasm    Björn K       30
+		 8 magn    Mats G        28
+		 8 rox     Roger R       28
+                10 nubu    Nuri E        23
 		11 jkan    Håkan J       18
-		12 hano    Hans N        16
-		12 prnm    Per N  	 16
-                12 rexe    Olof R        16
-                12 tkul    Tommy K       16
-		16 hakm    Håkan M       15
+		12 prnm    Per N  	 17
+                12 rexe    Olof R        17
+		14 hakm    Håkan M       16
+		14 hano    Hans N        16
+                14 tkul    Tommy K       16
 		17 ajnn    Anders J      14
                 18 nicl    Niclas S      12
 		19 umasaj  Umair S  	  9
-                20 stmn    Stefan M       8
+                19 stmn    Stefan M       9
 		21 prstlj  Stefan L	  7
                 22 fla     Finn L         6
                 23 stg     Stefan G       5
@@ -49,7 +49,9 @@
                 35 milnil  Nils Erik M    0
 		35 moli    Magnus M	  0
                	35 tors    Henrik T       0
-		
+
+Tisdag 27/9: ggan,hakm,ikan,kasm,lmju,magn,meho,nikogr,nubu,prnm,rexe,rox,stmn,wlar.
+             Ursvik 5km, 2X 5km, 7km, 10km, PM-jakt 14st.
 Tisdag 20/9: ajnn,fla,ggan,hano,ikan,kasm,lmju,magn,meho,nicl,nikogr,nubu,prnm,rox,stmn,tkul,wlar.
              Ursvik 5km, 2X 5km, 7km, 10km, PM-jakt 17st
 Lördag 17/9: ajnn,fredso,nicl,one,petjoh,wlar. Eriaden/EriM Nyköping Terräng 10km.
