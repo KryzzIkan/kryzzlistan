@@ -1,55 +1,56 @@
-                Ställningen 27/9 2016 w39
+                Ställningen 29/9 2016 w39
 
- 		 1 wlar    Lars W        37
-		 2 meho    Mikael M      36
-		 3 ggan    Göte A        34
-		 3 lmju    Mats L        34
- 		 5 nikogr  Niklas Ö      33
-		 6 ikan    Ingvar K      30
-                 6 kasm    Björn K       30
-		 8 magn    Mats G        28
-		 8 rox     Roger R       28
+ 		 1 wlar    Lars W        38
+		 2 meho    Mikael M      37
+		 3 lmju    Mats L        35
+		 4 ggan    Göte A        34
+ 		 4 nikogr  Niklas Ö      34
+                 6 kasm    Björn K       31
+		 7 ikan    Ingvar K      30
+		 8 magn    Mats G        29
+		 8 rox     Roger R       29
                 10 nubu    Nuri E        23
 		11 jkan    Håkan J       18
+		12 hakm    Håkan M       17
 		12 prnm    Per N  	 17
                 12 rexe    Olof R        17
-		14 hakm    Håkan M       16
-		14 hano    Hans N        16
-                14 tkul    Tommy K       16
+		15 hano    Hans N        16
+                15 tkul    Tommy K       16
 		17 ajnn    Anders J      14
                 18 nicl    Niclas S      12
 		19 umasaj  Umair S  	  9
                 19 stmn    Stefan M       9
-		21 prstlj  Stefan L	  7
+		21 prstlj  Stefan L	  8
                 22 fla     Finn L         6
                 23 stg     Stefan G       5
                 24 jesp    Jesper C       3
 		24 thomee  Håkan T	  3
 		26 frejus  Fredrik J	  2
-                27 emived  Emil V         1
-		27 fredso  Fredrik S      1
-		27 johers  Johan E	  1
-		27 johost  Johan Ö	  1
-		27 oker	   Thomas Å	  1
-		27 one     Anders Ö  	  1
-		27 pegu	   Peder G	  1
-		27 petjoh  Peter J	  1
-                35 anmn    Martin A       0
-		35 danger  Daniel G       0
-                35 gbosch  Gabor S        0
- 		35 henpeh  Henrik P       0
-		35 jaxl    Jörgen A	  0
-		35 jdr	   Jose D	  0
-		35 jima    Jitendra M     0
-                35 jimryd  Jim R	  0
-		35 khnshr  Shehryar K	  0
-                35 kolrun  Johanna R      0
-		35 livi    Lisbeth L	  0
-                35 mago    Martin G       0
-                35 milnil  Nils Erik M    0
-		35 moli    Magnus M	  0
-               	35 tors    Henrik T       0
+		26 johost  Johan Ö	  2
+		26 petjoh  Peter J	  2
+                29 emived  Emil V         1
+		29 fredso  Fredrik S      1
+ 		29 henpeh  Henrik P       1
+		29 johers  Johan E	  1
+		29 oker	   Thomas Å	  1
+		29 one     Anders Ö  	  1
+		29 pegu	   Peder G	  1
+                36 anmn    Martin A       0
+		36 danger  Daniel G       0
+                36 gbosch  Gabor S        0
+		36 jaxl    Jörgen A	  0
+		36 jdr	   Jose D	  0
+		36 jima    Jitendra M     0
+                36 jimryd  Jim R	  0
+		36 khnshr  Shehryar K	  0
+                36 kolrun  Johanna R      0
+		36 livi    Lisbeth L	  0
+                36 mago    Martin G       0
+                36 milnil  Nils Erik M    0
+		36 moli    Magnus M	  0
+               	36 tors    Henrik T       0
 
+Torsdag 29/9 hakm,henpeh,johost,kasm,lmju,magn,meho,nikogr,petjoh,prstlj,rox,wlar. Ericsson Terrängen Ursvik 5km,10km. 12st 21st totalt
 Tisdag 27/9: ggan,hakm,ikan,kasm,lmju,magn,meho,nikogr,nubu,prnm,rexe,rox,stmn,wlar.
              Ursvik 5km, 2X 5km, 7km, 10km, PM-jakt 14st.
 Tisdag 20/9: ajnn,fla,ggan,hano,ikan,kasm,lmju,magn,meho,nicl,nikogr,nubu,prnm,rox,stmn,tkul,wlar.
