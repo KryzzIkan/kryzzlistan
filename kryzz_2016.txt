@@ -1,27 +1,27 @@
-                Ställningen 29/9 2016 w39
+                Ställningen 4/10 2016 w40
 
- 		 1 wlar    Lars W        38
-		 2 meho    Mikael M      37
-		 3 lmju    Mats L        35
-		 4 ggan    Göte A        34
- 		 4 nikogr  Niklas Ö      34
-                 6 kasm    Björn K       31
-		 7 ikan    Ingvar K      30
-		 8 magn    Mats G        29
-		 8 rox     Roger R       29
-                10 nubu    Nuri E        23
+ 		 1 wlar    Lars W        39
+		 2 meho    Mikael M      38
+		 3 lmju    Mats L        36
+		 4 ggan    Göte A        35
+ 		 4 nikogr  Niklas Ö      35
+                 6 kasm    Björn K       32
+		 7 ikan    Ingvar K      31
+		 8 magn    Mats G        30
+		 8 rox     Roger R       30
+                10 nubu    Nuri E        24
+		11 hakm    Håkan M       18
 		11 jkan    Håkan J       18
-		12 hakm    Håkan M       17
-		12 prnm    Per N  	 17
-                12 rexe    Olof R        17
-		15 hano    Hans N        16
-                15 tkul    Tommy K       16
+		11 prnm    Per N  	 18
+                11 rexe    Olof R        18
+		15 hano    Hans N        17
+                16 tkul    Tommy K       16
 		17 ajnn    Anders J      14
                 18 nicl    Niclas S      12
-		19 umasaj  Umair S  	  9
-                19 stmn    Stefan M       9
+                19 stmn    Stefan M      10
+		20 umasaj  Umair S  	  9
 		21 prstlj  Stefan L	  8
-                22 fla     Finn L         6
+                22 fla     Finn L         7
                 23 stg     Stefan G       5
                 24 jesp    Jesper C       3
 		24 thomee  Håkan T	  3
@@ -50,7 +50,11 @@
 		36 moli    Magnus M	  0
                	36 tors    Henrik T       0
 
-Torsdag 29/9 hakm,henpeh,johost,kasm,lmju,magn,meho,nikogr,petjoh,prstlj,rox,wlar. Ericsson Terrängen Ursvik 5km,10km. 12st 21st totalt
+Tisdag 4/10: fla,ggan,*hakm,hano,*ikan,*kasm,*lmju,magn,*meho,nikogr,nubu,prnm,*rexe,rox,stmn,*wlar
+             Ursvik 5km, 2X 5km, 7km, 10km, PM-jakt 16st. *=MiM 7st
+
+Torsdag 29/9 hakm,henpeh,johost,kasm,lmju,magn,meho,nikogr,petjoh,prstlj,rox,wlar.
+             Ericsson Terrängen Ursvik 5km,10km. 12st 21st totalt
 Tisdag 27/9: ggan,hakm,ikan,kasm,lmju,magn,meho,nikogr,nubu,prnm,rexe,rox,stmn,wlar.
              Ursvik 5km, 2X 5km, 7km, 10km, PM-jakt 14st.
 Tisdag 20/9: ajnn,fla,ggan,hano,ikan,kasm,lmju,magn,meho,nicl,nikogr,nubu,prnm,rox,stmn,tkul,wlar.
