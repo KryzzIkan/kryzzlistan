@@ -1,18 +1,18 @@
-                Ställningen 18/10 2016 w42
+                Ställningen 25/10 2016 w43
 
- 		 1 wlar    Lars W        41
-		 2 meho    Mikael M      40
-		 3 lmju    Mats L        38
-		 4 ggan    Göte A        37
- 		 4 nikogr  Niklas Ö      37
-                 6 kasm    Björn K       34
-		 7 ikan    Ingvar K      33
-		 8 magn    Mats G        32
-		 8 rox     Roger R       32
+ 		 1 wlar    Lars W        42
+		 2 meho    Mikael M      41
+		 3 lmju    Mats L        39
+		 4 ggan    Göte A        38
+ 		 4 nikogr  Niklas Ö      38
+                 6 kasm    Björn K       35
+		 7 ikan    Ingvar K      34
+		 8 rox     Roger R       33
+		 9 magn    Mats G        32
                 10 nubu    Nuri E        24
-		11 hakm    Håkan M       20
-		11 prnm    Per N  	 20
-                13 rexe    Olof R        19
+		11 hakm    Håkan M       21
+		11 prnm    Per N  	 21
+                13 rexe    Olof R        20
 		14 hano    Hans N        18
 		14 jkan    Håkan J       18
                 14 tkul    Tommy K       18
@@ -26,31 +26,34 @@
                 24 jesp    Jesper C       3
 		24 thomee  Håkan T	  3
 		26 frejus  Fredrik J	  2
+		26 hrpras  Prashanth K	  2
 		26 johost  Johan Ö	  2
 		26 one     Anders Ö  	  2
 		26 petjoh  Peter J	  2
-                30 emived  Emil V         1
-		30 fredso  Fredrik S      1
- 		30 henpeh  Henrik P       1
-		30 hrpras  Prashanth K	  1
-		30 johers  Johan E	  1
-		30 oker	   Thomas Å	  1
-		30 pegu	   Peder G	  1
-		37 anmn    Martin A       0
-		37 danger  Daniel G       0
-                37 gbosch  Gabor S        0
-		37 jaxl    Jörgen A	  0
-		37 jdr	   Jose D	  0
-		37 jima    Jitendra M     0
-                37 jimryd  Jim R	  0
-		37 khnshr  Shehryar K	  0
-                37 kolrun  Johanna R      0
-		37 livi    Lisbeth L	  0
-                37 mago    Martin G       0
-                37 milnil  Nils Erik M    0
-		37 moli    Magnus M	  0
-               	37 tors    Henrik T       0
-		
+                31 emived  Emil V         1
+		31 fredso  Fredrik S      1
+ 		31 henpeh  Henrik P       1
+		31 johers  Johan E	  1
+		31 oker	   Thomas Å	  1
+		31 pegu	   Peder G	  1
+		31 shab	   Samuel H	  1
+		38 anmn    Martin A       0
+		38 danger  Daniel G       0
+                38 gbosch  Gabor S        0
+		38 jaxl    Jörgen A	  0
+		38 jdr	   Jose D	  0
+		38 jima    Jitendra M     0
+                38 jimryd  Jim R	  0
+		38 khnshr  Shehryar K	  0
+                38 kolrun  Johanna R      0
+		38 livi    Lisbeth L	  0
+                38 mago    Martin G       0
+                38 milnil  Nils Erik M    0
+		38 moli    Magnus M	  0
+               	38 tors    Henrik T       0
+
+Tisdag 25/10: ggan,hakm,hrpras,ikan,kasm,lmju,meho,nikogr,prnm,rexe,rox,shab,wlar.
+              Ursvik 5km, 2X 5km, PM-jakt 13st
 Tisdag 18/10: ajnn,fla,ggan,hakm,hano,hrpras,ikan,kasm,lmju,magn,meho,nikogr,one,prnm,rox,tkul,wlar.
               Ursvik 5km, 2X 5km, 7km, 10km 17st.
 Tisdag 11/10: fla,ggan,hakm,ikan,kasm,lmju,magn,meho,nikogr,prnm,rexe,rox,stmn,tkul,umasaj,wlar.
