@@ -1,26 +1,26 @@
-                Ställningen 8/11 2016 w45
+                Ställningen 15/11 2016 w46
 
- 		 1 wlar    Lars W        44
-		 2 meho    Mikael M      43
-		 3 lmju    Mats L        41
-		 4 ggan    Göte A        40
- 		 4 nikogr  Niklas Ö      40
-                 6 kasm    Björn K       37
-		 7 ikan    Ingvar K      35
-		 7 rox     Roger R       35
-		 9 magn    Mats G        34
+ 		 1 wlar    Lars W        45
+		 2 meho    Mikael M      44
+		 3 lmju    Mats L        42
+		 4 ggan    Göte A        41
+ 		 4 nikogr  Niklas Ö      41
+                 6 kasm    Björn K       38
+		 7 ikan    Ingvar K      36
+		 7 rox     Roger R       36
+		 9 magn    Mats G        35
+		10 hakm    Håkan M       24
                 10 nubu    Nuri E        24
-		11 hakm    Håkan M       23
-		12 prnm    Per N  	 22
+		12 prnm    Per N  	 23
                 13 rexe    Olof R        20
 		14 hano    Hans N        18
 		14 jkan    Håkan J       18
                 14 tkul    Tommy K       18
-		17 ajnn    Anders J      15
-                18 nicl    Niclas S      13
+		17 ajnn    Anders J      16
+                18 nicl    Niclas S      14
                 19 stmn    Stefan M      11
+                20 fla     Finn L        10
 		20 umasaj  Umair S  	 10
-                21 fla     Finn L         9
 		22 prstlj  Stefan L	  8
                 23 stg     Stefan G       5
 		24 hrpras  Prashanth K	  3
@@ -52,7 +52,9 @@
                 39 milnil  Nils Erik M    0
 		39 moli    Magnus M	  0
                	39 tors    Henrik T       0
-		
+
+Tisdag 15/11: ajnn,fla,ggan,hakm,ikan,kasm,lmju,magn,meho,nicl,nikogr,prnm,rox,wlar.
+              Akalla, mini-Akalla 14st
 Tisdag 8/11: ggan,hakm,kasm,lmju,magn,meho,nicl,nikogr,prnm,rox,wlar. Akalla, mini-Akalla 11st
 Tisdag 1/11: ggan,hakm,hrpras,ikan,kasm,lmju,magn,meho,nikogr,rox,tsjesv,wlar.
              Ursvik 5km, 2X 5km, Akalla, PM-jakt 12st
