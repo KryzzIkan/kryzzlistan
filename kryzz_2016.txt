@@ -1,26 +1,26 @@
-                Ställningen 15/11 2016 w46
+                Ställningen 22/11 2016 w47
 
- 		 1 wlar    Lars W        45
-		 2 meho    Mikael M      44
-		 3 lmju    Mats L        42
-		 4 ggan    Göte A        41
- 		 4 nikogr  Niklas Ö      41
-                 6 kasm    Björn K       38
-		 7 ikan    Ingvar K      36
-		 7 rox     Roger R       36
-		 9 magn    Mats G        35
-		10 hakm    Håkan M       24
-                10 nubu    Nuri E        24
-		12 prnm    Per N  	 23
+ 		 1 wlar    Lars W        46
+		 2 meho    Mikael M      45
+		 3 lmju    Mats L        43
+		 4 ggan    Göte A        42
+ 		 4 nikogr  Niklas Ö      42
+                 6 kasm    Björn K       39
+		 7 ikan    Ingvar K      37
+		 8 magn    Mats G        36
+		 8 rox     Roger R       36
+		10 hakm    Håkan M       25
+                11 nubu    Nuri E        24
+		11 prnm    Per N  	 24
                 13 rexe    Olof R        20
 		14 hano    Hans N        18
 		14 jkan    Håkan J       18
                 14 tkul    Tommy K       18
-		17 ajnn    Anders J      16
+		17 ajnn    Anders J      17
                 18 nicl    Niclas S      14
+                19 fla     Finn L        11
                 19 stmn    Stefan M      11
-                20 fla     Finn L        10
-		20 umasaj  Umair S  	 10
+		21 umasaj  Umair S  	 10
 		22 prstlj  Stefan L	  8
                 23 stg     Stefan G       5
 		24 hrpras  Prashanth K	  3
@@ -52,7 +52,9 @@
                 39 milnil  Nils Erik M    0
 		39 moli    Magnus M	  0
                	39 tors    Henrik T       0
-
+		
+Tisdag 22/11: ajnn,fla,ggan,*hakm,*ikan,*kasm,*lmju,*magn,*meho,nikogr,*prnm,*wlar.
+              Akalla, mini-Akalla 12st. *=kryzzbärs+Moules DC 9st (rexe)
 Tisdag 15/11: ajnn,fla,ggan,hakm,ikan,kasm,lmju,magn,meho,nicl,nikogr,prnm,rox,wlar.
               Akalla, mini-Akalla 14st
 Tisdag 8/11: ggan,hakm,kasm,lmju,magn,meho,nicl,nikogr,prnm,rox,wlar. Akalla, mini-Akalla 11st
