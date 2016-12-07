@@ -1,25 +1,25 @@
-                Ställningen 22/11 2016 w47
+                Ställningen 29/11 2016 w48
 
- 		 1 wlar    Lars W        46
-		 2 meho    Mikael M      45
-		 3 lmju    Mats L        43
-		 4 ggan    Göte A        42
- 		 4 nikogr  Niklas Ö      42
-                 6 kasm    Björn K       39
-		 7 ikan    Ingvar K      37
-		 8 magn    Mats G        36
-		 8 rox     Roger R       36
-		10 hakm    Håkan M       25
-                11 nubu    Nuri E        24
-		11 prnm    Per N  	 24
-                13 rexe    Olof R        20
+ 		 1 wlar    Lars W        47
+		 2 meho    Mikael M      46
+		 3 lmju    Mats L        44
+		 4 ggan    Göte A        43
+ 		 4 nikogr  Niklas Ö      43
+                 6 kasm    Björn K       40
+		 7 ikan    Ingvar K      38
+		 8 magn    Mats G        37
+		 9 rox     Roger R       36
+		10 hakm    Håkan M       26
+		11 prnm    Per N  	 25
+                12 nubu    Nuri E        24
+                13 rexe    Olof R        21
 		14 hano    Hans N        18
 		14 jkan    Håkan J       18
                 14 tkul    Tommy K       18
 		17 ajnn    Anders J      17
                 18 nicl    Niclas S      14
-                19 fla     Finn L        11
-                19 stmn    Stefan M      11
+                19 fla     Finn L        12
+                20 stmn    Stefan M      11
 		21 umasaj  Umair S  	 10
 		22 prstlj  Stefan L	  8
                 23 stg     Stefan G       5
@@ -30,6 +30,7 @@
 		27 johost  Johan Ö	  2
 		27 one     Anders Ö  	  2
 		27 petjoh  Peter J	  2
+		31 tsjesv  Jeanette A	  2
                 31 emived  Emil V         1
 		31 fredso  Fredrik S      1
  		31 henpeh  Henrik P       1
@@ -37,7 +38,6 @@
 		31 oker	   Thomas Å	  1
 		31 pegu	   Peder G	  1
 		31 shab	   Samuel H	  1
-		31 tsjesv  Jeanette A	  1
 		39 anmn    Martin A       0
 		39 danger  Daniel G       0
                 39 gbosch  Gabor S        0
@@ -52,7 +52,9 @@
                 39 milnil  Nils Erik M    0
 		39 moli    Magnus M	  0
                	39 tors    Henrik T       0
-		
+
+Tisdag 29/11: fla,ggan,hakm,ikan,kasm,lmju,magn,meho,nikogr,prnm,rexe,tsjesv,wlar.
+              Ursvik 7km, Akalla, mini-Akalla 13st
 Tisdag 22/11: ajnn,fla,ggan,*hakm,*ikan,*kasm,*lmju,*magn,*meho,nikogr,*prnm,*wlar.
               Akalla, mini-Akalla 12st. *=kryzzbärs+Moules DC 9st (rexe)
 Tisdag 15/11: ajnn,fla,ggan,hakm,ikan,kasm,lmju,magn,meho,nicl,nikogr,prnm,rox,wlar.
