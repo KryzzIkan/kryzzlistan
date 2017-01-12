@@ -1,24 +1,24 @@
-                Ställningen 13/12 2016 w50
+                Ställningen 20/12 2016 w51
 
- 		 1 wlar    Lars W        49
-		 2 meho    Mikael M      48
-		 3 lmju    Mats L        46
-		 4 ggan    Göte A        45
- 		 4 nikogr  Niklas Ö      45
-                 6 kasm    Björn K       42
-		 7 ikan    Ingvar K      40
-		 8 magn    Mats G        38
-		 8 rox     Roger R       38
+ 		 1 wlar    Lars W        50
+		 2 meho    Mikael M      49
+		 3 lmju    Mats L        47
+ 		 4 nikogr  Niklas Ö      46
+		 5 ggan    Göte A        45
+                 6 kasm    Björn K       43
+		 7 ikan    Ingvar K      41
+		 8 magn    Mats G        39
+		 8 rox     Roger R       39
 		10 hakm    Håkan M       28
-		11 prnm    Per N  	 27
+		10 prnm    Per N  	 28
                 12 nubu    Nuri E        24
-                13 rexe    Olof R        21
+                13 rexe    Olof R        22
 		14 jkan    Håkan J       20
+		15 ajnn    Anders J      19
                 15 tkul    Tommy K       19
-		16 ajnn    Anders J      18
-		16 hano    Hans N        18
-                18 nicl    Niclas S      14
-                19 fla     Finn L        13
+		17 hano    Hans N        18
+                18 nicl    Niclas S      15
+                19 fla     Finn L        14
                 20 stmn    Stefan M      11
 		21 umasaj  Umair S  	 10
 		22 prstlj  Stefan L	  8
@@ -47,12 +47,14 @@
                 39 jimryd  Jim R	  0
 		39 khnshr  Shehryar K	  0
                 39 kolrun  Johanna R      0
-		39 livi    Lisbeth L	  0
+		39 livi    Lisbeth V	  0
                 39 mago    Martin G       0
                 39 milnil  Nils Erik M    0
 		39 moli    Magnus M	  0
                	39 tors    Henrik T       0
 		
+Tisdag 20/12: ajnn,fla,ikan*,kasm*,lmju*,magn*,meho*,nicl*,nikogr*,prnm,rexe*,rox*,wlar*.
+             Akalla, mini-Akalla 13st. Julbord Movitz * 11st(jkan)		
 Tisdag 13/12: ajnn,ggan,hakm,ikan,jkan,kasm,lmju,meho,nikogr,prnm,rox,tkul,wlar.
              Akalla, mini-Akalla, Ursvik 5km 13st
 Tisdag 6/12: fla,ggan,hakm,ikan,jkan,kasm,lmju,magn,meho,nikogr,prnm,rox,wlar.
