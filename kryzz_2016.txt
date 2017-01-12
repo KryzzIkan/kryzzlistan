@@ -1,22 +1,22 @@
-                Ställningen 6/12 2016 w49
+                Ställningen 13/12 2016 w50
 
- 		 1 wlar    Lars W        48
-		 2 meho    Mikael M      47
-		 3 lmju    Mats L        45
-		 4 ggan    Göte A        44
- 		 4 nikogr  Niklas Ö      44
-                 6 kasm    Björn K       41
-		 7 ikan    Ingvar K      39
+ 		 1 wlar    Lars W        49
+		 2 meho    Mikael M      48
+		 3 lmju    Mats L        46
+		 4 ggan    Göte A        45
+ 		 4 nikogr  Niklas Ö      45
+                 6 kasm    Björn K       42
+		 7 ikan    Ingvar K      40
 		 8 magn    Mats G        38
-		 9 rox     Roger R       37
-		10 hakm    Håkan M       27
-		11 prnm    Per N  	 26
+		 8 rox     Roger R       38
+		10 hakm    Håkan M       28
+		11 prnm    Per N  	 27
                 12 nubu    Nuri E        24
                 13 rexe    Olof R        21
-		14 jkan    Håkan J       19
-		15 hano    Hans N        18
-                15 tkul    Tommy K       18
-		17 ajnn    Anders J      17
+		14 jkan    Håkan J       20
+                15 tkul    Tommy K       19
+		16 ajnn    Anders J      18
+		16 hano    Hans N        18
                 18 nicl    Niclas S      14
                 19 fla     Finn L        13
                 20 stmn    Stefan M      11
@@ -52,7 +52,9 @@
                 39 milnil  Nils Erik M    0
 		39 moli    Magnus M	  0
                	39 tors    Henrik T       0
-
+		
+Tisdag 13/12: ajnn,ggan,hakm,ikan,jkan,kasm,lmju,meho,nikogr,prnm,rox,tkul,wlar.
+             Akalla, mini-Akalla, Ursvik 5km 13st
 Tisdag 6/12: fla,ggan,hakm,ikan,jkan,kasm,lmju,magn,meho,nikogr,prnm,rox,wlar.
              Ursvik 5km, Akalla, mini-Akalla, PM-jakt 13st
 
