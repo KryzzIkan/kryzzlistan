@@ -1,18 +1,18 @@
-                Ställningen 20/12 2016 w51
+                Slutställningen 27/12 2016 w52
 
- 		 1 wlar    Lars W        50
-		 2 meho    Mikael M      49
+ 		 1 wlar    Lars W        51
+		 2 meho    Mikael M      50
 		 3 lmju    Mats L        47
  		 4 nikogr  Niklas Ö      46
 		 5 ggan    Göte A        45
-                 6 kasm    Björn K       43
+                 6 kasm    Björn K       44
 		 7 ikan    Ingvar K      41
-		 8 magn    Mats G        39
-		 8 rox     Roger R       39
-		10 hakm    Håkan M       28
-		10 prnm    Per N  	 28
+		 8 rox     Roger R       40
+		 9 magn    Mats G        39
+		10 hakm    Håkan M       29
+		10 prnm    Per N  	 29
                 12 nubu    Nuri E        24
-                13 rexe    Olof R        22
+                13 rexe    Olof R        23
 		14 jkan    Håkan J       20
 		15 ajnn    Anders J      19
                 15 tkul    Tommy K       19
@@ -35,24 +35,26 @@
 		31 fredso  Fredrik S      1
  		31 henpeh  Henrik P       1
 		31 johers  Johan E	  1
+		31 livi    Lisbeth V	  1
 		31 oker	   Thomas Å	  1
 		31 pegu	   Peder G	  1
 		31 shab	   Samuel H	  1
-		39 anmn    Martin A       0
-		39 danger  Daniel G       0
-                39 gbosch  Gabor S        0
-		39 jaxl    Jörgen A	  0
-		39 jdr	   Jose D	  0
-		39 jima    Jitendra M     0
-                39 jimryd  Jim R	  0
-		39 khnshr  Shehryar K	  0
-                39 kolrun  Johanna R      0
-		39 livi    Lisbeth V	  0
-                39 mago    Martin G       0
-                39 milnil  Nils Erik M    0
-		39 moli    Magnus M	  0
-               	39 tors    Henrik T       0
+		40 anmn    Martin A       0
+		40 danger  Daniel G       0
+                40 gbosch  Gabor S        0
+		40 jaxl    Jörgen A	  0
+		40 jdr	   Jose D	  0
+		40 jima    Jitendra M     0
+                40 jimryd  Jim R	  0
+		40 khnshr  Shehryar K	  0
+                40 kolrun  Johanna R      0
+                40 mago    Martin G       0
+                40 milnil  Nils Erik M    0
+		40 moli    Magnus M	  0
+               	40 tors    Henrik T       0
 		
+Tisdag 27/12: hakm,kasm,livi,meho,prnm,rexe,rox,wlar.
+              Akalla, mini-Akalla 8st		
 Tisdag 20/12: ajnn,fla,ikan*,kasm*,lmju*,magn*,meho*,nicl*,nikogr*,prnm,rexe*,rox*,wlar*.
              Akalla, mini-Akalla 13st. Julbord Movitz * 11st(jkan)		
 Tisdag 13/12: ajnn,ggan,hakm,ikan,jkan,kasm,lmju,meho,nikogr,prnm,rox,tkul,wlar.
