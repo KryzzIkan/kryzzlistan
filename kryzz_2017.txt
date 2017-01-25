@@ -1,45 +1,48 @@
-                Ställningen 10/1 2017 w02
+                Ställningen 17/1 2017 w03
 
-		 1 ggan    Göte A         2
-                 1 kasm    Björn K        2
-		 1 livi    Lisbeth V	  2
-		 1 lmju    Mats L         2
-		 1 magn    Mats G         2
-                 1 rexe    Olof R         2
-		 1 shab	   Samuel H	  2
-		 8 ikan    Ingvar K       1
-		 8 meho    Mikael M       1
-                 8 nicl    Niclas S       1
-		 8 prnm    Per N  	  1
-		 8 rox     Roger R        1
- 		 8 wlar    Lars W         1
-		14 ajnn    Anders J       0
-		14 danger  Daniel G       0
-                14 emived  Emil V         0
-                14 fla     Finn L         0
-		14 fredso  Fredrik S      0
-		14 frejus  Fredrik J	  0
-		14 hano    Hans N         0
- 		14 henpeh  Henrik P       0
-		14 hrpras  Prashanth K	  0
-		14 jaxl    Jörgen A	  0
-                14 jesp    Jesper C       0
-		14 jima    Jitendra M     0
-		14 johers  Johan E	  0
-		14 johost  Johan Ö	  0
-		14 moli    Magnus M	  0
- 		14 nikogr  Niklas Ö       0
-                14 nubu    Nuri E         0
-		14 oker	   Thomas Å	  0
-		14 one     Anders Ö  	  0
-		14 petjoh  Peter J	  0
-		14 prstlj  Stefan L	  0
-                14 stg     Stefan G       0
-                14 stmn    Stefan M       0
-		14 thomee  Håkan T	  0
-		14 tsjesv  Jeanette A	  0
-		14 umasaj  Umair S  	  0
-
+		 1 ggan    Göte A         3
+                 1 kasm    Björn K        3
+		 1 lmju    Mats L         3
+                 1 rexe    Olof R         3
+		 1 shab	   Samuel H	  3
+		 6 ikan    Ingvar K       2
+		 6 livi    Lisbeth V	  2
+		 6 magn    Mats G         2
+		 6 meho    Mikael M       2
+		 6 prnm    Per N  	  2
+		 6 rox     Roger R        2
+ 		 6 wlar    Lars W         2
+                13 fla     Finn L         1
+		13 khnshr  Shehryar K	  1
+                13 nicl    Niclas S       1
+ 		13 nikogr  Niklas Ö       1
+		17 ajnn    Anders J       0
+		17 danger  Daniel G       0
+                17 emived  Emil V         0
+		17 fredso  Fredrik S      0
+		17 frejus  Fredrik J	  0
+		17 hano    Hans N         0
+ 		17 henpeh  Henrik P       0
+		17 hrpras  Prashanth K	  0
+		17 jaxl    Jörgen A	  0
+                17 jesp    Jesper C       0
+		17 jima    Jitendra M     0
+		17 johers  Johan E	  0
+		17 johost  Johan Ö	  0
+		17 moli    Magnus M	  0
+                17 nubu    Nuri E         0
+		17 oker	   Thomas Å	  0
+		17 one     Anders Ö  	  0
+		17 petjoh  Peter J	  0
+		17 prstlj  Stefan L	  0
+                17 stg     Stefan G       0
+                17 stmn    Stefan M       0
+		17 thomee  Håkan T	  0
+		17 tsjesv  Jeanette A	  0
+		17 umasaj  Umair S  	  0
+		
+Tisdag 17/1: fla,ggan,ikan,kasm,khnshr,lmju,meho,nikogr,prnm,rexe,rox,shab,wlar.
+             Akalla, mini-Akalla 13st
 Tisdag 10/1: ggan,ikan,kasm,lmju,livi,magn,prnm,rexe,rox,shab,wlar.
              Akalla, mini-Akalla 11st
 Tisdag 3/1: ggan,kasm,lmju,livi,magn,meho,nicl,rexe,shab.
