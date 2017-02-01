@@ -1,21 +1,21 @@
-                Ställningen 17/1 2017 w03
+                Ställningen 24/1 2017 w04
 
-		 1 ggan    Göte A         3
-                 1 kasm    Björn K        3
-		 1 lmju    Mats L         3
-                 1 rexe    Olof R         3
-		 1 shab	   Samuel H	  3
-		 6 ikan    Ingvar K       2
-		 6 livi    Lisbeth V	  2
-		 6 magn    Mats G         2
-		 6 meho    Mikael M       2
-		 6 prnm    Per N  	  2
-		 6 rox     Roger R        2
- 		 6 wlar    Lars W         2
-                13 fla     Finn L         1
-		13 khnshr  Shehryar K	  1
-                13 nicl    Niclas S       1
- 		13 nikogr  Niklas Ö       1
+		 1 ggan    Göte A         4
+                 1 kasm    Björn K        4
+		 1 lmju    Mats L         4
+                 1 rexe    Olof R         4
+		 1 shab	   Samuel H	  4
+		 6 ikan    Ingvar K       3
+		 6 magn    Mats G         3
+		 6 meho    Mikael M       3
+		 6 prnm    Per N  	  3
+		 6 rox     Roger R        3
+ 		 6 wlar    Lars W         3
+		12 khnshr  Shehryar K	  2
+		12 livi    Lisbeth V	  2
+ 		12 nikogr  Niklas Ö       2
+                15 fla     Finn L         1
+                15 nicl    Niclas S       1
 		17 ajnn    Anders J       0
 		17 danger  Daniel G       0
                 17 emived  Emil V         0
@@ -40,7 +40,9 @@
 		17 thomee  Håkan T	  0
 		17 tsjesv  Jeanette A	  0
 		17 umasaj  Umair S  	  0
-		
+
+Tisdag 24/1: ggan,ikan,kasm,khnshr,lmju,magn,meho,nikogr,prnm,rexe,rox,shab,wlar.
+             Akalla, mini-Akalla 13st
 Tisdag 17/1: fla,ggan,ikan,kasm,khnshr,lmju,meho,nikogr,prnm,rexe,rox,shab,wlar.
              Akalla, mini-Akalla 13st
 Tisdag 10/1: ggan,ikan,kasm,lmju,livi,magn,prnm,rexe,rox,shab,wlar.
