@@ -1,16 +1,16 @@
-                Ställningen 31/1 2017 w05
+                Ställningen 7/2 2017 w06
 
-		 1 ggan    Göte A         5
-                 1 kasm    Björn K        5
-		 1 lmju    Mats L         5
-                 1 rexe    Olof R         5
-		 1 shab	   Samuel H	  5
-		 6 ikan    Ingvar K       4
-		 6 magn    Mats G         4
-		 6 meho    Mikael M       4
-		 6 prnm    Per N  	  4
-		 6 rox     Roger R        4
- 		 6 wlar    Lars W         4
+		 1 ggan    Göte A         6
+		 1 lmju    Mats L         6
+		 3 ikan    Ingvar K       5
+                 3 kasm    Björn K        5
+		 3 magn    Mats G         5
+		 3 meho    Mikael M       5
+                 3 rexe    Olof R         5
+		 3 rox     Roger R        5
+		 3 shab	   Samuel H	  5
+ 		 3 wlar    Lars W         5
+		11 prnm    Per N  	  4
                 12 fla     Finn L         2
 		12 khnshr  Shehryar K	  2
 		12 livi    Lisbeth V	  2
@@ -41,6 +41,9 @@
 		17 tsjesv  Jeanette A	  0
 		17 umasaj  Umair S  	  0
 		
+Tisdag 7/2: ggan,ikan,lmju,magn,meho,rox,wlar.
+            Akalla, mini-Akalla 7st. Alla hade långbyxor.
+
 Tisdag 31/1: fla,ggan,ikan,kasm,lmju,magn,meho,nicl,prnm,rexe,rox,shab,wlar.
              Akalla, mini-Akalla 13st
 Tisdag 24/1: ggan,ikan,kasm,khnshr,lmju,magn,meho,nikogr,prnm,rexe,rox,shab,wlar.
