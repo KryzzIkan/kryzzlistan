@@ -1,46 +1,49 @@
-                Ställningen 7/2 2017 w06
+                Ställningen 14/2 2017 w07
 
-		 1 ggan    Göte A         6
-		 1 lmju    Mats L         6
-		 3 ikan    Ingvar K       5
-                 3 kasm    Björn K        5
-		 3 magn    Mats G         5
-		 3 meho    Mikael M       5
-                 3 rexe    Olof R         5
-		 3 rox     Roger R        5
-		 3 shab	   Samuel H	  5
- 		 3 wlar    Lars W         5
+		 1 ggan    Göte A         7
+		 1 lmju    Mats L         7
+		 3 ikan    Ingvar K       6
+                 3 kasm    Björn K        6
+		 3 magn    Mats G         6
+		 3 meho    Mikael M       6
+		 3 rox     Roger R        6
+ 		 3 wlar    Lars W         6
+                 9 rexe    Olof R         5
+		 9 shab	   Samuel H	  5
 		11 prnm    Per N  	  4
-                12 fla     Finn L         2
-		12 khnshr  Shehryar K	  2
-		12 livi    Lisbeth V	  2
-                12 nicl    Niclas S       2
- 		12 nikogr  Niklas Ö       2
-		17 ajnn    Anders J       0
-		17 danger  Daniel G       0
-                17 emived  Emil V         0
-		17 fredso  Fredrik S      0
-		17 frejus  Fredrik J	  0
-		17 hano    Hans N         0
- 		17 henpeh  Henrik P       0
-		17 hrpras  Prashanth K	  0
-		17 jaxl    Jörgen A	  0
-                17 jesp    Jesper C       0
-		17 jima    Jitendra M     0
-		17 johers  Johan E	  0
-		17 johost  Johan Ö	  0
-		17 moli    Magnus M	  0
-                17 nubu    Nuri E         0
-		17 oker	   Thomas Å	  0
-		17 one     Anders Ö  	  0
-		17 petjoh  Peter J	  0
-		17 prstlj  Stefan L	  0
-                17 stg     Stefan G       0
-                17 stmn    Stefan M       0
-		17 thomee  Håkan T	  0
-		17 tsjesv  Jeanette A	  0
-		17 umasaj  Umair S  	  0
+		12 khnshr  Shehryar K	  3
+                13 fla     Finn L         2
+		13 livi    Lisbeth V	  2
+                13 nicl    Niclas S       2
+ 		13 nikogr  Niklas Ö       2
+ 		17 jkan    Håkan J        1
+		18 ajnn    Anders J       0
+		18 danger  Daniel G       0
+                18 emived  Emil V         0
+		18 fredso  Fredrik S      0
+		18 frejus  Fredrik J	  0
+		18 hano    Hans N         0
+ 		18 henpeh  Henrik P       0
+		18 hrpras  Prashanth K	  0
+		18 jaxl    Jörgen A	  0
+                18 jesp    Jesper C       0
+		18 jima    Jitendra M     0
+		18 johers  Johan E	  0
+		18 johost  Johan Ö	  0
+		18 moli    Magnus M	  0
+                18 nubu    Nuri E         0
+		18 oker	   Thomas Å	  0
+		18 one     Anders Ö  	  0
+		18 petjoh  Peter J	  0
+		18 prstlj  Stefan L	  0
+                18 stg     Stefan G       0
+                18 stmn    Stefan M       0
+		18 thomee  Håkan T	  0
+		18 tsjesv  Jeanette A	  0
+		18 umasaj  Umair S  	  0
 		
+Tisdag 14/2: ggan,ikan,jkan,kasm,khnshr,lmju,magn,meho,rox,wlar.
+             Akalla, mini-Akalla 10st		
 Tisdag 7/2: ggan,ikan,lmju,magn,meho,rox,wlar.
             Akalla, mini-Akalla 7st. Alla hade långbyxor.
 
