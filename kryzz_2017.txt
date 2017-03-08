@@ -1,22 +1,22 @@
-                Ställningen 14/2 2017 w07
+                Ställningen 21/2 2017 w08
 
-		 1 ggan    Göte A         7
-		 1 lmju    Mats L         7
-		 3 ikan    Ingvar K       6
-                 3 kasm    Björn K        6
-		 3 magn    Mats G         6
-		 3 meho    Mikael M       6
-		 3 rox     Roger R        6
- 		 3 wlar    Lars W         6
-                 9 rexe    Olof R         5
-		 9 shab	   Samuel H	  5
+		 1 ggan    Göte A         8
+		 1 lmju    Mats L         8
+		 3 ikan    Ingvar K       7
+                 3 kasm    Björn K        7
+		 3 magn    Mats G         7
+		 3 meho    Mikael M       7
+		 3 rox     Roger R        7
+ 		 3 wlar    Lars W         7
+		 9 shab	   Samuel H	  6
+                10 rexe    Olof R         5
 		11 prnm    Per N  	  4
 		12 khnshr  Shehryar K	  3
                 13 fla     Finn L         2
+ 		13 jkan    Håkan J        2
 		13 livi    Lisbeth V	  2
                 13 nicl    Niclas S       2
  		13 nikogr  Niklas Ö       2
- 		17 jkan    Håkan J        1
 		18 ajnn    Anders J       0
 		18 danger  Daniel G       0
                 18 emived  Emil V         0
@@ -41,7 +41,9 @@
 		18 thomee  Håkan T	  0
 		18 tsjesv  Jeanette A	  0
 		18 umasaj  Umair S  	  0
-		
+
+Tisdag 21/2: ggan,ikan,jkan,kasm,lmju,magn,meho,rox,shab,wlar.
+             Akalla, mini-Akalla 10st.
 Tisdag 14/2: ggan,ikan,jkan,kasm,khnshr,lmju,magn,meho,rox,wlar.
              Akalla, mini-Akalla 10st		
 Tisdag 7/2: ggan,ikan,lmju,magn,meho,rox,wlar.
