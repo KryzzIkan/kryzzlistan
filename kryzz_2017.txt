@@ -1,46 +1,49 @@
-                Ställningen 28/2 2017 w09
+                Ställningen 7/3 2017 w10
 
-		 1 ggan    Göte A         9
-		 1 lmju    Mats L         9
-                 3 kasm    Björn K        8
-		 3 rox     Roger R        8
- 		 3 wlar    Lars W         8
-		 6 ikan    Ingvar K       7
-		 6 magn    Mats G         7
-		 6 meho    Mikael M       7
+		 1 ggan    Göte A        10
+                 2 kasm    Björn K        9
+		 2 lmju    Mats L         9
+		 2 rox     Roger R        9
+ 		 2 wlar    Lars W         9
+		 6 ikan    Ingvar K       8
+		 6 meho    Mikael M       8
+		 8 magn    Mats G         7
 		 9 shab	   Samuel H	  6
 		10 prnm    Per N  	  5
                 10 rexe    Olof R         5
 		12 khnshr  Shehryar K	  3
-                13 fla     Finn L         2
- 		13 jkan    Håkan J        2
-		13 livi    Lisbeth V	  2
-                13 nicl    Niclas S       2
- 		13 nikogr  Niklas Ö       2
+                12 nicl    Niclas S       3
+ 		12 nikogr  Niklas Ö       3
+                15 fla     Finn L         2
+ 		15 jkan    Håkan J        2
+		15 livi    Lisbeth V	  2
+		18 hano    Hans N         1
                 18 jesp    Jesper C       1
-		19 ajnn    Anders J       0
-		19 danger  Daniel G       0
-                19 emived  Emil V         0
-		19 fredso  Fredrik S      0
-		19 frejus  Fredrik J	  0
-		19 hano    Hans N         0
- 		19 henpeh  Henrik P       0
-		19 hrpras  Prashanth K	  0
-		19 jaxl    Jörgen A	  0
-		19 jima    Jitendra M     0
-		19 johers  Johan E	  0
-		19 johost  Johan Ö	  0
-		19 moli    Magnus M	  0
-                19 nubu    Nuri E         0
-		19 oker	   Thomas Å	  0
-		19 one     Anders Ö  	  0
-		19 petjoh  Peter J	  0
-		19 prstlj  Stefan L	  0
-                19 stg     Stefan G       0
-                19 stmn    Stefan M       0
-		19 thomee  Håkan T	  0
-		19 tsjesv  Jeanette A	  0
-		19 umasaj  Umair S  	  0
+		20 ajnn    Anders J       0
+		20 danger  Daniel G       0
+                20 emived  Emil V         0
+		20 fredso  Fredrik S      0
+		20 frejus  Fredrik J	  0
+ 		20 henpeh  Henrik P       0
+		20 hrpras  Prashanth K	  0
+		20 jaxl    Jörgen A	  0
+		20 jima    Jitendra M     0
+		20 johers  Johan E	  0
+		20 johost  Johan Ö	  0
+		20 moli    Magnus M	  0
+                20 nubu    Nuri E         0
+		20 oker	   Thomas Å	  0
+		20 one     Anders Ö  	  0
+		20 petjoh  Peter J	  0
+		20 prstlj  Stefan L	  0
+                20 stg     Stefan G       0
+                20 stmn    Stefan M       0
+		20 thomee  Håkan T	  0
+		20 tsjesv  Jeanette A	  0
+		20 umasaj  Umair S  	  0
+
+Tisdag 7/3: ggan,hano,ikan,kasm,meho,nicl,nikogr,rox,wlar.
+            Akalla, mini-Akalla 9st.
 
 Tisdag 28/2: ggan,jesp,kasm,lmju,prnm,rox,wlar. Akalla, mini-Akalla 7st.
 Tisdag 21/2: ggan,ikan,jkan,kasm,lmju,magn,meho,rox,shab,wlar.
