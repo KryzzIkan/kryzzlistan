@@ -1,24 +1,24 @@
-                Ställningen 7/3 2017 w10
+                Ställningen 14/3 2017 w11
 
-		 1 ggan    Göte A        10
-                 2 kasm    Björn K        9
-		 2 lmju    Mats L         9
-		 2 rox     Roger R        9
- 		 2 wlar    Lars W         9
-		 6 ikan    Ingvar K       8
-		 6 meho    Mikael M       8
-		 8 magn    Mats G         7
+		 1 ggan    Göte A        11
+                 2 kasm    Björn K       10
+		 2 rox     Roger R       10
+ 		 2 wlar    Lars W        10
+		 5 ikan    Ingvar K       9
+		 5 lmju    Mats L         9
+		 5 meho    Mikael M       9
+		 8 magn    Mats G         8
+		 9 prnm    Per N  	  6
 		 9 shab	   Samuel H	  6
-		10 prnm    Per N  	  5
-                10 rexe    Olof R         5
+                11 rexe    Olof R         5
+ 		12 jkan    Håkan J        3
 		12 khnshr  Shehryar K	  3
                 12 nicl    Niclas S       3
  		12 nikogr  Niklas Ö       3
-                15 fla     Finn L         2
- 		15 jkan    Håkan J        2
-		15 livi    Lisbeth V	  2
-		18 hano    Hans N         1
-                18 jesp    Jesper C       1
+                16 fla     Finn L         2
+		16 hano    Hans N         2
+		16 livi    Lisbeth V	  2
+                19 jesp    Jesper C       1
 		20 ajnn    Anders J       0
 		20 danger  Daniel G       0
                 20 emived  Emil V         0
@@ -42,6 +42,8 @@
 		20 tsjesv  Jeanette A	  0
 		20 umasaj  Umair S  	  0
 
+Tisdag 14/3: ggan,hano,ikan,jkan,kasm,magn,meho,prnm,rox,wlar.
+            Akalla, mini-Akalla 10st.
 Tisdag 7/3: ggan,hano,ikan,kasm,meho,nicl,nikogr,rox,wlar.
             Akalla, mini-Akalla 9st.
 
