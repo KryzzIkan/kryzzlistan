@@ -1,47 +1,51 @@
-                Ställningen 21/3 2017 w12
+                Ställningen 28/3 2017 w13
 
-		 1 ggan    Göte A        11
-                 1 kasm    Björn K       11
-		 1 rox     Roger R       11
- 		 1 wlar    Lars W        11
-		 5 ikan    Ingvar K      10
-		 5 meho    Mikael M      10
-		 7 lmju    Mats L         9
-		 7 magn    Mats G         9
-		 9 prnm    Per N  	  6
-                 9 rexe    Olof R         6
-		 9 shab	   Samuel H	  6
+		 1 ggan    Göte A        12
+                 1 kasm    Björn K       12
+		 1 rox     Roger R       12
+ 		 1 wlar    Lars W        12
+		 5 ikan    Ingvar K      11
+		 5 meho    Mikael M      11
+		 7 magn    Mats G        10
+		 8 lmju    Mats L         9
+		 9 prnm    Per N  	  7
+                10 rexe    Olof R         6
+		10 shab	   Samuel H	  6
+		12 hano    Hans N         4
 		12 khnshr  Shehryar K	  4
-		13 hano    Hans N         3
- 		13 jkan    Håkan J        3
-                13 nicl    Niclas S       3
- 		13 nikogr  Niklas Ö       3
+ 		12 nikogr  Niklas Ö       4
+ 		15 jkan    Håkan J        3
+                15 nicl    Niclas S       3
                 17 fla     Finn L         2
 		17 livi    Lisbeth V	  2
-                19 jesp    Jesper C       1
-		20 ajnn    Anders J       0
-		20 danger  Daniel G       0
-                20 emived  Emil V         0
-		20 fredso  Fredrik S      0
-		20 frejus  Fredrik J	  0
- 		20 henpeh  Henrik P       0
-		20 hrpras  Prashanth K	  0
-		20 jaxl    Jörgen A	  0
-		20 jima    Jitendra M     0
-		20 johers  Johan E	  0
-		20 johost  Johan Ö	  0
-		20 moli    Magnus M	  0
-                20 nubu    Nuri E         0
-		20 oker	   Thomas Å	  0
-		20 one     Anders Ö  	  0
-		20 petjoh  Peter J	  0
-		20 prstlj  Stefan L	  0
-                20 stg     Stefan G       0
-                20 stmn    Stefan M       0
-		20 thomee  Håkan T	  0
-		20 tsjesv  Jeanette A	  0
-		20 umasaj  Umair S  	  0
+		19 bbnhhu  Robin H 	  1
+		19 kkst	   Katarina S	  1
+		19 jesp    Jesper C       1
+		22 ajnn    Anders J       0
+		22 danger  Daniel G       0
+                22 emived  Emil V         0
+		22 fredso  Fredrik S      0
+		22 frejus  Fredrik J	  0
+ 		22 henpeh  Henrik P       0
+		22 hrpras  Prashanth K	  0
+		22 jaxl    Jörgen A	  0
+		22 jima    Jitendra M     0
+		22 johers  Johan E	  0
+		22 johost  Johan Ö	  0
+		22 moli    Magnus M	  0
+                22 nubu    Nuri E         0
+		22 oker	   Thomas Å	  0
+		22 one     Anders Ö  	  0
+		22 petjoh  Peter J	  0
+		22 prstlj  Stefan L	  0
+                22 stg     Stefan G       0
+                22 stmn    Stefan M       0
+		22 thomee  Håkan T	  0
+		22 tsjesv  Jeanette A	  0
+		22 umasaj  Umair S  	  0
 		
+Tisdag 28/3: bbnhhu,ggan,hano,ikan,kasm,kkst,magn,meho,nikogr,prnm,rox,wlar.
+             Ursvik 5km, 7km. 12st [rev D]		
 Tisdag 21/3: hano,ikan,kasm,khnshr,magn,meho,rexe,rox,wlar.
             Akalla, mini-Akalla 9st. 
 Tisdag 14/3: ggan,hano,ikan,jkan,kasm,magn,meho,prnm,rox,wlar.
