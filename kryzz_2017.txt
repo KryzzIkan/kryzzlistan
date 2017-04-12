@@ -1,26 +1,26 @@
-                Ställningen 28/3 2017 w13
+                Ställningen 4/4 2017 w14
 
-		 1 ggan    Göte A        12
-                 1 kasm    Björn K       12
-		 1 rox     Roger R       12
- 		 1 wlar    Lars W        12
-		 5 ikan    Ingvar K      11
-		 5 meho    Mikael M      11
-		 7 magn    Mats G        10
+		 1 ggan    Göte A        13
+                 1 kasm    Björn K       13
+		 1 rox     Roger R       13
+ 		 1 wlar    Lars W        13
+		 5 ikan    Ingvar K      12
+		 5 meho    Mikael M      12
+		 7 magn    Mats G        11
 		 8 lmju    Mats L         9
-		 9 prnm    Per N  	  7
-                10 rexe    Olof R         6
-		10 shab	   Samuel H	  6
-		12 hano    Hans N         4
-		12 khnshr  Shehryar K	  4
- 		12 nikogr  Niklas Ö       4
+		 9 prnm    Per N  	  8
+                10 rexe    Olof R         7
+		11 shab	   Samuel H	  6
+		12 hano    Hans N         5
+		13 khnshr  Shehryar K	  4
+ 		13 nikogr  Niklas Ö       4
  		15 jkan    Håkan J        3
                 15 nicl    Niclas S       3
                 17 fla     Finn L         2
+		17 kkst	   Katarina S	  2
 		17 livi    Lisbeth V	  2
-		19 bbnhhu  Robin H 	  1
-		19 kkst	   Katarina S	  1
-		19 jesp    Jesper C       1
+		20 bbnhhu  Robin H 	  1
+		20 jesp    Jesper C       1
 		22 ajnn    Anders J       0
 		22 danger  Daniel G       0
                 22 emived  Emil V         0
@@ -43,7 +43,10 @@
 		22 thomee  Håkan T	  0
 		22 tsjesv  Jeanette A	  0
 		22 umasaj  Umair S  	  0
-		
+
+Tisdag 4/4: ggan,hano,ikan,kasm,kkst,magn,meho,prnm,rexe,rox,wlar.
+            Ursvik 5km, 7km, 2X 5km, 10km. 11st
+
 Tisdag 28/3: bbnhhu,ggan,hano,ikan,kasm,kkst,magn,meho,nikogr,prnm,rox,wlar.
              Ursvik 5km, 7km. 12st [rev D]		
 Tisdag 21/3: hano,ikan,kasm,khnshr,magn,meho,rexe,rox,wlar.
