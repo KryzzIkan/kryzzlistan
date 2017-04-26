@@ -1,21 +1,21 @@
-                Ställningen 11/4 2017 w15
+                Ställningen 18/4 2017 w16
 
-		 1 ggan    Göte A        14
-		 1 rox     Roger R       14
- 		 1 wlar    Lars W        14
-		 4 ikan    Ingvar K      13
-                 4 kasm    Björn K       13
-		 4 meho    Mikael M      13
+		 1 ggan    Göte A        15
+		 1 rox     Roger R       15
+ 		 1 wlar    Lars W        15
+		 4 ikan    Ingvar K      14
+		 4 meho    Mikael M      14
+                 6 kasm    Björn K       13
 		 7 magn    Mats G        12
-		 8 lmju    Mats L         9
-		 8 prnm    Per N  	  9
+		 8 lmju    Mats L        10
+		 8 prnm    Per N  	 10
                 10 rexe    Olof R         7
 		11 shab	   Samuel H	  6
 		12 hano    Hans N         5
+ 		13 jkan    Håkan J        4
 		13 khnshr  Shehryar K	  4
                 13 nicl    Niclas S       4
  		13 nikogr  Niklas Ö       4
- 		16 jkan    Håkan J        3
                 17 fla     Finn L         2
 		17 kkst	   Katarina S	  2
 		17 livi    Lisbeth V	  2
@@ -44,6 +44,8 @@
 		22 tsjesv  Jeanette A	  0
 		22 umasaj  Umair S  	  0
 		
+Tisdag 18/4: ggan,ikan,jkan,lmju,meho,prnm,rox,wlar.
+             Akalla, Ursvik 5km, 7km, 10km. 8st [Rev A]
 Tisdag 11/4: ggan,ikan,magn,meho,nicl,prnm,rox,wlar.
              Ursvik 5km, 7km, 10km. 8st [Rev D]
 Tisdag 4/4: ggan,hano,ikan,kasm,kkst,magn,meho,prnm,rexe,rox,wlar.
