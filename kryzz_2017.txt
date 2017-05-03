@@ -1,49 +1,51 @@
-                Ställningen 18/4 2017 w16
+                Ställningen 25/4 2017 w17
 
-		 1 ggan    Göte A        15
-		 1 rox     Roger R       15
- 		 1 wlar    Lars W        15
-		 4 ikan    Ingvar K      14
-		 4 meho    Mikael M      14
-                 6 kasm    Björn K       13
-		 7 magn    Mats G        12
+		 1 ggan    Göte A        16
+		 1 rox     Roger R       16
+ 		 1 wlar    Lars W        16
+		 4 ikan    Ingvar K      15
+		 4 meho    Mikael M      15
+                 6 kasm    Björn K       14
+		 7 magn    Mats G        13
 		 8 lmju    Mats L        10
 		 8 prnm    Per N  	 10
                 10 rexe    Olof R         7
+		11 hano    Hans N         6
 		11 shab	   Samuel H	  6
-		12 hano    Hans N         5
- 		13 jkan    Håkan J        4
-		13 khnshr  Shehryar K	  4
-                13 nicl    Niclas S       4
- 		13 nikogr  Niklas Ö       4
+ 		13 jkan    Håkan J        5
+                13 nicl    Niclas S       5
+		15 khnshr  Shehryar K	  4
+ 		15 nikogr  Niklas Ö       4
                 17 fla     Finn L         2
 		17 kkst	   Katarina S	  2
 		17 livi    Lisbeth V	  2
 		20 bbnhhu  Robin H 	  1
 		20 jesp    Jesper C       1
-		22 ajnn    Anders J       0
-		22 danger  Daniel G       0
-                22 emived  Emil V         0
-		22 fredso  Fredrik S      0
-		22 frejus  Fredrik J	  0
- 		22 henpeh  Henrik P       0
-		22 hrpras  Prashanth K	  0
-		22 jaxl    Jörgen A	  0
-		22 jima    Jitendra M     0
-		22 johers  Johan E	  0
-		22 johost  Johan Ö	  0
-		22 moli    Magnus M	  0
-                22 nubu    Nuri E         0
-		22 oker	   Thomas Å	  0
-		22 one     Anders Ö  	  0
-		22 petjoh  Peter J	  0
-		22 prstlj  Stefan L	  0
-                22 stg     Stefan G       0
-                22 stmn    Stefan M       0
-		22 thomee  Håkan T	  0
-		22 tsjesv  Jeanette A	  0
-		22 umasaj  Umair S  	  0
-		
+		20 thomee  Håkan T	  1
+		23 ajnn    Anders J       0
+		23 danger  Daniel G       0
+                23 emived  Emil V         0
+		23 fredso  Fredrik S      0
+		23 frejus  Fredrik J	  0
+ 		23 henpeh  Henrik P       0
+		23 hrpras  Prashanth K	  0
+		23 jaxl    Jörgen A	  0
+		23 jima    Jitendra M     0
+		23 johers  Johan E	  0
+		23 johost  Johan Ö	  0
+		23 moli    Magnus M	  0
+                23 nubu    Nuri E         0
+		23 oker	   Thomas Å	  0
+		23 one     Anders Ö  	  0
+		23 petjoh  Peter J	  0
+		23 prstlj  Stefan L	  0
+                23 stg     Stefan G       0
+                23 stmn    Stefan M       0
+		23 tsjesv  Jeanette A	  0
+		23 umasaj  Umair S  	  0
+
+Tisdag 25/4: ggan,hano,ikan,jkan,kasm,magn,meho,nicl,rox,thomee,wlar.
+             Ursvik 5km, 7km, 10km, 15km extrem. 11st [Rev A]		
 Tisdag 18/4: ggan,ikan,jkan,lmju,meho,prnm,rox,wlar.
              Akalla, Ursvik 5km, 7km, 10km. 8st [Rev A]
 Tisdag 11/4: ggan,ikan,magn,meho,nicl,prnm,rox,wlar.
