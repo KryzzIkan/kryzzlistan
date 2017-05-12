@@ -1,49 +1,52 @@
-                Ställningen 2/5 2017 w18
+                Ställningen 9/5 2017 w19
 
-		 1 rox     Roger R       17
- 		 1 wlar    Lars W        17
-		 3 ggan    Göte A        16
-		 3 ikan    Ingvar K      16
-		 3 meho    Mikael M      16
-                 6 kasm    Björn K       15
-		 7 magn    Mats G        14
-		 8 lmju    Mats L        11
-		 8 prnm    Per N  	 11
+		 1 rox     Roger R       18
+ 		 1 wlar    Lars W        18
+		 3 ggan    Göte A        17
+		 3 ikan    Ingvar K      17
+		 3 meho    Mikael M      17
+                 6 kasm    Björn K       16
+		 7 magn    Mats G        15
+		 8 lmju    Mats L        12
+		 8 prnm    Per N  	 12
                 10 rexe    Olof R         7
 		11 hano    Hans N         6
  		11 jkan    Håkan J        6
+                11 nicl    Niclas S       6
 		11 shab	   Samuel H	  6
-                14 nicl    Niclas S       5
 		15 khnshr  Shehryar K	  4
  		15 nikogr  Niklas Ö       4
                 17 fla     Finn L         2
 		17 kkst	   Katarina S	  2
 		17 livi    Lisbeth V	  2
-		20 bbnhhu  Robin H 	  1
-		20 jesp    Jesper C       1
-		20 thomee  Håkan T	  1
-		20 umasaj  Umair S  	  1
-		24 ajnn    Anders J       0
-		24 danger  Daniel G       0
-                24 emived  Emil V         0
-		24 fredso  Fredrik S      0
-		24 frejus  Fredrik J	  0
- 		24 henpeh  Henrik P       0
-		24 hrpras  Prashanth K	  0
-		24 jaxl    Jörgen A	  0
-		24 jima    Jitendra M     0
-		24 johers  Johan E	  0
-		24 johost  Johan Ö	  0
-		24 moli    Magnus M	  0
-                24 nubu    Nuri E         0
-		24 oker	   Thomas Å	  0
-		24 one     Anders Ö  	  0
-		24 petjoh  Peter J	  0
-		24 prstlj  Stefan L	  0
-                24 stg     Stefan G       0
-                24 stmn    Stefan M       0
-		24 tsjesv  Jeanette A	  0
+		17 umasaj  Umair S  	  2
+		21 ajnn    Anders J       1
+		21 bbnhhu  Robin H 	  1
+		21 jesp    Jesper C       1
+		21 thomee  Håkan T	  1
+                21 stmn    Stefan M       1
+		26 danger  Daniel G       0
+                26 emived  Emil V         0
+		26 fredso  Fredrik S      0
+		26 frejus  Fredrik J	  0
+ 		26 henpeh  Henrik P       0
+		26 hrpras  Prashanth K	  0
+		26 jaxl    Jörgen A	  0
+		26 jima    Jitendra M     0
+		26 johers  Johan E	  0
+		26 johost  Johan Ö	  0
+		26 moli    Magnus M	  0
+                26 nubu    Nuri E         0
+		26 oker	   Thomas Å	  0
+		26 one     Anders Ö  	  0
+		26 petjoh  Peter J	  0
+		26 prstlj  Stefan L	  0
+                26 stg     Stefan G       0
+		26 tsjesv  Jeanette A	  0
 		
+Tisdag 9/5: ajnn,ikan,lmju,magn,meho,nicl,stmn,umasaj.
+     18:00: ggan,kasm,prnm,rox,wlar
+            Ursvik 5km, 7km, 15km, Xtreme. 8st+5st
 Tisdag 2/5: ikan,jkan,kasm,lmju,magn,meho,prnm,rox,umasaj,wlar.
             Ursvik 5km, 7km, 15km. 10st
 
