@@ -1,16 +1,16 @@
-                Ställningen 23/5 2017 w21
+                Ställningen 30/5 2017 w22
 
- 		 1 wlar    Lars W        21
-		 2 ggan    Göte A        20
-		 2 ikan    Ingvar K      20
-		 2 meho    Mikael M      20
-		 2 rox     Roger R       20
-                 6 kasm    Björn K       19
-		 7 magn    Mats G        18
-		 8 prnm    Per N  	 14
-		 9 lmju    Mats L        13
-                10 nicl    Niclas S       8
-                10 rexe    Olof R         8
+ 		 1 wlar    Lars W        22
+		 2 ggan    Göte A        21
+		 2 ikan    Ingvar K      21
+		 2 meho    Mikael M      21
+		 2 rox     Roger R       21
+                 6 kasm    Björn K       20
+		 7 magn    Mats G        19
+		 8 prnm    Per N  	 15
+		 9 lmju    Mats L        14
+                10 rexe    Olof R         9
+                11 nicl    Niclas S       8
 		12 hano    Hans N         6
  		12 jkan    Håkan J        6
 		12 shab	   Samuel H	  6
@@ -44,7 +44,9 @@
 		28 petjoh  Peter J	  0
                 28 stg     Stefan G       0
 		28 tsjesv  Jeanette A	  0
-		
+
+Tisdag 30/5: ggan,ikan,kasm,lmju,magn,meho,prnm,rexe,rox,wlar.
+             Ursvik 5km, 2X5km, 7km, 10km, Akalla. 10st
 Tisdag 23/5: ggan,ikan,kasm,khnshr,magn,meho,prnm,rox,umasaj,wlar.
              Ursvik 5km, 10km, 15km, 15 extrem, Akalla. 10st
 Tisdag 16/5: ggan,ikan,kasm,lmju,magn,meho,nicl,prnm,rox,wlar.
