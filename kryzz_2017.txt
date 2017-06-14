@@ -1,11 +1,11 @@
-                Ställningen 30/5 2017 w22
+                Ställningen 3/6 2017 w22
 
- 		 1 wlar    Lars W        22
-		 2 ggan    Göte A        21
-		 2 ikan    Ingvar K      21
-		 2 meho    Mikael M      21
-		 2 rox     Roger R       21
-                 6 kasm    Björn K       20
+ 		 1 wlar    Lars W        23
+		 2 ikan    Ingvar K      22
+		 2 meho    Mikael M      22
+		 2 rox     Roger R       22
+		 5 ggan    Göte A        21
+                 5 kasm    Björn K       21
 		 7 magn    Mats G        19
 		 8 prnm    Per N  	 15
 		 9 lmju    Mats L        14
@@ -20,30 +20,34 @@
 		18 kkst	   Katarina S	  3
                 19 fla     Finn L         2
 		19 livi    Lisbeth V	  2
-		21 ajnn    Anders J       1
-		21 bbnhhu  Robin H 	  1
-		21 hajn    Håkan A        1
-		21 jesp    Jesper C       1
-		21 prstlj  Stefan L	  1
-		21 thomee  Håkan T	  1
-                21 stmn    Stefan M       1
-		28 danger  Daniel G       0
-                28 emived  Emil V         0
-		28 fredso  Fredrik S      0
-		28 frejus  Fredrik J	  0
- 		28 henpeh  Henrik P       0
-		28 hrpras  Prashanth K	  0
-		28 jaxl    Jörgen A	  0
-		28 jima    Jitendra M     0
-		28 johers  Johan E	  0
-		28 johost  Johan Ö	  0
-		28 moli    Magnus M	  0
-                28 nubu    Nuri E         0
-		28 oker	   Thomas Å	  0
-		28 one     Anders Ö  	  0
-		28 petjoh  Peter J	  0
-                28 stg     Stefan G       0
-		28 tsjesv  Jeanette A	  0
+		19 prstlj  Stefan L	  2
+		22 ajnn    Anders J       1
+		22 bbnhhu  Robin H 	  1
+		22 hajn    Håkan A        1
+		22 hem     Erik H 	  1
+ 		22 henpeh  Henrik P       1
+		22 jesp    Jesper C       1
+                22 nubu    Nuri E         1
+		22 thomee  Håkan T	  1
+                22 stmn    Stefan M       1
+		31 danger  Daniel G       0
+                31 emived  Emil V         0
+		31 fredso  Fredrik S      0
+		31 frejus  Fredrik J	  0
+		31 hrpras  Prashanth K	  0
+		31 jaxl    Jörgen A	  0
+		31 jima    Jitendra M     0
+		31 johers  Johan E	  0
+		31 johost  Johan Ö	  0
+		31 moli    Magnus M	  0
+		31 oker	   Thomas Å	  0
+		31 one     Anders Ö  	  0
+		31 petjoh  Peter J	  0
+                31 stg     Stefan G       0
+		31 tsjesv  Jeanette A	  0
+
+Lördag 3/6: hem,henpeh,ikan,kasm,meho,nubu,prstlj,rox,wlar. 
+            EriM Stockholm marathon. 9st.
 
 Tisdag 30/5: ggan,ikan,kasm,lmju,magn,meho,prnm,rexe,rox,wlar.
              Ursvik 5km, 2X5km, 7km, 10km, Akalla. 10st
