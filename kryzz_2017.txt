@@ -1,19 +1,19 @@
-                Ställningen 3/6 2017 w22
+                Ställningen 13/6 2017 w24
 
- 		 1 wlar    Lars W        23
-		 2 ikan    Ingvar K      22
-		 2 meho    Mikael M      22
-		 2 rox     Roger R       22
-		 5 ggan    Göte A        21
-                 5 kasm    Björn K       21
-		 7 magn    Mats G        19
-		 8 prnm    Per N  	 15
-		 9 lmju    Mats L        14
+ 		 1 wlar    Lars W        24
+		 2 ikan    Ingvar K      23
+		 2 meho    Mikael M      23
+		 2 rox     Roger R       23
+		 5 ggan    Göte A        22
+                 5 kasm    Björn K       22
+		 7 magn    Mats G        20
+		 8 prnm    Per N  	 16
+		 9 lmju    Mats L        15
                 10 rexe    Olof R         9
                 11 nicl    Niclas S       8
-		12 hano    Hans N         6
- 		12 jkan    Håkan J        6
-		12 shab	   Samuel H	  6
+ 		12 jkan    Håkan J        7
+		13 hano    Hans N         6
+		13 shab	   Samuel H	  6
 		15 khnshr  Shehryar K	  5
  		16 nikogr  Niklas Ö       4
 		16 umasaj  Umair S  	  4
@@ -45,7 +45,9 @@
 		31 petjoh  Peter J	  0
                 31 stg     Stefan G       0
 		31 tsjesv  Jeanette A	  0
-
+		
+Tisdag 13/6: ggan,ikan,jkan,kasm,lmju,magn,meho,prnm,rox,wlar.
+             Ursvik 5km, 7km, 10km, Akalla. 10st
 Lördag 3/6: hem,henpeh,ikan,kasm,meho,nubu,prstlj,rox,wlar. 
             EriM Stockholm marathon. 9st.
 
