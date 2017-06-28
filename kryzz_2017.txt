@@ -1,19 +1,19 @@
-                Ställningen 13/6 2017 w24
+                Ställningen 20/6 2017 w25
 
- 		 1 wlar    Lars W        24
-		 2 ikan    Ingvar K      23
-		 2 meho    Mikael M      23
-		 2 rox     Roger R       23
-		 5 ggan    Göte A        22
-                 5 kasm    Björn K       22
-		 7 magn    Mats G        20
+ 		 1 wlar    Lars W        25
+		 2 ikan    Ingvar K      24
+		 2 meho    Mikael M      24
+		 2 rox     Roger R       24
+                 5 kasm    Björn K       23
+		 6 ggan    Göte A        22
+		 7 magn    Mats G        21
+		 8 lmju    Mats L        16
 		 8 prnm    Per N  	 16
-		 9 lmju    Mats L        15
                 10 rexe    Olof R         9
                 11 nicl    Niclas S       8
+		12 hano    Hans N         7
  		12 jkan    Håkan J        7
-		13 hano    Hans N         6
-		13 shab	   Samuel H	  6
+		14 shab	   Samuel H	  6
 		15 khnshr  Shehryar K	  5
  		16 nikogr  Niklas Ö       4
 		16 umasaj  Umair S  	  4
@@ -21,15 +21,15 @@
                 19 fla     Finn L         2
 		19 livi    Lisbeth V	  2
 		19 prstlj  Stefan L	  2
-		22 ajnn    Anders J       1
-		22 bbnhhu  Robin H 	  1
-		22 hajn    Håkan A        1
-		22 hem     Erik H 	  1
- 		22 henpeh  Henrik P       1
-		22 jesp    Jesper C       1
-                22 nubu    Nuri E         1
-		22 thomee  Håkan T	  1
-                22 stmn    Stefan M       1
+                19 stmn    Stefan M       2
+		23 ajnn    Anders J       1
+		23 bbnhhu  Robin H 	  1
+		23 hajn    Håkan A        1
+		23 hem     Erik H 	  1
+ 		23 henpeh  Henrik P       1
+		23 jesp    Jesper C       1
+                23 nubu    Nuri E         1
+		23 thomee  Håkan T	  1
 		31 danger  Daniel G       0
                 31 emived  Emil V         0
 		31 fredso  Fredrik S      0
@@ -45,7 +45,9 @@
 		31 petjoh  Peter J	  0
                 31 stg     Stefan G       0
 		31 tsjesv  Jeanette A	  0
-		
+
+Tisdag 20/6: hano,ikan,kasm,lmju,magn,meho,rox,stmn,wlar.
+             Ursvik 5km, 7km, 10km, Akalla. 9st
 Tisdag 13/6: ggan,ikan,jkan,kasm,lmju,magn,meho,prnm,rox,wlar.
              Ursvik 5km, 7km, 10km, Akalla. 10st
 Lördag 3/6: hem,henpeh,ikan,kasm,meho,nubu,prstlj,rox,wlar. 
