@@ -1,51 +1,53 @@
-                Ställningen 20/6 2017 w25
+                Ställningen 27/6 2017 w26
 
- 		 1 wlar    Lars W        25
-		 2 ikan    Ingvar K      24
-		 2 meho    Mikael M      24
-		 2 rox     Roger R       24
-                 5 kasm    Björn K       23
+ 		 1 wlar    Lars W        26
+		 2 ikan    Ingvar K      25
+		 2 meho    Mikael M      25
+		 2 rox     Roger R       25
+                 5 kasm    Björn K       24
 		 6 ggan    Göte A        22
-		 7 magn    Mats G        21
-		 8 lmju    Mats L        16
-		 8 prnm    Per N  	 16
+		 6 magn    Mats G        22
+		 8 lmju    Mats L        17
+		 9 prnm    Per N  	 16
                 10 rexe    Olof R         9
+ 		11 jkan    Håkan J        8
                 11 nicl    Niclas S       8
-		12 hano    Hans N         7
- 		12 jkan    Håkan J        7
+		13 hano    Hans N         7
 		14 shab	   Samuel H	  6
 		15 khnshr  Shehryar K	  5
  		16 nikogr  Niklas Ö       4
 		16 umasaj  Umair S  	  4
 		18 kkst	   Katarina S	  3
-                19 fla     Finn L         2
-		19 livi    Lisbeth V	  2
-		19 prstlj  Stefan L	  2
-                19 stmn    Stefan M       2
-		23 ajnn    Anders J       1
-		23 bbnhhu  Robin H 	  1
-		23 hajn    Håkan A        1
-		23 hem     Erik H 	  1
- 		23 henpeh  Henrik P       1
-		23 jesp    Jesper C       1
-                23 nubu    Nuri E         1
-		23 thomee  Håkan T	  1
-		31 danger  Daniel G       0
-                31 emived  Emil V         0
-		31 fredso  Fredrik S      0
-		31 frejus  Fredrik J	  0
-		31 hrpras  Prashanth K	  0
-		31 jaxl    Jörgen A	  0
-		31 jima    Jitendra M     0
-		31 johers  Johan E	  0
-		31 johost  Johan Ö	  0
-		31 moli    Magnus M	  0
-		31 oker	   Thomas Å	  0
-		31 one     Anders Ö  	  0
-		31 petjoh  Peter J	  0
-                31 stg     Stefan G       0
-		31 tsjesv  Jeanette A	  0
-
+		18 livi    Lisbeth V	  3
+                18 stmn    Stefan M       3
+		21 ajnn    Anders J       2
+                21 fla     Finn L         2
+		21 prstlj  Stefan L	  2
+		24 bbnhhu  Robin H 	  1
+		24 hajn    Håkan A        1
+		24 hem     Erik H 	  1
+ 		24 henpeh  Henrik P       1
+		24 hrpras  Prashanth K	  1
+		24 jesp    Jesper C       1
+                24 nubu    Nuri E         1
+		24 thomee  Håkan T	  1
+		32 danger  Daniel G       0
+                32 emived  Emil V         0
+		32 fredso  Fredrik S      0
+		32 frejus  Fredrik J	  0
+		32 jaxl    Jörgen A	  0
+		32 jima    Jitendra M     0
+		32 johers  Johan E	  0
+		32 johost  Johan Ö	  0
+		32 moli    Magnus M	  0
+		32 oker	   Thomas Å	  0
+		32 one     Anders Ö  	  0
+		32 petjoh  Peter J	  0
+                32 stg     Stefan G       0
+		32 tsjesv  Jeanette A	  0
+		
+Tisdag 27/6: ajnn,hrpras,ikan,jkan,kasm,livi,lmju,magn,meho,rox,stmn,wlar.
+             Ursvik 5km, 2X5km, 10km, Akalla. 12st
 Tisdag 20/6: hano,ikan,kasm,lmju,magn,meho,rox,stmn,wlar.
              Ursvik 5km, 7km, 10km, Akalla. 9st
 Tisdag 13/6: ggan,ikan,jkan,kasm,lmju,magn,meho,prnm,rox,wlar.
