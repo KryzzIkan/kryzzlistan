@@ -1,29 +1,30 @@
-                Ställningen 27/6 2017 w26
+                Ställningen 4/7 2017 w27
 
- 		 1 wlar    Lars W        26
-		 2 ikan    Ingvar K      25
-		 2 meho    Mikael M      25
-		 2 rox     Roger R       25
-                 5 kasm    Björn K       24
-		 6 ggan    Göte A        22
-		 6 magn    Mats G        22
-		 8 lmju    Mats L        17
+ 		 1 wlar    Lars W        27
+		 2 ikan    Ingvar K      26
+		 2 meho    Mikael M      26
+		 2 rox     Roger R       26
+                 5 kasm    Björn K       25
+		 6 magn    Mats G        23
+		 7 ggan    Göte A        22
+		 8 lmju    Mats L        18
 		 9 prnm    Per N  	 16
+ 		10 jkan    Håkan J        9
                 10 rexe    Olof R         9
- 		11 jkan    Håkan J        8
-                11 nicl    Niclas S       8
+                12 nicl    Niclas S       8
 		13 hano    Hans N         7
 		14 shab	   Samuel H	  6
 		15 khnshr  Shehryar K	  5
+		16 livi    Lisbeth V	  4
  		16 nikogr  Niklas Ö       4
 		16 umasaj  Umair S  	  4
-		18 kkst	   Katarina S	  3
-		18 livi    Lisbeth V	  3
-                18 stmn    Stefan M       3
+		19 kkst	   Katarina S	  3
+                19 stmn    Stefan M       3
 		21 ajnn    Anders J       2
                 21 fla     Finn L         2
 		21 prstlj  Stefan L	  2
 		24 bbnhhu  Robin H 	  1
+		24 hagand  Andreas H	  1
 		24 hajn    Håkan A        1
 		24 hem     Erik H 	  1
  		24 henpeh  Henrik P       1
@@ -31,21 +32,24 @@
 		24 jesp    Jesper C       1
                 24 nubu    Nuri E         1
 		24 thomee  Håkan T	  1
-		32 danger  Daniel G       0
-                32 emived  Emil V         0
-		32 fredso  Fredrik S      0
-		32 frejus  Fredrik J	  0
-		32 jaxl    Jörgen A	  0
-		32 jima    Jitendra M     0
-		32 johers  Johan E	  0
-		32 johost  Johan Ö	  0
-		32 moli    Magnus M	  0
-		32 oker	   Thomas Å	  0
-		32 one     Anders Ö  	  0
-		32 petjoh  Peter J	  0
-                32 stg     Stefan G       0
-		32 tsjesv  Jeanette A	  0
+		33 danger  Daniel G       0
+                33 emived  Emil V         0
+		33 fredso  Fredrik S      0
+		33 frejus  Fredrik J	  0
+		33 jaxl    Jörgen A	  0
+		33 jima    Jitendra M     0
+		33 johers  Johan E	  0
+		33 johost  Johan Ö	  0
+		33 moli    Magnus M	  0
+		33 oker	   Thomas Å	  0
+		33 one     Anders Ö  	  0
+		33 petjoh  Peter J	  0
+                33 stg     Stefan G       0
+		33 tsjesv  Jeanette A	  0
 		
+Tisdag 4/7: hagand,ikan,jkan,kasm,livi,lmju,magn,meho,rox,wlar.
+            Ursvik 5km, 2X5km, 7km, 10km. 10st
+
 Tisdag 27/6: ajnn,hrpras,ikan,jkan,kasm,livi,lmju,magn,meho,rox,stmn,wlar.
              Ursvik 5km, 2X5km, 10km, Akalla. 12st
 Tisdag 20/6: hano,ikan,kasm,lmju,magn,meho,rox,stmn,wlar.
