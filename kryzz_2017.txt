@@ -1,16 +1,16 @@
-                Ställningen 11/7 2017 w28
+                Ställningen 18/7 2017 w29
 
- 		 1 wlar    Lars W        28
-		 2 ikan    Ingvar K      27
-		 2 meho    Mikael M      27
-		 2 rox     Roger R       27
+ 		 1 wlar    Lars W        29
+		 2 ikan    Ingvar K      28
+		 2 meho    Mikael M      28
+		 2 rox     Roger R       28
                  5 kasm    Björn K       25
 		 6 magn    Mats G        24
-		 7 ggan    Göte A        22
+		 7 ggan    Göte A        23
 		 8 lmju    Mats L        18
-		 9 prnm    Per N  	 16
- 		10 jkan    Håkan J        9
-                10 rexe    Olof R         9
+		 9 prnm    Per N  	 17
+ 		10 jkan    Håkan J       10
+                11 rexe    Olof R         9
                 12 nicl    Niclas S       8
 		13 hano    Hans N         7
 		14 shab	   Samuel H	  6
@@ -47,6 +47,7 @@
                 33 stg     Stefan G       0
 		33 tsjesv  Jeanette A	  0
 		
+Tisdag 18/7: ggan,ikan,jkan,meho,prnm,rox,wlar. Ursvik 5km, 2X5km, 7km, 10km. 7st
 Tisdag 11/7: ikan,magn,meho,rox,wlar. Ursvik 5km, 7km, hem. 5st		
 Tisdag 4/7: hagand,ikan,jkan,kasm,livi,lmju,magn,meho,rox,wlar.
             Ursvik 5km, 2X5km, 7km, 10km. 10st
