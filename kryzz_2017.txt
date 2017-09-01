@@ -1,11 +1,11 @@
-                Ställningen 1/8 2017 w31
+                Ställningen 8/8 2017 w32
 
  		 1 wlar    Lars W        30
-		 2 ikan    Ingvar K      28
-		 2 meho    Mikael M      28
-		 2 rox     Roger R       28
-		 5 ggan    Göte A        25
-                 5 kasm    Björn K       25
+		 2 meho    Mikael M      29
+		 3 ikan    Ingvar K      28
+		 3 rox     Roger R       28
+		 5 ggan    Göte A        26
+                 6 kasm    Björn K       25
 		 7 magn    Mats G        24
 		 8 lmju    Mats L        18
 		 8 prnm    Per N  	 18
@@ -17,9 +17,9 @@
 		15 khnshr  Shehryar K	  5
 		15 livi    Lisbeth V	  5
  		17 nikogr  Niklas Ö       4
+                17 stmn    Stefan M       4
 		17 umasaj  Umair S  	  4
-		19 kkst	   Katarina S	  3
-                19 stmn    Stefan M       3
+		20 kkst	   Katarina S	  3
 		21 ajnn    Anders J       2
                 21 fla     Finn L         2
 		21 prstlj  Stefan L	  2
@@ -46,7 +46,8 @@
 		33 petjoh  Peter J	  0
                 33 stg     Stefan G       0
 		33 tsjesv  Jeanette A	  0
-		
+
+Tisdag 8/8: ggan, meho, stmn. Ursvik 5km ,10km. 3st
 Tisdag 1/8: ggan, livi. Ursvik 5km +2km. 2st
 
 Tisdag 25/7: ggan, prnm, wlar. Ursvik 5km, 10km. 3st
