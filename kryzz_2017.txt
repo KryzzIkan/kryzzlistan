@@ -1,25 +1,25 @@
-                Ställningen 22/8 2017 w34
+                Ställningen 29/8 2017 w35
 
- 		 1 wlar    Lars W        32
-		 2 meho    Mikael M      31
-		 3 rox     Roger R       29
-		 4 ggan    Göte A        28
-		 4 ikan    Ingvar K      28
+ 		 1 wlar    Lars W        33
+		 2 meho    Mikael M      32
+		 3 rox     Roger R       30
+		 4 ggan    Göte A        29
+		 4 ikan    Ingvar K      29
 		 6 magn    Mats G        26
                  7 kasm    Björn K       25
-		 8 lmju    Mats L        20
-		 9 prnm    Per N  	 18
+		 8 lmju    Mats L        21
+		 9 prnm    Per N  	 19
  		10 jkan    Håkan J       10
+		11 hano    Hans N         9
                 11 rexe    Olof R         9
-		12 hano    Hans N         8
-                12 nicl    Niclas S       8
+                13 nicl    Niclas S       8
 		14 shab	   Samuel H	  6
-		15 khnshr  Shehryar K	  5
-		15 livi    Lisbeth V	  5
-                15 stmn    Stefan M       5
-		18 ajnn    Anders J       4
- 		18 nikogr  Niklas Ö       4
-		18 umasaj  Umair S  	  4
+                14 stmn    Stefan M       6
+		16 ajnn    Anders J       5
+		16 khnshr  Shehryar K	  5
+		16 livi    Lisbeth V	  5
+ 		19 nikogr  Niklas Ö       4
+		19 umasaj  Umair S  	  4
 		21 kkst	   Katarina S	  3
                 22 fla     Finn L         2
 		22 prstlj  Stefan L	  2
@@ -47,9 +47,11 @@
 		34 petjoh  Peter J	  0
                 34 stg     Stefan G       0
 
+Tisdag 29/8: ajnn,ggan,hano,ikan,lmju,meho,prnm,rox,stmn,wlar.
+             5km,10km,15km extrem. 10st
 Tisdag 22/8: ajnn,ggan,lmju,magn,meho,rox,wlar. 5km,10km. 7st
 Tisdag 15/8: ajnn,ggan,hano,lmju,magn,meho,stmn,tsjesv,wlar.
-            Ursvik 5km ,10km, 15km extrem 9st
+             Ursvik 5km ,10km, 15km extrem 9st
 Tisdag 8/8: ggan, meho, stmn. Ursvik 5km ,10km. 3st
 Tisdag 1/8: ggan, livi. Ursvik 5km +2km. 2st
 
