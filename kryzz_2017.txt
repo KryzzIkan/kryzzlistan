@@ -1,21 +1,21 @@
-                Ställningen 5/9 2017 w36
+                Ställningen 12/9 2017 w37
 
- 		 1 wlar    Lars W        34
+ 		 1 wlar    Lars W        35
 		 2 meho    Mikael M      33
-		 3 rox     Roger R       31
-		 4 ikan    Ingvar K      30
-		 5 ggan    Göte A        29
-		 6 magn    Mats G        27
+		 3 rox     Roger R       32
+		 4 ikan    Ingvar K      31
+		 5 ggan    Göte A        30
+		 6 magn    Mats G        28
                  7 kasm    Björn K       25
-		 8 lmju    Mats L        22
-		 9 prnm    Per N  	 20
+		 8 lmju    Mats L        23
+		 9 prnm    Per N  	 21
  		10 jkan    Håkan J       10
 		10 hano    Hans N        10
+                12 nicl    Niclas S       9
                 12 rexe    Olof R         9
-                13 nicl    Niclas S       8
+		14 ajnn    Anders J       7
                 14 stmn    Stefan M       7
-		15 ajnn    Anders J       6
-		15 shab	   Samuel H	  6
+		16 shab	   Samuel H	  6
 		17 khnshr  Shehryar K	  5
 		17 livi    Lisbeth V	  5
  		19 nikogr  Niklas Ö       4
@@ -46,7 +46,9 @@
 		34 one     Anders Ö  	  0
 		34 petjoh  Peter J	  0
                 34 stg     Stefan G       0
-
+		
+Tisdag 12/9: ajnn,ggan,ikan,lmju,magn,nicl,prnm,rox,wlar.
+             Ursvik 5km, 7km, 10km, 15km, 15km extrem. 9st FEL
 Tisdag 5/9: ajnn,hano,ikan,lmju,magn,meho,prnm,rox,stmn,wlar.
             5km,7km,10km. 10st
 
