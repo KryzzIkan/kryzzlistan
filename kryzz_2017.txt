@@ -1,20 +1,20 @@
-                Ställningen 12/9 2017 w37
+                Ställningen 19/9 2017 w38
 
- 		 1 wlar    Lars W        35
-		 2 meho    Mikael M      33
-		 3 rox     Roger R       32
-		 4 ikan    Ingvar K      31
-		 5 ggan    Göte A        30
-		 6 magn    Mats G        28
+ 		 1 wlar    Lars W        36
+		 2 meho    Mikael M      34
+		 3 rox     Roger R       33
+		 4 ikan    Ingvar K      32
+		 5 ggan    Göte A        31
+		 6 magn    Mats G        29
                  7 kasm    Björn K       25
-		 8 lmju    Mats L        23
-		 9 prnm    Per N  	 21
- 		10 jkan    Håkan J       10
-		10 hano    Hans N        10
-                12 nicl    Niclas S       9
-                12 rexe    Olof R         9
-		14 ajnn    Anders J       7
-                14 stmn    Stefan M       7
+		 8 lmju    Mats L        24
+		 9 prnm    Per N  	 22
+		10 hano    Hans N        11
+ 		11 jkan    Håkan J       10
+                11 nicl    Niclas S      10
+                11 rexe    Olof R        10
+		14 ajnn    Anders J       8
+                15 stmn    Stefan M       7
 		16 shab	   Samuel H	  6
 		17 khnshr  Shehryar K	  5
 		17 livi    Lisbeth V	  5
@@ -31,22 +31,25 @@
 		24 hrpras  Prashanth K	  1
 		24 jesp    Jesper C       1
                 24 nubu    Nuri E         1
+		24 tors	   Henrik T	  1
 		24 thomee  Håkan T	  1
 		24 tsjesv  Jeanette A	  1
-		34 danger  Daniel G       0
-                34 emived  Emil V         0
-		34 fredso  Fredrik S      0
-		34 frejus  Fredrik J	  0
-		34 jaxl    Jörgen A	  0
-		34 jima    Jitendra M     0
-		34 johers  Johan E	  0
-		34 johost  Johan Ö	  0
-		34 moli    Magnus M	  0
-		34 oker	   Thomas Å	  0
-		34 one     Anders Ö  	  0
-		34 petjoh  Peter J	  0
-                34 stg     Stefan G       0
+		35 danger  Daniel G       0
+                35 emived  Emil V         0
+		35 fredso  Fredrik S      0
+		35 frejus  Fredrik J	  0
+		35 jaxl    Jörgen A	  0
+		35 jima    Jitendra M     0
+		35 johers  Johan E	  0
+		35 johost  Johan Ö	  0
+		35 moli    Magnus M	  0
+		35 oker	   Thomas Å	  0
+		35 one     Anders Ö  	  0
+		35 petjoh  Peter J	  0
+                35 stg     Stefan G       0
 		
+Tisdag 19/9: ajnn,ggan,hano,ikan,lmju,magn,meho,nicl,prnm,rexe,rox,tors,wlar.
+             Ursvik 5km, 2X5km, 7km, 10km, 15km. 13st		
 Tisdag 12/9: ajnn,ggan,ikan,lmju,magn,nicl,prnm,rox,wlar.
              Ursvik 5km, 7km, 10km, 15km, 15km extrem. 9st FEL
 Tisdag 5/9: ajnn,hano,ikan,lmju,magn,meho,prnm,rox,stmn,wlar.
