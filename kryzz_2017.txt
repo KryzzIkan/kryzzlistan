@@ -1,53 +1,58 @@
-                Ställningen 19/9 2017 w38
+                Ställningen 28/9 2017 w39
 
- 		 1 wlar    Lars W        36
-		 2 meho    Mikael M      34
-		 3 rox     Roger R       33
-		 4 ikan    Ingvar K      32
-		 5 ggan    Göte A        31
-		 6 magn    Mats G        29
+ 		 1 wlar    Lars W        38
+		 2 meho    Mikael M      36
+		 3 rox     Roger R       35
+		 4 ggan    Göte A        33
+		 4 ikan    Ingvar K      33
+		 6 magn    Mats G        31
+		 7 lmju    Mats L        25
                  7 kasm    Björn K       25
-		 8 lmju    Mats L        24
 		 9 prnm    Per N  	 22
-		10 hano    Hans N        11
- 		11 jkan    Håkan J       10
-                11 nicl    Niclas S      10
-                11 rexe    Olof R        10
-		14 ajnn    Anders J       8
-                15 stmn    Stefan M       7
+		10 hano    Hans N        12
+                11 rexe    Olof R        11
+		12 ajnn    Anders J      10
+ 		12 jkan    Håkan J       10
+                12 nicl    Niclas S      10
+                15 stmn    Stefan M       8
 		16 shab	   Samuel H	  6
 		17 khnshr  Shehryar K	  5
 		17 livi    Lisbeth V	  5
+		19 kkst	   Katarina S	  4
  		19 nikogr  Niklas Ö       4
 		19 umasaj  Umair S  	  4
-		21 kkst	   Katarina S	  3
-                22 fla     Finn L         2
-		22 prstlj  Stefan L	  2
-		24 bbnhhu  Robin H 	  1
-		24 hagand  Andreas H	  1
-		24 hajn    Håkan A        1
-		24 hem     Erik H 	  1
- 		24 henpeh  Henrik P       1
-		24 hrpras  Prashanth K	  1
-		24 jesp    Jesper C       1
-                24 nubu    Nuri E         1
-		24 tors	   Henrik T	  1
-		24 thomee  Håkan T	  1
-		24 tsjesv  Jeanette A	  1
-		35 danger  Daniel G       0
-                35 emived  Emil V         0
-		35 fredso  Fredrik S      0
-		35 frejus  Fredrik J	  0
-		35 jaxl    Jörgen A	  0
-		35 jima    Jitendra M     0
-		35 johers  Johan E	  0
-		35 johost  Johan Ö	  0
-		35 moli    Magnus M	  0
-		35 oker	   Thomas Å	  0
-		35 one     Anders Ö  	  0
-		35 petjoh  Peter J	  0
-                35 stg     Stefan G       0
+		22 prstlj  Stefan L	  3
+                23 fla     Finn L         2
+		23 tors	   Henrik T	  2
+		25 bbnhhu  Robin H 	  1
+		25 hagand  Andreas H	  1
+		25 hajn    Håkan A        1
+		25 hem     Erik H 	  1
+ 		25 henpeh  Henrik P       1
+		25 hrpras  Prashanth K	  1
+		25 jesp    Jesper C       1
+		25 joarii  Joakim R       1
+		25 johost  Johan Ö	  1
+                25 nubu    Nuri E         1
+		25 petjoh  Peter J	  1
+		25 thomee  Håkan T	  1
+		25 tsjesv  Jeanette A	  1
+		38 danger  Daniel G       0
+                38 emived  Emil V         0
+		38 fredso  Fredrik S      0
+		38 frejus  Fredrik J	  0
+		38 jaxl    Jörgen A	  0
+		38 jima    Jitendra M     0
+		38 johers  Johan E	  0
+		38 moli    Magnus M	  0
+		38 oker	   Thomas Å	  0
+		38 one     Anders Ö  	  0
+                38 stg     Stefan G       0
 		
+Torsdag 28/9 ajnn,ggan,johost,kkst,lmju,magn,meho,petjoh,prstlj,rox,wlar.
+             Ericsson Terrängen Ursvik 5km,10km. 11st 17st totalt
+Tisdag 26/9: ajnn,*ggan,hano,*ikan,joarii,magn,*meho,*rexe,rox,stmn,tors,*wlar.
+             Ursvik 5km, 10km. 12st *=MiM 7st (kasm,lmju)   		
 Tisdag 19/9: ajnn,ggan,hano,ikan,lmju,magn,meho,nicl,prnm,rexe,rox,tors,wlar.
              Ursvik 5km, 2X5km, 7km, 10km, 15km. 13st		
 Tisdag 12/9: ajnn,ggan,ikan,lmju,magn,nicl,prnm,rox,wlar.
