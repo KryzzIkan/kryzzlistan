@@ -1,20 +1,20 @@
-                Ställningen 28/9 2017 w39
+                Ställningen 3/10 2017 w40
 
- 		 1 wlar    Lars W        38
-		 2 meho    Mikael M      36
-		 3 rox     Roger R       35
-		 4 ggan    Göte A        33
-		 4 ikan    Ingvar K      33
-		 6 magn    Mats G        31
-		 7 lmju    Mats L        25
+ 		 1 wlar    Lars W        39
+		 2 meho    Mikael M      37
+		 3 rox     Roger R       36
+		 4 ggan    Göte A        34
+		 4 ikan    Ingvar K      34
+		 6 magn    Mats G        32
+		 7 lmju    Mats L        26
                  7 kasm    Björn K       25
-		 9 prnm    Per N  	 22
+		 9 prnm    Per N  	 23
 		10 hano    Hans N        12
+		11 ajnn    Anders J      11
                 11 rexe    Olof R        11
-		12 ajnn    Anders J      10
- 		12 jkan    Håkan J       10
-                12 nicl    Niclas S      10
-                15 stmn    Stefan M       8
+ 		13 jkan    Håkan J       10
+                13 nicl    Niclas S      10
+                15 stmn    Stefan M       9
 		16 shab	   Samuel H	  6
 		17 khnshr  Shehryar K	  5
 		17 livi    Lisbeth V	  5
@@ -49,6 +49,9 @@
 		38 one     Anders Ö  	  0
                 38 stg     Stefan G       0
 		
+Tisdag 3/10 ajnn,ggan,ikan,lmju,magn,meho,prnm,rox,stmn,wlar.
+            Ursvik 5km 10km. 10st
+		
 Torsdag 28/9 ajnn,ggan,johost,kkst,lmju,magn,meho,petjoh,prstlj,rox,wlar.
              Ericsson Terrängen Ursvik 5km,10km. 11st 17st totalt
 Tisdag 26/9: ajnn,*ggan,hano,*ikan,joarii,magn,*meho,*rexe,rox,stmn,tors,*wlar.
@@ -60,6 +63,9 @@ Tisdag 12/9: ajnn,ggan,ikan,lmju,magn,nicl,prnm,rox,wlar.
 Tisdag 5/9: ajnn,hano,ikan,lmju,magn,meho,prnm,rox,stmn,wlar.
             5km,7km,10km. 10st
 
+Tisdag 3/10 ajnn,ggan,ikan,lmju,magn,meho,prnm,rox,stmn,wlar.
+            Ursvik 5km 10km. 10st
+	    
 Tisdag 29/8: ajnn,ggan,hano,ikan,lmju,meho,prnm,rox,stmn,wlar.
              5km,10km,15km extrem. 10st
 Tisdag 22/8: ajnn,ggan,lmju,magn,meho,rox,wlar. 5km,10km. 7st
