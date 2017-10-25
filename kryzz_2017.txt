@@ -1,16 +1,16 @@
-                Ställningen 10/10 2017 w41
+                Ställningen 17/10 2017 w42
 
- 		 1 wlar    Lars W        40
+ 		 1 wlar    Lars W        41
 		 2 meho    Mikael M      38
-		 3 rox     Roger R       37
-		 4 ggan    Göte A        35
-		 4 ikan    Ingvar K      35
-		 6 magn    Mats G        33
+		 2 rox     Roger R       38
+		 4 ggan    Göte A        36
+		 4 ikan    Ingvar K      36
+		 6 magn    Mats G        34
 		 7 lmju    Mats L        27
-                 7 kasm    Björn K       25
-		 9 prnm    Per N  	 24
-		10 ajnn    Anders J      12
-		10 hano    Hans N        12
+                 8 kasm    Björn K       25
+		 8 prnm    Per N  	 25
+		10 ajnn    Anders J      13
+		11 hano    Hans N        12
                 12 rexe    Olof R        11
  		13 jkan    Håkan J       10
                 13 nicl    Niclas S      10
@@ -48,7 +48,9 @@
 		38 oker	   Thomas Å	  0
 		38 one     Anders Ö  	  0
                 38 stg     Stefan G       0
-
+		
+Tisdag 17/10 ajnn,ggan,ikan,magn,prnm,rox,wlar.
+             Ursvik 5km 7km. 7st
 Tisdag 10/10 ajnn,ggan,ikan,lmju,magn,meho,prnm,rox,wlar.
              Ursvik 5km,7km,10km. 9st		
 Tisdag 3/10 ajnn,ggan,ikan,lmju,magn,meho,prnm,rox,stmn,wlar.
