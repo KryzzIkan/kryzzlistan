@@ -1,15 +1,15 @@
-                Ställningen 24/10 2017 w43
+                Ställningen 31/10 2017 w44
 
- 		 1 wlar    Lars W        42
-		 2 meho    Mikael M      39
-		 2 rox     Roger R       39
-		 4 ggan    Göte A        37
-		 4 ikan    Ingvar K      37
-		 6 magn    Mats G        34
-		 7 lmju    Mats L        28
-                 8 kasm    Björn K       26
-		 8 prnm    Per N  	 26
-		10 ajnn    Anders J      14
+ 		 1 wlar    Lars W        43
+		 2 meho    Mikael M      40
+		 2 rox     Roger R       40
+		 4 ggan    Göte A        38
+		 4 ikan    Ingvar K      38
+		 6 magn    Mats G        35
+		 7 lmju    Mats L        29
+		 8 prnm    Per N  	 27
+                 9 kasm    Björn K       26
+		10 ajnn    Anders J      15
 		11 hano    Hans N        12
                 12 rexe    Olof R        11
  		13 jkan    Håkan J       10
@@ -49,6 +49,8 @@
 		38 one     Anders Ö  	  0
                 38 stg     Stefan G       0
 		
+Tisdag 31/10: ajnn,ggan,ikan,lmju,magn,meho,prnm,rox,wlar.
+              Ursvik 5km,2*5km, Akalla. 9st
 Tisdag 24/10 ajnn,ggan,ikan,kasm,lmju,meho,prnm,rox,stmn,wlar.
              Ursvik 5km 7km 10km. 10st		
 Tisdag 17/10 ajnn,ggan,ikan,magn,prnm,rox,wlar.
