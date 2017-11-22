@@ -1,16 +1,16 @@
-                Ställningen 7/11 2017 w45
+                Ställningen 14/11 2017 w46
 
- 		 1 wlar    Lars W        44
-		 2 meho    Mikael M      41
-		 2 rox     Roger R       41
-		 4 ggan    Göte A        39
-		 4 ikan    Ingvar K      39
+ 		 1 wlar    Lars W        45
+		 2 meho    Mikael M      42
+		 2 rox     Roger R       42
+		 4 ggan    Göte A        40
+		 4 ikan    Ingvar K      40
 		 6 magn    Mats G        36
-		 7 lmju    Mats L        30
+		 7 lmju    Mats L        31
 		 8 prnm    Per N  	 28
                  9 kasm    Björn K       26
 		10 ajnn    Anders J      16
-		11 hano    Hans N        12
+		11 hano    Hans N        13
                 12 rexe    Olof R        11
                 12 stmn    Stefan M      11
  		14 jkan    Håkan J       10
@@ -49,6 +49,8 @@
 		38 one     Anders Ö  	  0
                 38 stg     Stefan G       0
 		
+Tisdag 14/11: ggan,hano,ikan,lmju,meho,rox,wlar.
+       Ursvik 5km,2X 5km, Akalla. 7st		
 Tisdag 7/11: ajnn,ggan,ikan,lmju,magn,meho,prnm,rox,stmn,wlar.
              Ursvik 5km,2X 5km, Akalla. 10st
 
