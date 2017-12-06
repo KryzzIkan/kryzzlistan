@@ -1,19 +1,19 @@
-                Ställningen 21/11 2017 w47
+                Ställningen 28/11 2017 w48
 
- 		 1 wlar    Lars W        46
-		 2 meho    Mikael M      43
-		 2 rox     Roger R       43
-		 4 ggan    Göte A        41
-		 4 ikan    Ingvar K      41
-		 6 magn    Mats G        36
-		 7 lmju    Mats L        32
-		 8 prnm    Per N  	 28
-                 9 kasm    Björn K       26
+ 		 1 wlar    Lars W        47
+		 2 meho    Mikael M      44
+		 2 rox     Roger R       44
+		 4 ggan    Göte A        42
+		 4 ikan    Ingvar K      42
+		 6 magn    Mats G        37
+		 7 lmju    Mats L        33
+		 8 prnm    Per N  	 29
+                 9 kasm    Björn K       27
 		10 ajnn    Anders J      17
 		11 hano    Hans N        14
-                12 nicl    Niclas S      11
-                12 rexe    Olof R        11
-                12 stmn    Stefan M      11
+                12 rexe    Olof R        12
+                13 nicl    Niclas S      11
+                13 stmn    Stefan M      11
  		15 jkan    Håkan J       10
 		16 shab	   Samuel H	  6
 		17 khnshr  Shehryar K	  5
@@ -48,7 +48,9 @@
 		38 oker	   Thomas Å	  0
 		38 one     Anders Ö  	  0
                 38 stg     Stefan G       0
-
+		
+Tisdag 28/11: ggan,*ikan,*kasm,*lmju,magn,*meho,prnm,*rexe,rox,*wlar.
+              Ursvik 5km, 2X5km, Akalla, mini-Akalla. 10st *=kryzzbärs+Moules BB
 Tisdag 21/11: ajnn,ggan,hano,ikan,lmju,meho,nicl,rox,wlar.
               Ursvik 5km, Akalla. 9st
 Tisdag 14/11: ggan,hano,ikan,lmju,meho,rox,wlar.
