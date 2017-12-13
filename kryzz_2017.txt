@@ -1,26 +1,26 @@
-                Ställningen 28/11 2017 w48
+                Ställningen 5/12 2017 w49
 
- 		 1 wlar    Lars W        47
-		 2 meho    Mikael M      44
-		 2 rox     Roger R       44
-		 4 ggan    Göte A        42
-		 4 ikan    Ingvar K      42
-		 6 magn    Mats G        37
+ 		 1 wlar    Lars W        48
+		 2 meho    Mikael M      45
+		 2 rox     Roger R       45
+		 4 ggan    Göte A        43
+		 4 ikan    Ingvar K      43
+		 6 magn    Mats G        38
 		 7 lmju    Mats L        33
-		 8 prnm    Per N  	 29
-                 9 kasm    Björn K       27
-		10 ajnn    Anders J      17
+		 8 prnm    Per N  	 30
+                 9 kasm    Björn K       28
+		10 ajnn    Anders J      18
 		11 hano    Hans N        14
+                12 nicl    Niclas S      12
                 12 rexe    Olof R        12
-                13 nicl    Niclas S      11
-                13 stmn    Stefan M      11
+                14 stmn    Stefan M      11
  		15 jkan    Håkan J       10
 		16 shab	   Samuel H	  6
 		17 khnshr  Shehryar K	  5
+		17 kkst	   Katarina S	  5
 		17 livi    Lisbeth V	  5
-		19 kkst	   Katarina S	  4
- 		19 nikogr  Niklas Ö       4
-		19 umasaj  Umair S  	  4
+ 		20 nikogr  Niklas Ö       4
+		20 umasaj  Umair S  	  4
 		22 prstlj  Stefan L	  3
                 23 fla     Finn L         2
 		23 tors	   Henrik T	  2
@@ -49,12 +49,15 @@
 		38 one     Anders Ö  	  0
                 38 stg     Stefan G       0
 		
+Tisdag 5/12: ajnn,ggan,ikan,kasm,kkst,magn,meho,nicl,prnm,rox,wlar.
+             Ursvik 5km, Akalla, mini-Akalla. 11st
+	     
 Tisdag 28/11: ggan,*ikan,*kasm,*lmju,magn,*meho,prnm,*rexe,rox,*wlar.
               Ursvik 5km, 2X5km, Akalla, mini-Akalla. 10st *=kryzzbärs+Moules BB
 Tisdag 21/11: ajnn,ggan,hano,ikan,lmju,meho,nicl,rox,wlar.
               Ursvik 5km, Akalla. 9st
 Tisdag 14/11: ggan,hano,ikan,lmju,meho,rox,wlar.
-       Ursvik 5km,2X 5km, Akalla. 7st		
+              Ursvik 5km,2X 5km, Akalla. 7st		
 Tisdag 7/11: ajnn,ggan,ikan,lmju,magn,meho,prnm,rox,stmn,wlar.
              Ursvik 5km,2X 5km, Akalla. 10st
 
