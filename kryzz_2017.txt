@@ -1,18 +1,18 @@
-                Ställningen 5/12 2017 w49
+                Ställningen 12/12 2017 w50
 
- 		 1 wlar    Lars W        48
-		 2 meho    Mikael M      45
-		 2 rox     Roger R       45
-		 4 ggan    Göte A        43
-		 4 ikan    Ingvar K      43
+ 		 1 wlar    Lars W        49
+		 2 meho    Mikael M      46
+		 2 rox     Roger R       46
+		 4 ggan    Göte A        44
+		 4 ikan    Ingvar K      44
 		 6 magn    Mats G        38
 		 7 lmju    Mats L        33
 		 8 prnm    Per N  	 30
                  9 kasm    Björn K       28
 		10 ajnn    Anders J      18
 		11 hano    Hans N        14
-                12 nicl    Niclas S      12
-                12 rexe    Olof R        12
+                12 nicl    Niclas S      13
+                13 rexe    Olof R        12
                 14 stmn    Stefan M      11
  		15 jkan    Håkan J       10
 		16 shab	   Samuel H	  6
@@ -49,6 +49,8 @@
 		38 one     Anders Ö  	  0
                 38 stg     Stefan G       0
 		
+Tisdag 12/12: ggan,ikan,meho,nicl,rox,wlar.
+              Ursvik 5km, Akalla. 6st
 Tisdag 5/12: ajnn,ggan,ikan,kasm,kkst,magn,meho,nicl,prnm,rox,wlar.
              Ursvik 5km, Akalla, mini-Akalla. 11st
 	     
@@ -83,9 +85,6 @@ Tisdag 12/9: ajnn,ggan,ikan,lmju,magn,nicl,prnm,rox,wlar.
 Tisdag 5/9: ajnn,hano,ikan,lmju,magn,meho,prnm,rox,stmn,wlar.
             5km,7km,10km. 10st
 
-Tisdag 3/10 ajnn,ggan,ikan,lmju,magn,meho,prnm,rox,stmn,wlar.
-            Ursvik 5km 10km. 10st
-	    
 Tisdag 29/8: ajnn,ggan,hano,ikan,lmju,meho,prnm,rox,stmn,wlar.
              5km,10km,15km extrem. 10st
 Tisdag 22/8: ajnn,ggan,lmju,magn,meho,rox,wlar. 5km,10km. 7st
