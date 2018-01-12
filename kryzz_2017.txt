@@ -1,20 +1,20 @@
-                Ställningen 12/12 2017 w50
+                Slutställningen 19/12 2017 w51
 
- 		 1 wlar    Lars W        49
-		 2 meho    Mikael M      46
-		 2 rox     Roger R       46
-		 4 ggan    Göte A        44
-		 4 ikan    Ingvar K      44
+ 		 1 wlar    Lars W        50
+		 2 meho    Mikael M      47
+		 2 rox     Roger R       47
+		 4 ggan    Göte A        45
+		 4 ikan    Ingvar K      45
 		 6 magn    Mats G        38
-		 7 lmju    Mats L        33
+		 7 lmju    Mats L        34
 		 8 prnm    Per N  	 30
                  9 kasm    Björn K       28
-		10 ajnn    Anders J      18
+		10 ajnn    Anders J      19
 		11 hano    Hans N        14
                 12 nicl    Niclas S      13
                 13 rexe    Olof R        12
+ 		14 jkan    Håkan J       11
                 14 stmn    Stefan M      11
- 		15 jkan    Håkan J       10
 		16 shab	   Samuel H	  6
 		17 khnshr  Shehryar K	  5
 		17 kkst	   Katarina S	  5
@@ -48,7 +48,9 @@
 		38 oker	   Thomas Å	  0
 		38 one     Anders Ö  	  0
                 38 stg     Stefan G       0
-		
+
+Tisdag 19/12: ajnn*,ggan*, ikan*,jkan,lmju*,meho*,rox*,wlar*.
+       	      Ursvik 5km, mini-Akalla. 8st. Julbord Tre Valv * 11st(kasm,kkst,rexe,stmn)
 Tisdag 12/12: ggan,ikan,meho,nicl,rox,wlar.
               Ursvik 5km, Akalla. 6st
 Tisdag 5/12: ajnn,ggan,ikan,kasm,kkst,magn,meho,nicl,prnm,rox,wlar.
