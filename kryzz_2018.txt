@@ -1,43 +1,45 @@
-                Ställningen 16/1 2018 w3
+                Ställningen 23/1 2018 w4
 
-		 1 lmju    Mats L         3
-		 1 magn    Mats G         3
-		 1 meho    Mikael M       3
- 		 1 wlar    Lars W         3
-		 5 ajnn    Anders J       2
-		 5 ikan    Ingvar K       2
-		 5 ggan    Göte A         2
-		 5 livi    Lisbeth V	  2
-		 5 rox     Roger R        2
-		10 hano    Hans N         1
-                10 kasm    Björn K        1
-                10 nicl    Niclas S       1
-		10 prnm    Per N  	  1
-		14 bbnhhu  Robin H 	  0
-                14 fla     Finn L         0
-		14 hagand  Andreas H	  0
-		14 hajn    Håkan A        0
-		14 hem     Erik H 	  0
- 		14 henpeh  Henrik P       0
-		14 hrpras  Prashanth K	  0
-		14 jesp    Jesper C       0
- 		14 jkan    Håkan J        0
-		14 joarii  Joakim R       0
-		14 johost  Johan Ö	  0
-		14 khnshr  Shehryar K	  0
-		14 kkst	   Katarina S	  0
- 		14 nikogr  Niklas Ö       0
-                14 nubu    Nuri E         0
-		14 petjoh  Peter J	  0
-		14 prstlj  Stefan L	  0
-                14 rexe    Olof R         0
-		14 shab	   Samuel H	  0
-                14 stmn    Stefan M       0
-		14 thomee  Håkan T	  0
-		14 tors	   Henrik T	  0
-		14 tsjesv  Jeanette A	  0
-		14 umasaj  Umair S  	  0
-		
+		 1 lmju    Mats L         4
+		 1 magn    Mats G         4
+		 1 meho    Mikael M       4
+ 		 1 wlar    Lars W         4
+		 5 ajnn    Anders J       3
+		 5 ikan    Ingvar K       3
+		 5 ggan    Göte A         3
+		 5 rox     Roger R        3
+		 9 hano    Hans N         2
+                 9 kasm    Björn K        2
+		 9 livi    Lisbeth V	  2
+                 9 nicl    Niclas S       2
+		13 khnshr  Shehryar K	  1
+		13 prnm    Per N  	  1
+		15 bbnhhu  Robin H 	  0
+                15 fla     Finn L         0
+		15 hagand  Andreas H	  0
+		15 hajn    Håkan A        0
+		15 hem     Erik H 	  0
+ 		15 henpeh  Henrik P       0
+		15 hrpras  Prashanth K	  0
+		15 jesp    Jesper C       0
+ 		15 jkan    Håkan J        0
+		15 joarii  Joakim R       0
+		15 johost  Johan Ö	  0
+		15 kkst	   Katarina S	  0
+ 		15 nikogr  Niklas Ö       0
+                15 nubu    Nuri E         0
+		15 petjoh  Peter J	  0
+		15 prstlj  Stefan L	  0
+                15 rexe    Olof R         0
+		15 shab	   Samuel H	  0
+                15 stmn    Stefan M       0
+		15 thomee  Håkan T	  0
+		15 tors	   Henrik T	  0
+		15 tsjesv  Jeanette A	  0
+		15 umasaj  Umair S  	  0
+
+Tisdag 23/1: ajnn,ggan,hano,ikan,kasm,khnshr,lmju,magn,meho,nicl,rox,wlar.
+            Ursvik 5km, Akalla, mini-Akalla. 12st
 Tisdag 16/1: ajnn,ggan,hano,ikan,kasm,lmju,magn,meho,nicl,rox,wlar.
             Ursvik 5km, Akalla, snö/blåst. 11st
 Tisdag 9/1: ikan,livi,lmju,magn,meho,prnm,rox,wlar.
