@@ -1,42 +1,45 @@
-                Ställningen 30/1 2018 w5
+                Ställningen 6/2 2018 w6
 
-		 1 lmju    Mats L         5
-		 1 magn    Mats G         5
-		 1 meho    Mikael M       5
- 		 1 wlar    Lars W         5
-		 5 ajnn    Anders J       4
-		 5 ikan    Ingvar K       4
-		 5 ggan    Göte A         4
-		 5 rox     Roger R        4
-                 9 kasm    Björn K        3
-		10 hano    Hans N         2
-		10 livi    Lisbeth V	  2
-                10 nicl    Niclas S       2
+		 1 lmju    Mats L         6
+		 1 magn    Mats G         6
+		 1 meho    Mikael M       6
+ 		 1 wlar    Lars W         6
+		 5 ikan    Ingvar K       5
+		 5 ggan    Göte A         5
+		 5 rox     Roger R        5
+		 8 ajnn    Anders J       4
+                 8 kasm    Björn K        4
+                10 nicl    Niclas S       3
+		11 hano    Hans N         2
+		11 livi    Lisbeth V	  2
 		13 jesp    Jesper C       1
 		13 khnshr  Shehryar K	  1
 		13 prnm    Per N  	  1
-		16 bbnhhu  Robin H 	  0
-                16 fla     Finn L         0
-		16 hagand  Andreas H	  0
-		16 hajn    Håkan A        0
-		16 hem     Erik H 	  0
- 		16 henpeh  Henrik P       0
-		16 hrpras  Prashanth K	  0
- 		16 jkan    Håkan J        0
-		16 joarii  Joakim R       0
-		16 johost  Johan Ö	  0
-		16 kkst	   Katarina S	  0
- 		16 nikogr  Niklas Ö       0
-                16 nubu    Nuri E         0
-		16 petjoh  Peter J	  0
-		16 prstlj  Stefan L	  0
-                16 rexe    Olof R         0
-		16 shab	   Samuel H	  0
-                16 stmn    Stefan M       0
-		16 thomee  Håkan T	  0
-		16 tors	   Henrik T	  0
-		16 tsjesv  Jeanette A	  0
-		16 umasaj  Umair S  	  0
+                13 rexe    Olof R         1
+		17 bbnhhu  Robin H 	  0
+                17 fla     Finn L         0
+		17 hagand  Andreas H	  0
+		17 hajn    Håkan A        0
+		17 hem     Erik H 	  0
+ 		17 henpeh  Henrik P       0
+		17 hrpras  Prashanth K	  0
+ 		17 jkan    Håkan J        0
+		17 joarii  Joakim R       0
+		17 johost  Johan Ö	  0
+		17 kkst	   Katarina S	  0
+ 		17 nikogr  Niklas Ö       0
+                17 nubu    Nuri E         0
+		17 petjoh  Peter J	  0
+		17 prstlj  Stefan L	  0
+		17 shab	   Samuel H	  0
+                17 stmn    Stefan M       0
+		17 thomee  Håkan T	  0
+		17 tors	   Henrik T	  0
+		17 tsjesv  Jeanette A	  0
+		17 umasaj  Umair S  	  0
+
+Tisdag 6/2: ggan,ikan,kasm,lmju,magn,meho,nicl,rexe,rox,wlar.
+            mini-Akalla. 10st
 
 Tisdag 30/1: ajnn,ggan,ikan,jesp,kasm,lmju,magn,meho,rox,wlar.
              Akalla. Isigt. 10st 
