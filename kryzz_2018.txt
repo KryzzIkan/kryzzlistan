@@ -1,21 +1,21 @@
-                Ställningen 6/2 2018 w6
+                Ställningen 13/2 2018 w7
 
-		 1 lmju    Mats L         6
-		 1 magn    Mats G         6
-		 1 meho    Mikael M       6
- 		 1 wlar    Lars W         6
-		 5 ikan    Ingvar K       5
-		 5 ggan    Göte A         5
-		 5 rox     Roger R        5
-		 8 ajnn    Anders J       4
-                 8 kasm    Björn K        4
-                10 nicl    Niclas S       3
+		 1 lmju    Mats L         7
+		 1 magn    Mats G         7
+		 1 meho    Mikael M       7
+ 		 1 wlar    Lars W         7
+		 5 ikan    Ingvar K       6
+		 5 ggan    Göte A         6
+		 5 rox     Roger R        6
+                 8 kasm    Björn K        5
+		 9 ajnn    Anders J       4
+                 9 nicl    Niclas S       4
 		11 hano    Hans N         2
 		11 livi    Lisbeth V	  2
-		13 jesp    Jesper C       1
-		13 khnshr  Shehryar K	  1
-		13 prnm    Per N  	  1
-                13 rexe    Olof R         1
+                11 rexe    Olof R         2
+		14 jesp    Jesper C       1
+		14 khnshr  Shehryar K	  1
+		14 prnm    Per N  	  1
 		17 bbnhhu  Robin H 	  0
                 17 fla     Finn L         0
 		17 hagand  Andreas H	  0
@@ -37,7 +37,9 @@
 		17 tors	   Henrik T	  0
 		17 tsjesv  Jeanette A	  0
 		17 umasaj  Umair S  	  0
-
+		
+Tisdag 13/2: ggan,*ikan,*kasm,*lmju,magn,*meho,nicl,*rexe,rox,*wlar.
+             Akalla. 10st *=kryzzbärs Lords
 Tisdag 6/2: ggan,ikan,kasm,lmju,magn,meho,nicl,rexe,rox,wlar.
             mini-Akalla. 10st
 
