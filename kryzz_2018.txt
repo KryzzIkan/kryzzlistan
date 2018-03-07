@@ -1,13 +1,13 @@
-                Ställningen 20/2 2018 w8
+                Ställningen 27/2 2018 w9
 
-		 1 lmju    Mats L         8
-		 1 magn    Mats G         8
-		 1 meho    Mikael M       8
- 		 1 wlar    Lars W         8
+		 1 lmju    Mats L         9
+		 1 magn    Mats G         9
+ 		 1 wlar    Lars W         9
+		 4 meho    Mikael M       8
 		 5 ggan    Göte A         7
-		 5 rox     Roger R        7
-		 7 ikan    Ingvar K       6
-                 7 kasm    Björn K        6
+                 6 kasm    Björn K        7
+		 6 rox     Roger R        7
+		 8 ikan    Ingvar K       6
                  9 nicl    Niclas S       5
 		10 ajnn    Anders J       4
                 11 rexe    Olof R         3
@@ -37,7 +37,8 @@
 		18 tors	   Henrik T	  0
 		18 tsjesv  Jeanette A	  0
 		18 umasaj  Umair S  	  0
-		
+
+Tisdag 27/2: kasm,lmju,magn,wlar. Akalla, mini-Akalla. -13C. 4st	
 Tisdag 20/2: ggan,kasm,kkst,lmju,magn,meho,nicl,rexe,rox,wlar.
              Akalla, mini-Akalla. 10st		
 Tisdag 13/2: ggan,*ikan,*kasm,*lmju,magn,*meho,nicl,*rexe,rox,*wlar.
