@@ -1,47 +1,49 @@
-                Ställningen 13/2 2018 w7
+                Ställningen 20/2 2018 w8
 
-		 1 lmju    Mats L         7
-		 1 magn    Mats G         7
-		 1 meho    Mikael M       7
- 		 1 wlar    Lars W         7
-		 5 ikan    Ingvar K       6
-		 5 ggan    Göte A         6
-		 5 rox     Roger R        6
-                 8 kasm    Björn K        5
-		 9 ajnn    Anders J       4
-                 9 nicl    Niclas S       4
-		11 hano    Hans N         2
-		11 livi    Lisbeth V	  2
-                11 rexe    Olof R         2
+		 1 lmju    Mats L         8
+		 1 magn    Mats G         8
+		 1 meho    Mikael M       8
+ 		 1 wlar    Lars W         8
+		 5 ggan    Göte A         7
+		 5 rox     Roger R        7
+		 7 ikan    Ingvar K       6
+                 7 kasm    Björn K        6
+                 9 nicl    Niclas S       5
+		10 ajnn    Anders J       4
+                11 rexe    Olof R         3
+		12 hano    Hans N         2
+		12 livi    Lisbeth V	  2
 		14 jesp    Jesper C       1
 		14 khnshr  Shehryar K	  1
+		14 kkst	   Katarina S	  1
 		14 prnm    Per N  	  1
-		17 bbnhhu  Robin H 	  0
-                17 fla     Finn L         0
-		17 hagand  Andreas H	  0
-		17 hajn    Håkan A        0
-		17 hem     Erik H 	  0
- 		17 henpeh  Henrik P       0
-		17 hrpras  Prashanth K	  0
- 		17 jkan    Håkan J        0
-		17 joarii  Joakim R       0
-		17 johost  Johan Ö	  0
-		17 kkst	   Katarina S	  0
- 		17 nikogr  Niklas Ö       0
-                17 nubu    Nuri E         0
-		17 petjoh  Peter J	  0
-		17 prstlj  Stefan L	  0
-		17 shab	   Samuel H	  0
-                17 stmn    Stefan M       0
-		17 thomee  Håkan T	  0
-		17 tors	   Henrik T	  0
-		17 tsjesv  Jeanette A	  0
-		17 umasaj  Umair S  	  0
+		18 bbnhhu  Robin H 	  0
+                18 fla     Finn L         0
+		18 hagand  Andreas H	  0
+		18 hajn    Håkan A        0
+		18 hem     Erik H 	  0
+ 		18 henpeh  Henrik P       0
+		18 hrpras  Prashanth K	  0
+ 		18 jkan    Håkan J        0
+		18 joarii  Joakim R       0
+		18 johost  Johan Ö	  0
+ 		18 nikogr  Niklas Ö       0
+                18 nubu    Nuri E         0
+		18 petjoh  Peter J	  0
+		18 prstlj  Stefan L	  0
+		18 shab	   Samuel H	  0
+                18 stmn    Stefan M       0
+		18 thomee  Håkan T	  0
+		18 tors	   Henrik T	  0
+		18 tsjesv  Jeanette A	  0
+		18 umasaj  Umair S  	  0
 		
+Tisdag 20/2: ggan,kasm,kkst,lmju,magn,meho,nicl,rexe,rox,wlar.
+             Akalla, mini-Akalla. 10st		
 Tisdag 13/2: ggan,*ikan,*kasm,*lmju,magn,*meho,nicl,*rexe,rox,*wlar.
              Akalla. 10st *=kryzzbärs Lords
 Tisdag 6/2: ggan,ikan,kasm,lmju,magn,meho,nicl,rexe,rox,wlar.
-            mini-Akalla. 10st
+            Akalla, mini-Akalla. 10st
 
 Tisdag 30/1: ajnn,ggan,ikan,jesp,kasm,lmju,magn,meho,rox,wlar.
              Akalla. Isigt. 10st 
