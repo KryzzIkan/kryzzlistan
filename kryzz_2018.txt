@@ -1,17 +1,17 @@
-                Ställningen 13/3 2018 w11
+                Ställningen 20/3 2018 w12
 
-		 1 lmju    Mats L        11
-		 1 magn    Mats G        11
- 		 1 wlar    Lars W        11
-		 4 meho    Mikael M      10
-		 5 ggan    Göte A         9
-                 5 kasm    Björn K        9
-		 5 rox     Roger R        9
-		 8 ikan    Ingvar K       8
-		 9 ajnn    Anders J       6
-                10 nicl    Niclas S       5
+		 1 magn    Mats G        12
+ 		 1 wlar    Lars W        12
+		 3 lmju    Mats L        11
+		 3 meho    Mikael M      11
+		 5 ggan    Göte A        10
+		 5 rox     Roger R       10
+		 7 ikan    Ingvar K       9
+                 7 kasm    Björn K        9
+		 9 ajnn    Anders J       7
+                10 nicl    Niclas S       6
+		11 kkst	   Katarina S	  4
                 11 rexe    Olof R         4
-		12 kkst	   Katarina S	  3
 		13 hano    Hans N         2
 		13 livi    Lisbeth V	  2
 		15 jesp    Jesper C       1
@@ -37,7 +37,9 @@
 		18 tors	   Henrik T	  0
 		18 tsjesv  Jeanette A	  0
 		18 umasaj  Umair S  	  0
-		
+
+Tisdag 20/3: ajnn,ggan,ikan,kkst,magn,meho,nicl,rox,wlar.
+             Akalla, mini-Akalla. 9st
 Tisdag 13/3: ajnn,ggan,ikan,kasm,kkst,lmju,magn,meho,rexe,rox,wlar.
              Akalla, mini-Akalla. Vattenpölar. 11st		
 Tisdag 6/3: ajnn,ggan,ikan,kasm,kkst,lmju,magn,meho,rox,wlar. Akalla. 10st
