@@ -1,17 +1,17 @@
-                Ställningen 20/3 2018 w12
+                Ställningen 27/3 2018 w13
 
-		 1 magn    Mats G        12
- 		 1 wlar    Lars W        12
-		 3 lmju    Mats L        11
-		 3 meho    Mikael M      11
-		 5 ggan    Göte A        10
-		 5 rox     Roger R       10
-		 7 ikan    Ingvar K       9
-                 7 kasm    Björn K        9
+		 1 magn    Mats G        13
+ 		 1 wlar    Lars W        13
+		 3 lmju    Mats L        12
+		 3 meho    Mikael M      12
+		 5 ggan    Göte A        11
+		 5 rox     Roger R       11
+		 7 ikan    Ingvar K      10
+                 7 kasm    Björn K       10
 		 9 ajnn    Anders J       7
-                10 nicl    Niclas S       6
-		11 kkst	   Katarina S	  4
-                11 rexe    Olof R         4
+                 9 nicl    Niclas S       7
+                11 rexe    Olof R         5
+		12 kkst	   Katarina S	  4
 		13 hano    Hans N         2
 		13 livi    Lisbeth V	  2
 		15 jesp    Jesper C       1
@@ -38,6 +38,8 @@
 		18 tsjesv  Jeanette A	  0
 		18 umasaj  Umair S  	  0
 
+Tisdag 27/3: ggan,ikan,kasm,lmju,magn,meho,nicl,rexe,rox,wlar.
+             Akalla. 10st. Nada Kryzzbärz
 Tisdag 20/3: ajnn,ggan,ikan,kkst,magn,meho,nicl,rox,wlar.
              Akalla, mini-Akalla. 9st
 Tisdag 13/3: ajnn,ggan,ikan,kasm,kkst,lmju,magn,meho,rexe,rox,wlar.
