@@ -1,43 +1,47 @@
-                Ställningen 27/3 2018 w13
+                Ställningen 3/4 2018 w14
 
-		 1 magn    Mats G        13
- 		 1 wlar    Lars W        13
-		 3 lmju    Mats L        12
-		 3 meho    Mikael M      12
-		 5 ggan    Göte A        11
-		 5 rox     Roger R       11
-		 7 ikan    Ingvar K      10
-                 7 kasm    Björn K       10
-		 9 ajnn    Anders J       7
-                 9 nicl    Niclas S       7
-                11 rexe    Olof R         5
+ 		 1 wlar    Lars W        14
+		 2 magn    Mats G        13
+		 2 lmju    Mats L        13
+		 2 meho    Mikael M      13
+		 5 rox     Roger R       12
+		 6 ggan    Göte A        11
+		 6 ikan    Ingvar K      11
+                 6 kasm    Björn K       11
+		 9 ajnn    Anders J       8
+                 9 nicl    Niclas S       8
+                11 rexe    Olof R         6
 		12 kkst	   Katarina S	  4
 		13 hano    Hans N         2
+		13 jesp    Jesper C       2
 		13 livi    Lisbeth V	  2
-		15 jesp    Jesper C       1
-		15 khnshr  Shehryar K	  1
-		15 prnm    Per N  	  1
-		18 bbnhhu  Robin H 	  0
-                18 fla     Finn L         0
-		18 hagand  Andreas H	  0
-		18 hajn    Håkan A        0
-		18 hem     Erik H 	  0
- 		18 henpeh  Henrik P       0
-		18 hrpras  Prashanth K	  0
- 		18 jkan    Håkan J        0
-		18 joarii  Joakim R       0
-		18 johost  Johan Ö	  0
- 		18 nikogr  Niklas Ö       0
-                18 nubu    Nuri E         0
-		18 petjoh  Peter J	  0
-		18 prstlj  Stefan L	  0
-		18 shab	   Samuel H	  0
-                18 stmn    Stefan M       0
-		18 thomee  Håkan T	  0
-		18 tors	   Henrik T	  0
-		18 tsjesv  Jeanette A	  0
-		18 umasaj  Umair S  	  0
+		13 prnm    Per N  	  2
+		17 khnshr  Shehryar K	  1
+		17 wancon  Jeff W         1
+		19 bbnhhu  Robin H 	  0
+                19 fla     Finn L         0
+		19 hagand  Andreas H	  0
+		19 hajn    Håkan A        0
+		19 hem     Erik H 	  0
+ 		19 henpeh  Henrik P       0
+		19 hrpras  Prashanth K	  0
+ 		19 jkan    Håkan J        0
+		19 joarii  Joakim R       0
+		19 johost  Johan Ö	  0
+ 		19 nikogr  Niklas Ö       0
+                19 nubu    Nuri E         0
+		19 petjoh  Peter J	  0
+		19 prstlj  Stefan L	  0
+		19 shab	   Samuel H	  0
+                19 stmn    Stefan M       0
+		19 thomee  Håkan T	  0
+		19 tors	   Henrik T	  0
+		19 tsjesv  Jeanette A	  0
+		19 umasaj  Umair S  	  0
 
+Tisdag 3/4: ajnn,ikan,jesp,kasm,lmju,meho,nicl,prnm,rexe,rox,wancon,wlar.
+            Akalla, mini-akalla, Ursvik. 12st
+	    
 Tisdag 27/3: ggan,ikan,kasm,lmju,magn,meho,nicl,rexe,rox,wlar.
              Akalla. 10st. Nada Kryzzbärz
 Tisdag 20/3: ajnn,ggan,ikan,kkst,magn,meho,nicl,rox,wlar.
