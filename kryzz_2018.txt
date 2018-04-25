@@ -1,15 +1,15 @@
-                Ställningen 10/4 2018 w15
+                Ställningen 17/4 2018 w16
 
- 		 1 wlar    Lars W        15
-		 2 magn    Mats G        14
-		 2 lmju    Mats L        14
-		 2 meho    Mikael M      14
-		 5 rox     Roger R       13
-		 6 ggan    Göte A        12
-		 6 ikan    Ingvar K      12
-                 6 kasm    Björn K       12
-		 9 ajnn    Anders J       9
-                 9 nicl    Niclas S       9
+ 		 1 wlar    Lars W        16
+		 2 magn    Mats G        15
+		 2 lmju    Mats L        15
+		 2 meho    Mikael M      15
+		 5 rox     Roger R       14
+		 6 ggan    Göte A        13
+		 6 ikan    Ingvar K      13
+                 6 kasm    Björn K       13
+		 9 ajnn    Anders J      10
+                10 nicl    Niclas S       9
                 11 rexe    Olof R         7
 		12 kkst	   Katarina S	  4
 		13 hano    Hans N         2
@@ -39,6 +39,8 @@
 		19 tsjesv  Jeanette A	  0
 		19 umasaj  Umair S  	  0
 
+Tisdag 17/4: ajnn,ggan,ikan,kasm,lmju,magn,meho,rox,wlar.
+             Ursvik 5km, 2X5km, 7km, 10km, Akalla. 9st
 Tisdag 10/4: ajnn,ggan,*ikan,kasm,lmju,magn,*meho,nicl,*rexe,rox,*wlar.
              Ursvik 5km, 7km, Akalla. 11st *=kryzzbärs Copperfieldz
 Tisdag 3/4: ajnn,ikan,jesp,kasm,lmju,meho,nicl,prnm,rexe,rox,wancon,wlar.
