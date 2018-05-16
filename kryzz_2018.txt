@@ -1,15 +1,15 @@
-                Ställningen 17/4 2018 w16
+                Ställningen 24/4 2018 w17
 
- 		 1 wlar    Lars W        16
-		 2 magn    Mats G        15
-		 2 lmju    Mats L        15
-		 2 meho    Mikael M      15
-		 5 rox     Roger R       14
-		 6 ggan    Göte A        13
-		 6 ikan    Ingvar K      13
-                 6 kasm    Björn K       13
-		 9 ajnn    Anders J      10
-                10 nicl    Niclas S       9
+ 		 1 wlar    Lars W        17
+		 2 magn    Mats G        16
+		 2 lmju    Mats L        16
+		 2 meho    Mikael M      16
+		 5 rox     Roger R       15
+		 6 ggan    Göte A        14
+                 6 kasm    Björn K       14
+		 8 ikan    Ingvar K      13
+		 9 ajnn    Anders J      11
+                10 nicl    Niclas S      10
                 11 rexe    Olof R         7
 		12 kkst	   Katarina S	  4
 		13 hano    Hans N         2
@@ -17,28 +17,30 @@
 		13 livi    Lisbeth V	  2
 		13 prnm    Per N  	  2
 		17 khnshr  Shehryar K	  1
+                17 stmn    Stefan M       1
 		17 wancon  Jeff W         1
-		19 bbnhhu  Robin H 	  0
-                19 fla     Finn L         0
-		19 hagand  Andreas H	  0
-		19 hajn    Håkan A        0
-		19 hem     Erik H 	  0
- 		19 henpeh  Henrik P       0
-		19 hrpras  Prashanth K	  0
- 		19 jkan    Håkan J        0
-		19 joarii  Joakim R       0
-		19 johost  Johan Ö	  0
- 		19 nikogr  Niklas Ö       0
-                19 nubu    Nuri E         0
-		19 petjoh  Peter J	  0
-		19 prstlj  Stefan L	  0
-		19 shab	   Samuel H	  0
-                19 stmn    Stefan M       0
-		19 thomee  Håkan T	  0
-		19 tors	   Henrik T	  0
-		19 tsjesv  Jeanette A	  0
-		19 umasaj  Umair S  	  0
-
+		20 bbnhhu  Robin H 	  0
+                20 fla     Finn L         0
+		20 hagand  Andreas H	  0
+		20 hajn    Håkan A        0
+		20 hem     Erik H 	  0
+ 		20 henpeh  Henrik P       0
+		20 hrpras  Prashanth K	  0
+ 		20 jkan    Håkan J        0
+		20 joarii  Joakim R       0
+		20 johost  Johan Ö	  0
+ 		20 nikogr  Niklas Ö       0
+                20 nubu    Nuri E         0
+		20 petjoh  Peter J	  0
+		20 prstlj  Stefan L	  0
+		20 shab	   Samuel H	  0
+		20 thomee  Håkan T	  0
+		20 tors	   Henrik T	  0
+		20 tsjesv  Jeanette A	  0
+		20 umasaj  Umair S  	  0
+		
+Tisdag 24/4: ajnn,ggan,kasm,lmju,magn,meho,nicl,rox,stmn,wlar.
+             Ursvik 5km, 7km, 10km, 15km extrem, Akalla. 10st
 Tisdag 17/4: ajnn,ggan,ikan,kasm,lmju,magn,meho,rox,wlar.
              Ursvik 5km, 2X5km, 7km, 10km, Akalla. 9st
 Tisdag 10/4: ajnn,ggan,*ikan,kasm,lmju,magn,*meho,nicl,*rexe,rox,*wlar.
