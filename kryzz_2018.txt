@@ -1,14 +1,14 @@
-                Ställningen 1/5 2018 w18
+                Ställningen 8/5 2018 w19
 
- 		 1 wlar    Lars W        17
-		 2 magn    Mats G        16
-		 2 lmju    Mats L        16
-		 2 meho    Mikael M      16
-		 5 rox     Roger R       15
-		 6 ggan    Göte A        14
+ 		 1 wlar    Lars W        18
+		 2 magn    Mats G        17
+		 2 lmju    Mats L        17
+		 2 meho    Mikael M      17
+		 5 rox     Roger R       16
+		 6 ggan    Göte A        15
                  6 kasm    Björn K       14
 		 8 ikan    Ingvar K      13
-		 9 ajnn    Anders J      11
+		 9 ajnn    Anders J      12
                 10 nicl    Niclas S      10
                 11 rexe    Olof R         7
 		12 kkst	   Katarina S	  4
@@ -16,29 +16,31 @@
 		13 jesp    Jesper C       2
 		13 livi    Lisbeth V	  2
 		13 prnm    Per N  	  2
+		17 hrpras  Prashanth K	  1
 		17 khnshr  Shehryar K	  1
                 17 stmn    Stefan M       1
 		17 wancon  Jeff W         1
-		20 bbnhhu  Robin H 	  0
-                20 fla     Finn L         0
-		20 hagand  Andreas H	  0
-		20 hajn    Håkan A        0
-		20 hem     Erik H 	  0
- 		20 henpeh  Henrik P       0
-		20 hrpras  Prashanth K	  0
- 		20 jkan    Håkan J        0
-		20 joarii  Joakim R       0
-		20 johost  Johan Ö	  0
- 		20 nikogr  Niklas Ö       0
-                20 nubu    Nuri E         0
-		20 petjoh  Peter J	  0
-		20 prstlj  Stefan L	  0
-		20 shab	   Samuel H	  0
-		20 thomee  Håkan T	  0
-		20 tors	   Henrik T	  0
-		20 tsjesv  Jeanette A	  0
-		20 umasaj  Umair S  	  0
-		
+		21 bbnhhu  Robin H 	  0
+                21 fla     Finn L         0
+		21 hagand  Andreas H	  0
+		21 hajn    Håkan A        0
+		21 hem     Erik H 	  0
+ 		21 henpeh  Henrik P       0
+ 		21 jkan    Håkan J        0
+		21 joarii  Joakim R       0
+		21 johost  Johan Ö	  0
+ 		21 nikogr  Niklas Ö       0
+                21 nubu    Nuri E         0
+		21 petjoh  Peter J	  0
+		21 prstlj  Stefan L	  0
+		21 shab	   Samuel H	  0
+		21 thomee  Håkan T	  0
+		21 tors	   Henrik T	  0
+		21 tsjesv  Jeanette A	  0
+		21 umasaj  Umair S  	  0
+
+Tisdag 8/5: ajnn,ggan,hrpras,lmju,magn,meho,rox,wlar.
+            Ursvik 5km, 7km, 10km, 15km extrem, Akalla. 8st		
 Tisdag 1/5:  1:a maj
 
 Tisdag 24/4: ajnn,ggan,kasm,lmju,magn,meho,nicl,rox,stmn,wlar.
