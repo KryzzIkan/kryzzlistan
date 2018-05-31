@@ -1,44 +1,47 @@
-                Ställningen 8/5 2018 w19
+                Ställningen 15/5 2018 w20
 
- 		 1 wlar    Lars W        18
-		 2 magn    Mats G        17
-		 2 lmju    Mats L        17
-		 2 meho    Mikael M      17
-		 5 rox     Roger R       16
-		 6 ggan    Göte A        15
-                 6 kasm    Björn K       14
+ 		 1 wlar    Lars W        19
+		 2 magn    Mats G        18
+		 2 lmju    Mats L        18
+		 2 meho    Mikael M      18
+		 5 rox     Roger R       17
+		 6 ggan    Göte A        16
+                 7 kasm    Björn K       15
+		 8 ajnn    Anders J      13
 		 8 ikan    Ingvar K      13
-		 9 ajnn    Anders J      12
                 10 nicl    Niclas S      10
                 11 rexe    Olof R         7
-		12 kkst	   Katarina S	  4
-		13 hano    Hans N         2
-		13 jesp    Jesper C       2
-		13 livi    Lisbeth V	  2
-		13 prnm    Per N  	  2
-		17 hrpras  Prashanth K	  1
-		17 khnshr  Shehryar K	  1
-                17 stmn    Stefan M       1
-		17 wancon  Jeff W         1
-		21 bbnhhu  Robin H 	  0
-                21 fla     Finn L         0
-		21 hagand  Andreas H	  0
-		21 hajn    Håkan A        0
-		21 hem     Erik H 	  0
- 		21 henpeh  Henrik P       0
- 		21 jkan    Håkan J        0
-		21 joarii  Joakim R       0
-		21 johost  Johan Ö	  0
- 		21 nikogr  Niklas Ö       0
-                21 nubu    Nuri E         0
-		21 petjoh  Peter J	  0
-		21 prstlj  Stefan L	  0
-		21 shab	   Samuel H	  0
-		21 thomee  Håkan T	  0
-		21 tors	   Henrik T	  0
-		21 tsjesv  Jeanette A	  0
-		21 umasaj  Umair S  	  0
-
+		12 kkst	   Katarina S	  5
+		13 hano    Hans N         3
+		14 hrpras  Prashanth K	  2
+		14 jesp    Jesper C       2
+		14 livi    Lisbeth V	  2
+		14 prnm    Per N  	  2
+                14 stmn    Stefan M       2
+		19 hajn    Håkan A        1
+		19 khnshr  Shehryar K	  1
+		19 prstlj  Stefan L	  1
+		19 wancon  Jeff W         1
+		23 bbnhhu  Robin H 	  0
+                23 fla     Finn L         0
+		23 hagand  Andreas H	  0
+		23 hem     Erik H 	  0
+ 		23 henpeh  Henrik P       0
+ 		23 jkan    Håkan J        0
+		23 joarii  Joakim R       0
+		23 johost  Johan Ö	  0
+ 		23 nikogr  Niklas Ö       0
+                23 nubu    Nuri E         0
+		23 petjoh  Peter J	  0
+		23 shab	   Samuel H	  0
+		23 thomee  Håkan T	  0
+		23 tors	   Henrik T	  0
+		23 tsjesv  Jeanette A	  0
+		23 umasaj  Umair S  	  0
+		
+Tisdag 15/5: ajnn,ggan,hajn,*hano,hrpras,kasm,kkst,*lmju,magn,meho,prstlj,rox,*stmn,wlar.
+             Klubbmatch Telia Ursvik 5km, 10km(2X5km).
+	     Seger 40-39. 11st+11st ej kryzzlöpare. *= 3st kryzzrunda Ursvik.
 Tisdag 8/5: ajnn,ggan,hrpras,lmju,magn,meho,rox,wlar.
             Ursvik 5km, 7km, 10km, 15km extrem, Akalla. 8st		
 Tisdag 1/5:  1:a maj
