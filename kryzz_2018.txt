@@ -1,16 +1,16 @@
-                Ställningen 22/5 2018 w21
+                Ställningen 29/5 2018 w22
 
- 		 1 wlar    Lars W        21
-		 2 meho    Mikael M      20
-		 3 magn    Mats G        19
-		 3 lmju    Mats L        19
-		 5 rox     Roger R       18
-		 6 ggan    Göte A        17
-                 6 kasm    Björn K       17
+ 		 1 wlar    Lars W        22
+		 2 meho    Mikael M      21
+		 3 magn    Mats G        20
+		 3 lmju    Mats L        20
+		 5 rox     Roger R       19
+		 6 ggan    Göte A        18
+                 6 kasm    Björn K       18
 		 8 ajnn    Anders J      14
 		 9 ikan    Ingvar K      13
                 10 nicl    Niclas S      10
-                11 rexe    Olof R         8
+                11 rexe    Olof R         9
 		12 kkst	   Katarina S	  5
 		13 hano    Hans N         3
                 13 stmn    Stefan M       3
@@ -38,7 +38,9 @@
 		23 tors	   Henrik T	  0
 		23 tsjesv  Jeanette A	  0
 		23 umasaj  Umair S  	  0
-
+		
+Tisdag 29/5: ggan,*kasm,*lmju,magn,*meho,*rexe,rox,*wlar.
+             Ursvik 5km, 7km, 7,5km, 10km, Akalla. 8st *=kryzzbärs Duvel Café.
 Tisdag 22/5: ggan,kasm,lmju,magn,meho,rox,stmn,wlar.
              Ursvik 5km, 7km, 10km, 15km extrem, Akalla. 8st
 Lördag 19/5: ajnn,kasm,meho,prstlj,rexe,wlar.
