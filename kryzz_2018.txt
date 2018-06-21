@@ -1,24 +1,24 @@
-                Ställningen 5/6 2018 w23
+                Ställningen 12/6 2018 w24
 
- 		 1 wlar    Lars W        23
-		 2 meho    Mikael M      22
-		 3 magn    Mats G        21
-		 3 lmju    Mats L        20
-		 5 ggan    Göte A        19
-                 5 kasm    Björn K       19
-		 5 rox     Roger R       19
-		 8 ajnn    Anders J      15
+ 		 1 wlar    Lars W        24
+		 2 meho    Mikael M      23
+		 3 magn    Mats G        22
+		 3 lmju    Mats L        21
+		 5 ggan    Göte A        20
+                 5 kasm    Björn K       20
+		 5 rox     Roger R       20
+		 8 ajnn    Anders J      16
 		 9 ikan    Ingvar K      13
                 10 nicl    Niclas S      10
                 10 rexe    Olof R        10
 		12 kkst	   Katarina S	  5
-		13 hano    Hans N         3
-		13 prnm    Per N  	  3
-                13 stmn    Stefan M       3
-		16 hrpras  Prashanth K	  2
-		16 jesp    Jesper C       2
-		16 livi    Lisbeth V	  2
-		16 prstlj  Stefan L	  2
+		13 prnm    Per N  	  4
+		14 hano    Hans N         3
+		14 livi    Lisbeth V	  3
+                14 stmn    Stefan M       3
+		17 hrpras  Prashanth K	  2
+		17 jesp    Jesper C       2
+		17 prstlj  Stefan L	  2
 		20 hajn    Håkan A        1
 		20 khnshr  Shehryar K	  1
 		20 wancon  Jeff W         1
@@ -38,7 +38,9 @@
 		23 tors	   Henrik T	  0
 		23 tsjesv  Jeanette A	  0
 		23 umasaj  Umair S  	  0
-
+		
+Tisdag 12/6: ajnn,ggan,kasm,livi,lmju,magn,meho,prnm,rox,wlar.
+             Ursvik 5km, 7km, 10km. 10st
 Tisdag 5/6: ajnn,ggan,kasm,magn,meho,prnm,rexe,wlar.
             Ursvik 5km, 7km, 10km. 8st
 
