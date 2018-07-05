@@ -1,19 +1,19 @@
-                Ställningen 19/6 2018 w25
+                Ställningen 26/6 2018 w26
 
- 		 1 wlar    Lars W        25
-		 2 meho    Mikael M      24
-		 3 magn    Mats G        23
-		 4 ggan    Göte A        21
-		 4 lmju    Mats L        21
-		 4 rox     Roger R       21
-                 7 kasm    Björn K       20
-		 8 ajnn    Anders J      17
-		 9 ikan    Ingvar K      13
+ 		 1 wlar    Lars W        26
+		 2 meho    Mikael M      25
+		 3 magn    Mats G        24
+		 4 lmju    Mats L        22
+		 4 rox     Roger R       22
+		 6 ggan    Göte A        21
+                 6 kasm    Björn K       21
+		 8 ajnn    Anders J      18
+		 9 ikan    Ingvar K      14
                 10 nicl    Niclas S      10
                 10 rexe    Olof R        10
 		12 kkst	   Katarina S	  5
-		13 livi    Lisbeth V	  4
-		13 prnm    Per N  	  4
+		12 livi    Lisbeth V	  5
+		12 prnm    Per N  	  5
 		15 hano    Hans N         3
                 15 stmn    Stefan M       3
 		17 hrpras  Prashanth K	  2
@@ -38,7 +38,9 @@
 		23 tors	   Henrik T	  0
 		23 tsjesv  Jeanette A	  0
 		23 umasaj  Umair S  	  0
-
+		
+Tisdag 26/6: ajnn,ikan,kasm,livi,lmju,magn,meho,prnm,rox,wlar.
+             Ursvik 5km, 7km, 10km, Akalla. 10st
 Tisdag 19/6: ajnn,ggan,livi,magn,meho,rox,wlar.
              Ursvik 5km, 7km, 10km. 7st
 Tisdag 12/6: ajnn,ggan,kasm,livi,lmju,magn,meho,prnm,rox,wlar.
